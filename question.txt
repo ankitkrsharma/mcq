@@ -1,0 +1,1844 @@
+
+========== CHUNK 1 =========
+[
+  {
+    "id": 1,
+    "topic": "Growth vs Development",
+    "question": "Which of the following is NOT related to Growth?",
+    "options": [
+      "Growth is external (Exogenous)",
+      "It is related to Growth Spurt",
+      "It refers to structural changes",
+      "It is quantitative and qualitative"
+    ],
+    "correct_option": 4,
+    "answer": "Growth is quantitative and qualitative",
+    "explanation": "The speaker explains that Growth (वृद्धि) is primarily related to physical, structural (संरचनात्मक), and measurable changes (quantitative), such as increases in height or weight (5:10, 9:10). Growth is external (बाह्य) and stops upon reaching maturity (7:34). However, Growth is *only* quantitative (मात्रात्मक) and does not involve qualitative (गुणात्मक) changes like improvements in thinking or emotional maturity. The combination of both quantitative and qualitative change is characteristic of Development, not Growth. Since the question asks for the statement that is NOT related to Growth, the statement defining it as both quantitative and qualitative is the correct negative choice (10:44-10:56)."
+  },
+  {
+    "id": 2,
+    "topic": "Characteristics of Development",
+    "question": "Which of the following is NOT a characteristic of Development?",
+    "options": [
+      "It is a progressive series of changes.",
+      "It is a sequential series.",
+      "It is considered a discontinuous (non-continuous) process.",
+      "It is cumulative in nature."
+    ],
+    "correct_option": 3,
+    "answer": "It is considered a discontinuous (non-continuous) process.",
+    "explanation": "The explanation details that Development (विकास) is a life-long process (जीवन भर चलने वाली प्रक्रिया) that starts from the womb (गर्भ) and continues until death (कब्र तक) (14:09-14:16). This defines development as a continuous process, which is also sequential (क्रमबद्ध) and progressive (प्रगतिशील) in nature. Therefore, stating that development is 'discontinuous' (अनिरंतर or असतत) directly contradicts the fundamental characteristic of development being a life-long, continuous process."
+  }
+]
+```
+
+========== CHUNK 2 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Characteristics and Principles of Development",
+    "question": "Which of the following is NOT considered a fundamental characteristic or principle of development?",
+    "options": [
+      "Development is a progressive series of changes.",
+      "Development occurs in a fixed sequence.",
+      "Development is cumulative in nature.",
+      "Development is a discontinuous process."
+    ],
+    "correct_option": 4,
+    "answer": "Development is a discontinuous process.",
+    "explanation": "Development is a continuous process that begins from the period of conception ('Womb to Tomb') and continues until death. It is gradual and ongoing. While some stage theorists (like Piaget, Kohlberg, and Erikson) previously emphasized discontinuity (stages), the current consensus in psychology is that development is fundamentally continuous. The other options (progressive, sequential, and cumulative) are confirmed principles of development."
+  }
+]
+```
+
+========== CHUNK 3 ==========
+This transcript contains detailed discussion and analysis leading to one complete Multiple Choice Question (MCQ) based on developmental debates, and the beginning of a second Assertion/Reason question which is truncated.
+
+Here is the extracted question and explanation in the required JSON format:
+
+```json
+[
+  {
+    "id": 1,
+    "topic": "Developmental Debates (Nature vs. Nurture)",
+    "question": "Developmental issues have been debated for years. In the contemporary perspective, a prominent issue arises when a child achieves outstanding academic performance in school despite having an innate disability. Which developmental debate does this scenario illustrate?",
+    "options": [
+      "Continuity versus Discontinuity",
+      "Entity versus Incremental View (Ability)",
+      "Heredity versus Environment (Nature vs. Nurture)",
+      "Activity versus Passivity"
+    ],
+    "correct_option": 3,
+    "answer": "Heredity versus Environment (Nature vs. Nurture)",
+    "explanation": "The scenario presents a conflict between an inherent characteristic (an innate/congenital disability, representing Heredity/Nature) and observed outcome (outstanding academic performance, which is heavily influenced by quality schooling and support, representing Environment/Nurture). This debate revolves around the relative importance of biological inheritance versus environmental influences (like family, school, peers, and culture) in shaping a child's development. The fact that the child overcame an innate limitation through environmental support (school) highlights the critical and reciprocal role of both factors."
+  }
+]
+```
+*(Note: The second question, an Assertion/Reason type starting at 43:05, is incomplete in the provided transcript, cutting off before the full Assertion, Reason, and subsequent options are stated.)*
+
+========== CHUNK 4 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Heredity and Environment in Development",
+    "question_type": "Assertion and Reason (A/R)",
+    "question": "Assertion (A): The sole cause for the late acquisition of developmental milestones (like walking, speaking, or social behavior) is heredity.\n\nReason (R): Environmental factors present in a child's development, such as nutrition, health, family environment, and learning opportunities, play no role in development.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correct_option": 4,
+    "answer": "Both A and R are false.",
+    "explanation": "Developmental milestones are influenced by both heredity and environment. The assertion (A) is false because it states heredity is the 'sole' cause. The reason (R) is also false because it states environmental factors (like nutrition, learning opportunities, and family) play 'no role,' when in fact, they play a crucial and significant role in development. Therefore, both the assertion and the reason are incorrect statements."
+  },
+  {
+    "id": 2,
+    "topic": "Dimensions of Development",
+    "question": "Development is multidimensional. Which dimension of development involves a child utilizing thought processes to reason about a subject, engaging in imagination, building memory (sensory, short-term, long-term), displaying attention, and solving problems?",
+    "options": [
+      "Physical Development",
+      "Emotional Development",
+      "Social Development",
+      "None of these"
+    ],
+    "correct_option": 4,
+    "answer": "None of these (as the correct answer is Cognitive Development)",
+    "explanation": "The processes listed—reasoning, imagination, memory, attention, and problem-solving—are all high-level mental processes associated with thinking and understanding. These fall under the category of Cognitive Development (or Mental Development). Since Cognitive Development is not listed in the first three options, 'None of these' is the correct choice in the context of the given options. The speaker confirms the correct dimension is 'Cognitive Development' (संज्ञानात्मक विकास)."
+  },
+  {
+    "id": 3,
+    "topic": "Emotional and Social Development",
+    "question_type": "Assertion and Reason (A/R)",
+    "question": "Assertion (A): During a game, Vaibhav pushed Lalit, but Lalit did not express anger because he believed it was part of the game.\n\nReason (R): Interpersonal skills (Interpersonal Skills) are meaningful for emotional development.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correct_option": 1,
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Assertion (A) is true: Lalit showing control over his anger despite being pushed indicates emotional maturity and control, which is a component of emotional development. Reason (R) is also true: Interpersonal skills (the ability to understand and relate to others, including their motivations and emotions) are crucial for fostering robust emotional development (controlling one’s own emotions based on context). Since Lalit's ability to interpret the push as 'part of the game' is a function of his social-emotional understanding (facilitated by interpersonal skills), R correctly explains A."
+  },
+  {
+    "id": 4,
+    "topic": "Principles of Development",
+    "question": "Which principle of development specifies that, for a child's holistic formation (physical, cognitive, social, and emotional), certain specific responses are coordinated with later developmental processes?",
+    "options": [
+      "Principle of Continuity",
+      "Linear Principle",
+      "Principle of Predictability",
+      "Principle of Integration"
+    ],
+    "correct_option": 4,
+    "answer": "Principle of Integration",
+    "explanation": "The Principle of Integration states that development proceeds from general, whole responses to specific, coordinated responses, and these responses are ultimately linked or integrated. For example, a child first uses their whole hand (general/gross motor skills) to grasp, and later integrates these movements with specific finger movements (fine motor skills) to write. The coordination of different developmental aspects (like thinking while writing, or gross and fine motor skills) highlights the integrated nature of development."
+  }
+]
+```
+
+========== CHUNK 5 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Motor Skills (Gross and Fine)",
+    "question": "Which of the following options correctly pairs a Gross Motor Skill (GMS) followed by a Fine Motor Skill (FMS)?",
+    "options": [
+      "Running and Weaving (Knitting)",
+      "Cutting a circle following an outline on paper and Cutting a large rectangle following an outline on paper",
+      "Holding a pen for drawing and Stringing beads on a thread",
+      "Scribbling (random lines) and Clapping"
+    ],
+    "correct_option": 1,
+    "answer": "Running and Weaving (Knitting)",
+    "explanation": "Gross Motor Skills involve the use of large muscles (like arms, legs, torso) and are used for activities such as running, jumping, and cycling. Fine Motor Skills involve the use of small muscles, typically in the hands and fingers, and require precision (like writing, buttoning, or stringing beads). Running uses large muscles (GMS), while weaving/knitting requires precise use of fingers (FMS). Therefore, option 1 is the correct pairing of GMS and FMS."
+  },
+  {
+    "id": 2,
+    "topic": "Principles of Development",
+    "question": "The Proximodistal principle of development is NOT illustrated by which of the following examples?",
+    "options": [
+      "Most children learn to hold a glass before learning to hold a pen.",
+      "Development proceeds from the center to the periphery.",
+      "The infant first acquires Gross Motor Skills and then Fine Motor Skills.",
+      "Development proceeds in a longitudinal, head-down axis direction."
+    ],
+    "correct_option": 4,
+    "answer": "Development proceeds in a longitudinal, head-down axis direction.",
+    "explanation": "The Proximodistal principle states that development proceeds from the center of the body outwards (i.e., control over the torso and core develops before control over the extremities like hands and fingers). Options 1, 2, and 3 all describe aspects of Proximodistal development (center to outside, Gross before Fine). Option 4, 'Development proceeds in a longitudinal, head-down axis direction' (सिर से पैर की ओर—Head to Toe), describes the Cephalocaudal principle, not the Proximodistal principle. Since the question asks for the option that is NOT an illustration of Proximodistal development, option 4 is the correct answer."
+  },
+  {
+    "id": 3,
+    "topic": "Developmental Factors (Health and Learning)",
+    "question_type": "Assertion and Reason",
+    "assertion": {
+      "statement": "A child who is malnourished or underfed may be unable to achieve learning outcomes (learning outcomes).",
+      "is_correct": true
+    },
+    "reason": {
+      "statement": "The negative developmental outcomes for a severely affected child can be easily changed in later years.",
+      "is_correct": false
+    },
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correct_option": 3,
+    "answer": "A is true, but R is false.",
+    "explanation": "Assertion (A) is correct: Proper nourishment (diet, food, health) is crucial for physical and cognitive development, and malnutrition severely impedes a child's ability to concentrate and perform academically, thereby affecting learning outcomes. Reason (R) is false: While some deficits can be managed, severe developmental outcomes, especially those arising from prolonged malnutrition during critical periods, are often difficult, if not impossible, to reverse completely in later years. Thus, A is true, but R is false."
+  }
+]
+```
+
+========== CHUNK 6 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Interconnectedness of Development and Childhood Trauma",
+    "type": "Assertion and Reason",
+    "assertion": "A: The various dimensions of development, such as physical, cognitive, social, and emotional domains, are interrelated and mutually influence one another.",
+    "reason": "R: The consequences of a severely distressed childhood can be easily reversed in later years.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correct_option": 3,
+    "answer": "A is true, but R is false.",
+    "explanation": "The Assertion (A) is true because development is holistic; issues in one area (e.g., physical malnutrition) negatively impact other areas (e.g., cognitive learning, emotional resilience). The Reason (R) is false. Significant negative events or trauma experienced during childhood (like harassment or living in constant fear) leave lifelong impacts. While their effects may lessen over time, they cannot be easily or completely reversed or changed in later years. Therefore, A is correct, but R is incorrect."
+  },
+  {
+    "id": 2,
+    "topic": "Individual Differences in Learning",
+    "question": "A teacher observes that some students solve problems very quickly, while others take more time. Furthermore, some students develop an understanding of a concept or question by listening (auditory input), while others require visual examples (visual input). Which theoretical principle does this scenario demonstrate?",
+    "options": [
+      "Socialization",
+      "Individual Differences",
+      "Gender Role",
+      "Group Learning"
+    ],
+    "correct_option": 2,
+    "answer": "Individual Differences",
+    "explanation": "The scenario describes variations in the pace of learning (time taken to solve problems) and differences in preferred learning styles (auditory vs. visual learners). These variations highlight that every student is unique in their capabilities, interests, and learning preferences, which is the core concept of Individual Differences."
+  },
+  {
+    "id": 3,
+    "topic": "Role of Teacher in Individual Differences",
+    "question": "Understanding Individual Differences helps a teacher in which of the following aspects? \n\n(A) Designing course material.\n(B) Planning training programs.\n(C) Designing teaching strategies.\n(D) Understanding the subject matter (content).\n(E) Making adjustments according to students' needs.",
+    "options": [
+      "A, B, C, and E only",
+      "B, C, D, and E only",
+      "A, C, D, and E only",
+      "A, B, C, D, and E"
+    ],
+    "correct_option": 1,
+    "answer": "A, B, C, and E only",
+    "explanation": "Understanding the diversity of students (Individual Differences) is crucial for effective teaching. A teacher needs to: (A) Design course material that caters to slow learners, average students, and gifted students; (B) Plan training programs that address diverse student needs; (C) Use varied teaching strategies (like play-way or project method) to match different learning styles; and (E) Adjust the curriculum and teaching plans based on student needs. Option (D) is incorrect because understanding the subject matter is the teacher's foundational professional responsibility, independent of the students' individual differences."
+  },
+  {
+    "id": 4,
+    "topic": "Characteristics of Developmental Changes",
+    "question": "Which statement accurately describes developmental changes (Developmental Changes)?",
+    "options": [
+      "They occur in a planned and systematic/ordered manner.",
+      "They occur very rapidly during infancy and then cease until adolescence.",
+      "They reflect morality during infancy.",
+      "None of these."
+    ],
+    "correct_option": 1,
+    "answer": "They occur in a planned and systematic/ordered manner.",
+    "explanation": "Development follows a general pattern (cephalocaudal, proximodistal) and proceeds sequentially (in an ordered manner), although the rate varies individually. Development does not cease before adolescence, nor is infancy the stage where morality is fully reflected. Therefore, the most accurate characteristic is that developmental changes are systematic and orderly."
+  }
+]
+```
+
+========== CHUNK 7 ==========
+This transcript contains three distinct multiple-choice questions (MCQs) related to Child Development and Pedagogy.
+
+```json
+[
+  {
+    "id": 1,
+    "topic": "Characteristics of Developmental Change",
+    "question": "Which of the following statements is an accurate characteristic of developmental changes?",
+    "options": [
+      "Developmental changes are planned and orderly.",
+      "Developmental changes occur only rapidly in the infancy stage.",
+      "There is no physical growth (Vriddhi) during adolescence.",
+      "Infants (during the Infancy stage) demonstrate morality."
+    ],
+    "correct_option": 1,
+    "answer": "Developmental changes are planned and orderly.",
+    "explanation": "Developmental changes are not random; they occur in a systematic, planned (Niyojit), and orderly (Krambaddh) sequence, such as the stages of development (Infancy, Childhood, Adolescence). The statement that there is no growth in adolescence is incorrect, as this stage experiences rapid growth (Growth Spurt). The statement that infants demonstrate morality is incorrect, as morality is absent or minimal in infancy."
+  },
+  {
+    "id": 2,
+    "topic": "Early Childhood (2-6 years) as a Period of Development",
+    "question": "A teacher observed a newly admitted child displaying undesirable language and behavior. After diagnosis, the teacher discussed this with the parents in a PTM, suggesting they must maintain good language and behavior, as the child learned these behaviors through imitation (Anukaran) from them. In this context, Early Childhood (Prarambhik Balya Awastha, 2-6 years) is best described as which kind of period?",
+    "options": [
+      "Sensitive Period",
+      "Critical Period",
+      "Period of Limited Exposure",
+      "Both Sensitive and Critical Period"
+    ],
+    "correct_option": 4,
+    "answer": "Both Sensitive and Critical Period",
+    "explanation": "Early Childhood (2 to 6 years) is considered both a Sensitive and a Critical Period for development, particularly for language acquisition and the formation of basic habits and social behaviors, as children at this stage learn extensively through imitation (copying) of their parents and environment. Therefore, the environmental influences during this time are crucial for shaping the child's development."
+  },
+  {
+    "id": 3,
+    "topic": "Gender Differences in Priorities during Middle Childhood",
+    "question": "Girls in Middle Childhood (6-11 years) prioritize familial relationships and ____, while boys prioritize social ____.",
+    "options": [
+      "Reciprocal relationships (Parasparik Sambandh); Prestige/Status (Pratishtha)",
+      "Reciprocal relationships (Parasparik Sambandh); Language",
+      "Language; Skills",
+      "Skills; Language"
+    ],
+    "correct_option": 1,
+    "answer": "Reciprocal relationships (Parasparik Sambandh); Prestige/Status (Pratishtha)",
+    "explanation": "In Middle Childhood (6-11 years, often called the 'Gang Age'), there are noticeable gender differences in social priorities. Girls tend to prioritize deep, reciprocal relationships with friends and family. Boys, conversely, often place higher value on social prestige, status, and establishing their position within the peer group (creating a 'bhaukaal' or image)."
+  }
+]
+```
+
+========== CHUNK 8 ==========
+The following MCQ questions have been extracted from the transcript.
+
+## Extracted Questions
+
+```json
+[
+  {
+    "id": 1,
+    "topic": "Adolescence (Characteristics)",
+    "question": "Which of the following are characteristics of adolescents (12 to 18 years)?\n\nSelect the correct combination from the codes given below.",
+    "list_of_characteristics": [
+      {"code": "A", "description": "Increasing independence from adult control."},
+      {"code": "B", "description": "Rapid psychological changes occur."},
+      {"code": "C", "description": "Emotionally mature (emotionally stable)."},
+      {"code": "D", "description": "A transitional period (transition from childhood to adulthood)."},
+      {"code": "E", "description": "Hormonal changes are observed."}
+    ],
+    "options": [
+      "A, B, C, D",
+      "B, C, D, E",
+      "A, C, D, E",
+      "A, B, D, E"
+    ],
+    "correct_option": 4,
+    "answer": "A, B, D, E",
+    "explanation": "Adolescence is marked by rapid physical and psychological changes, a quest for independence from parents, and significant hormonal changes. It is a critical transitional period (storm and stress). However, adolescents are characteristically emotionally unstable and prone to mood swings, not emotionally mature or stable. Therefore, statement C is incorrect, making the combination A, B, D, E the correct set of characteristics."
+  },
+  {
+    "id": 2,
+    "topic": "Emotions and Cognitive Development",
+    "question": "Read the following statements (Assertion and Reason) and choose the correct option.",
+    "assertion_reason": {
+      "Assertion (A)": "It is essential for teachers to pay attention to students' social and emotional needs in addition to their academic learning.",
+      "Reason (R)": "Emotions play a vital role in a child's cognitive ability, learning, and holistic development."
+    },
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "Both (A) and (R) are false."
+    ],
+    "correct_option": 1,
+    "answer": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+    "explanation": "Teachers must address the whole child, including social and emotional needs, because emotions (R) significantly impact cognitive functions, academic learning, and overall holistic development (A). A student who is emotionally distressed or socially isolated will struggle with learning, confirming that the Reason provides a valid justification for the Assertion."
+  }
+]
+```
+
+========== CHUNK 9 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Socialization and Human Learning",
+    "question": "Which of the following statements correctly describes socialization and human learning? (Select all that apply)",
+    "options": [
+      "It is a lifelong process.",
+      "It helps the individual assimilate social principles, values, and symbols.",
+      "Socialization is a complex process as well as an informal process.",
+      "An individual's dialogue (communication) is influenced by social interaction.",
+      "Most human behaviors are learned, not innate, which reflects the flexibility of human nature."
+    ],
+    "correct_option": 3,
+    "answer": "All statements (1, 2, 3, 4, and 5) are correct.",
+    "explanation": "Socialization and learning are continuous, lifelong processes. Statement 1 is true as one learns from society until death. Statement 2 is true because socialization transmits societal values, symbols, and principles (like cooperation and justice). Statement 3 is true; socialization is complex (involving various interactions and adaptations) and occurs both formally (in school) and informally (at home or in the community). Statement 4 is true, as communication skills and content are heavily influenced by social interactions. Statement 5 is true; most human behavior is acquired through observation, imitation, and learning within the social environment (flexibility), rather than being solely innate/instinctive. Since all statements describe these processes accurately, all are correct."
+  },
+  {
+    "id": 2,
+    "topic": "Agencies of Socialization",
+    "question": "In the early years of life, a child is mainly influenced by ______ socialization agencies. As the child moves into middle childhood and interacts with school, peers, and media, ______ agencies become important.",
+    "options": [
+      "Primary, Tertiary",
+      "Primary, Secondary",
+      "Secondary, Primary",
+      "Tertiary, Primary"
+    ],
+    "correct_option": 2,
+    "answer": "Primary, Secondary",
+    "explanation": "Socialization is typically categorized into primary and secondary agencies. Primary socialization occurs first and is centered around the family during infancy/early childhood, where the child learns basic behaviors and language (like the mother tongue). Secondary socialization occurs later (typically starting in middle childhood) when the child interacts with external institutions like school, peers, religious institutions, and media. Therefore, the correct sequence is Primary, followed by Secondary."
+  },
+  {
+    "id": 3,
+    "topic": "Gender and Social Expectations",
+    "question": "Deepak's school encourages all students equally in sports and arts. Previously, boys were expected to play football and girls to paint. Now, girls excel in football and boys in art. This change occurred because the school challenged traditional social expectations regarding what boys and girls can do. This scenario illustrates which principle?",
+    "options": [
+      "Gender is biologically determined (fixed).",
+      "Gender is a social construct.",
+      "Gender identity is innate.",
+      "Gender roles cannot change."
+    ],
+    "correct_option": 2,
+    "answer": "Gender is a social construct.",
+    "explanation": "The scenario highlights how societal expectations regarding suitable activities for boys and girls (gender roles) have been successfully changed by the school's policy. If gender were biologically determined (Sex), these roles would be fixed and resistant to social change. Since the traditional expectations (gender stereotypes) were challenged and the roles proved flexible and changeable, this demonstrates that gender is a Social Construct—a set of roles, behaviors, and expectations defined and imposed by society, rather than biology."
+  }
+]
+```
+
+========== CHUNK 10 ==========
+The following are the multiple-choice questions (MCQs) extracted from the provided transcript, focusing on the concepts of Sex, Gender, Stereotype, and Bias.
+
+```json
+[
+  {
+    "id": 1,
+    "topic": "Gender Role vs. Gender Identity",
+    "question": "Which term refers to the behaviors, skills, interests, attitudes, and personality traits that society expects of men and women, and how is this concept shaped?",
+    "options": [
+      "Gender Identity; Culturally shaped",
+      "Gender Identity; Genetically determined",
+      "Gender Role; Culturally shaped",
+      "Gender Role; Genetically determined"
+    ],
+    "correct_option": 3,
+    "answer": "Gender Role; Culturally shaped",
+    "explanation": "The term describing the set of expected behaviors, skills, and personality traits assigned to individuals based on their perceived sex is 'Gender Role'. Since these expectations (like boys playing with guns/cars and girls playing with dolls/kitchen sets, or men working outside and women handling domestic chores) are determined by societal norms and expectations rather than biology, gender roles are considered culturally and socially shaped (Social Construct), making them dynamic."
+  },
+  {
+    "id": 2,
+    "topic": "Gender Stereotype",
+    "question": "During a class discussion about family roles, some students express the view that the father should make all important decisions and earn money, while the mother should stay home and exclusively handle domestic work. The teacher considers this expression of thinking as an example of what concept?",
+    "options": [
+      "Gender Stereotyping",
+      "Gender Equity",
+      "Gender Flexibility",
+      "Gender Equality"
+    ],
+    "correct_option": 1,
+    "answer": "Gender Stereotyping",
+    "explanation": "Gender Stereotyping refers to the rigid, generalized, and often prejudiced beliefs or assumptions about the characteristics, roles, and behaviors that are appropriate for men and women. The belief that men must earn money and make decisions (being the 'head of the family') while women must stay home for domestic chores is a classic example of a gender stereotype, rooted in patriarchal societal structure."
+  },
+  {
+    "id": 3,
+    "topic": "Gender Bias",
+    "question": "Which of the following is a clear example of Gender Bias in the classroom?",
+    "options": [
+      "Encouraging all students equally to participate in STEM (Science, Technology, Engineering, and Mathematics) activities.",
+      "Giving math questions only to boys and assigning art projects only to girls.",
+      "Ensuring that both boys and girls have equal access to the playground equipment.",
+      "Providing specific resources to support students who are struggling academically, regardless of gender."
+    ],
+    "correct_option": 2,
+    "answer": "Giving math questions only to boys and assigning art projects only to girls.",
+    "explanation": "Gender bias occurs when a teacher or authority figure acts upon a gender stereotype, leading to differential or unequal treatment. The stereotype that boys are inherently better at mathematics (STEM) and girls are better at arts is acted upon by the teacher, resulting in unequal distribution of tasks and opportunities. This active differentiation is a clear example of gender bias."
+  }
+]
+```
+
+========== CHUNK 11 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Schools of Psychology (Behaviorism vs. Constructivism) and Pedagogy",
+    "question": "A teacher holds a Behaviorist view, believing that students arriving at school are like 'blank slates' (tabula rasa) or 'empty vessels' that can be filled and academically excelled by the teacher using their knowledge and resources. Which pedagogical method should be adopted to change this behaviorist view?",
+    "options": [
+      "Adopting a standardized curriculum instead of a flexible curriculum.",
+      "Adopting exam-centric pedagogy instead of teacher-centric pedagogy.",
+      "Adopting summative assessment (SA) instead of formative assessment (FA).",
+      "Adopting exploratory/discovery learning instead of rote memorization."
+    ],
+    "correct_option": 4,
+    "answer": "Adopting exploratory/discovery learning instead of rote memorization.",
+    "explanation": "The Behaviorist view treats the child as a passive recipient (blank slate/empty vessel) whose learning is driven by external conditioning (stimulus-response, memorization, teacher-centered instruction). To move away from this view toward a Constructivist approach (Rachnavad), which views the child as an active builder of knowledge, the teacher must adopt methods like exploratory learning (Discovery Learning, proponent: Jerome Bruner). This allows the child to construct meaning based on prior knowledge and interaction with the environment, rather than passively memorizing or conforming to standardized tests/curricula. Options 1, 2, and 3 all align more closely with traditional or behaviorist methods (standardized curriculum, teacher-centric approach, summative assessment)."
+  },
+  {
+    "id": 2,
+    "topic": "Jean Piaget's Cognitive Development Theory",
+    "question": "A major change presented by Piaget in the understanding of child development was the assertion that learning (Adhigam)...",
+    "options": [
+      "is primarily controlled by the teacher and external reinforcement.",
+      "is independent of the child's developmental stage.",
+      "must precede the development of cognitive structures.",
+      "follows biological maturation and subsequent development."
+    ],
+    "correct_option": 4,
+    "answer": "follows biological maturation and subsequent development.",
+    "explanation": "Jean Piaget, a radical constructivist, posited that development precedes learning (Development -> Learning). He argued that cognitive development occurs through biological maturation and interaction with the environment, leading the child through four distinct stages (Sensorimotor, Pre-operational, Concrete Operational, Formal Operational). Only after the child reaches a certain stage of cognitive development can they effectively learn new concepts. This directly contrasts with the views of Lev Vygotsky, who suggested that learning drives development."
+  }
+]
+```
+
+========== CHUNK 12 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Piaget's View on Learning (Constructivism)",
+    "question": "Which of the following statements reflects the major shift in understanding how learning occurs, according to Piaget's constructivist theory?",
+    "options": [
+      "Learning is primarily controlled by the teacher.",
+      "Learning occurs only when biological maturation is absent.",
+      "Learning is actively constructed through interaction and experience.",
+      "Learning is passively imposed by the environment."
+    ],
+    "correct_option": 3,
+    "answer": "Learning is actively constructed through interaction and experience.",
+    "explanation": "Piaget's constructivism emphasizes that children are active builders of knowledge. They construct their understanding (learning) by actively interacting with their environment and gaining experiences. The teacher's role is merely to facilitate this process, not control it. Biological maturation is essential, not absent, for cognitive development. Learning is an active, not passive, process."
+  },
+  {
+    "id": 2,
+    "topic": "Piaget's Cognitive Processes (Adaptation)",
+    "question": "A child saw a crow for the first time during a nature walk and called it a butterfly because it flew just like the butterflies the child had seen previously. Later, the child learned that a crow is a bird, not a butterfly, and updated their understanding. Finally, the child successfully identified and classified birds and insects by integrating old and new knowledge. Which cognitive mechanisms of Jean Piaget do these processes represent?",
+    "options": [
+      "Egocentrism, Animism, Conservation",
+      "Assimilation, Accommodation, Equilibration",
+      "Seriation, Classification, Reversibility",
+      "Hypothetical-Deductive Thinking, Abstract Thinking, Propositional Thought"
+    ],
+    "correct_option": 2,
+    "answer": "Assimilation, Accommodation, Equilibration",
+    "explanation": "The process described involves three key steps of Adaptation: 1. **Assimilation:** The child first fits the crow into an existing schema ('flying creature' = butterfly). 2. **Accommodation:** When the child realizes the crow is different and must modify their existing schema or create a new one (updating understanding), this is accommodation. 3. **Equilibration:** The final step, where the child successfully integrates the new knowledge with the old, achieving a balanced and updated cognitive structure (correctly classifying birds and insects), is called equilibration (or adaptation)."
+  },
+  {
+    "id": 3,
+    "topic": "Sensorimotor Stage (Reflexes)",
+    "question": "A newborn automatically begins sucking as soon as a nipple touches their mouth. This spontaneous, automatic reaction is an example of what?",
+    "options": [
+      "Reflex Action (Pratīvart Kriyā)",
+      "Egocentrism",
+      "Object Permanence",
+      "Animism"
+    ],
+    "correct_option": 1,
+    "answer": "Reflex Action (Pratīvart Kriyā)",
+    "explanation": "Reflex actions are involuntary, automatic responses that newborns exhibit. The sucking reflex is one of the primary reflexes present from birth, especially characteristic of the Sensorimotor Stage (0-2 years), and is crucial for survival. Egocentrism, Object Permanence, and Animism are cognitive concepts that develop later or describe different aspects of thought, not basic automatic physical responses."
+  }
+]
+```
+
+========== CHUNK 13 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Piaget's Sensorimotor Stage Milestones",
+    "question": "Riya, a 10-month-old infant, drops her favorite rattle behind the sofa. Even though she cannot see it, she actively searches for it. Later, she observes her elder sister clapping her hands and, after some time, she repeats the same action and finds her toy. Which milestones of Piaget's cognitive development does this behavior demonstrate?",
+    "options": [
+      "Object Permanence and Symbolic Thought",
+      "Object Permanence and Deferred Imitation",
+      "Goal-directed behavior and Circular Reactions",
+      "Symbolic Thought and Deferred Imitation"
+    ],
+    "correct_option": 2,
+    "answer": "Object Permanence and Deferred Imitation",
+    "explanation": "The act of searching for the hidden rattle demonstrates **Object Permanence**, the understanding that objects continue to exist even when they cannot be seen. The act of observing her sister clapping and replicating the action at a later time (in the absence of the model) demonstrates **Deferred Imitation** (or Delayed Imitation). Both these concepts develop towards the end of the Sensorimotor Stage and into the Preoperational Stage (Symbolic Substage)."
+  },
+  {
+    "id": 2,
+    "topic": "Piaget's Preoperational Stage Characteristics (Animism)",
+    "question": "During an art activity, a child named Aarav accidentally spills water on his painting. He immediately exclaims, 'The water wanted to destroy my painting!' This type of thinking represents which stage of Piaget's cognitive development?",
+    "options": [
+      "Concrete Operational Stage",
+      "Formal Operational Stage",
+      "Sensorimotor Stage",
+      "Preoperational Stage"
+    ],
+    "correct_option": 4,
+    "answer": "Preoperational Stage",
+    "explanation": "Aarav's statement, 'The water wanted to destroy my painting,' reflects **Animism (जीववाद)**—the belief that inanimate objects (like water, sun, or toys) have feelings, intentions, and life. Animism is a defining characteristic of the Preoperational Stage (typically 2 to 7 years)."
+  },
+  {
+    "id": 3,
+    "topic": "Piaget's Stages of Cognitive Development (Comprehensive Traits)",
+    "question": "All the following behaviors are observed in a child during play time:\n\n1. Treats their toy as alive and uses egocentric language while interacting with it.\n2. Fails to understand that pouring water from a short, wide glass into a tall, narrow glass does not change the quantity.\n3. Focuses only on their own perspective, failing to consider others’ viewpoints (Centration/Egocentrism).\n4. Cannot mentally reverse actions or operations (Irreversibility).\n\nThese behaviors collectively indicate which stage of Jean Piaget's cognitive development?",
+    "options": [
+      "Sensorimotor Stage",
+      "Preoperational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage"
+    ],
+    "correct_option": 2,
+    "answer": "Preoperational Stage",
+    "explanation": "The listed characteristics—Animism (treating the toy as alive), Egocentric Language, lack of Conservation (failing to understand quantity remains the same despite change in shape/size), Centration (focusing only on one dimension, like height), and Irreversibility (inability to mentally undo an action)—are all key limitations of the **Preoperational Stage** (ages 2–7). Logical reasoning and the ability to reverse operations (reversibility) only develop during the subsequent Concrete Operational Stage."
+  }
+]
+```
+
+========== CHUNK 14 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Piaget's Cognitive Development (Operational Operations)",
+    "question": "A teacher observed that a child is discussing all dimensions of an object and drawing a conclusion by establishing a relationship between that object and others. Which cognitive operation, according to Piaget, does this demonstrate?",
+    "options": [
+      "Transitive Inference",
+      "Centration",
+      "Schema",
+      "Irreversibility"
+    ],
+    "correct_option": 1,
+    "answer": "Transitive Inference",
+    "explanation": "The ability to discuss all dimensions of an object (decentration) is acquired during the Concrete Operational Stage. Crucially, the observation notes that the child is establishing a relationship between an object and *others* to draw a conclusion (e.g., if A > B and B > C, then A > C). This ability to compare items indirectly based on a third element is known as Transitive Inference. Centration involves focusing only on one aspect of an object."
+  },
+  {
+    "id": 2,
+    "topic": "Piaget's Stages (Concrete Operational Stage)",
+    "question": "During a science activity, children were asked to perform the following actions:\nI. Sort stones based on their size and color (Classification).\nII. Order them from the smallest to the largest (Seriation).\nIII. Compare the quantity of water in glasses of different shapes (Conservation).\nIV. Understand that if 5 + 2 = 7, then 7 - 2 = 5 (Reversibility).\n\nThese combined abilities and operations indicate which stage of cognitive development, according to Piaget?",
+    "options": [
+      "Sensorimotor Stage",
+      "Pre-operational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage"
+    ],
+    "correct_option": 3,
+    "answer": "Concrete Operational Stage",
+    "explanation": "The abilities listed—Classification, Seriation, Conservation, and Reversibility—are cognitive operations that children acquire during the Concrete Operational Stage (approximately 7 to 11 years old). Children in the preceding Pre-operational Stage typically lack these abilities."
+  },
+  {
+    "id": 3,
+    "topic": "Piaget's Stages (Formal Operational Stage)",
+    "question": "During a debate, a 15-year-old student demonstrates the following cognitive skills:\nI. Imagining the consequences of climate change on society.\nII. Discussing abstract concepts such as justice and equality.\nIII. Creating a short story about a hypothetical civilization.\n\nWhich stage of Piaget's cognitive development is illustrated by these activities?",
+    "options": [
+      "Sensorimotor Stage",
+      "Pre-operational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage"
+    ],
+    "correct_option": 4,
+    "answer": "Formal Operational Stage",
+    "explanation": "The Formal Operational Stage (typically beginning around age 11 and extending into adulthood) is characterized by abstract thought, hypothetical reasoning (imagining possible futures or hypothetical civilizations), and the ability to systematically reason about complex, non-concrete concepts like justice and equality. Since the student is 15 and engaging in these advanced forms of thinking, they are operating within the Formal Operational Stage."
+  }
+]
+```
+
+========== CHUNK 15 ==========
+The following are the extracted MCQ questions from the transcript, translated and structured into the required JSON format.
+
+```json
+[
+  {
+    "id": 1,
+    "topic": "Piaget’s Stages of Cognitive Development",
+    "question": "According to Jean Piaget's stages of cognitive development, in which stage does a child typically begin to engage in Deductive Reasoning (Nigmanatmak Tarka)?",
+    "options": [
+      "Sensorimotor Stage",
+      "Pre-operational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage"
+    ],
+    "correct_option": 4,
+    "answer": "Formal Operational Stage",
+    "explanation": "Deductive reasoning (thinking from general rules/principles to specific examples) is a characteristic of abstract thought. Piaget explained that children begin to develop abstract thinking, hypothetical reasoning, and deductive reasoning during the Formal Operational Stage (approximately 11 years and onward). Inductive reasoning (thinking from specific examples to general rules) develops earlier, during the Concrete Operational Stage (7-11 years)."
+  },
+  {
+    "id": 2,
+    "topic": "Piagetian Teaching Practices (Constructivism)",
+    "question": "A teacher plans instruction in the classroom according to Jean Piaget’s theory of cognitive development. Which of the following teaching practices would be MOST appropriate? \n\nA. Learning activities should be prepared with a constructive approach, allowing students to actively construct knowledge.\nB. Teaching strategies should be mindful of the student's existing knowledge and current level of thinking.\nC. Continuous assessment should be used to understand students' cognitive progress and conceptual development.\nD. The classroom environment should encourage investigation, experimentation, and discovery-based learning.",
+    "options": [
+      "A and B only",
+      "A, B, C, and D",
+      "B and C only",
+      "A, C, and D only"
+    ],
+    "correct_option": 2,
+    "answer": "A, B, C, and D",
+    "explanation": "Jean Piaget is the founder of Cognitive Constructivism, viewing the child as a 'little scientist' who actively constructs knowledge through interaction with the environment. Therefore, all practices supporting active learning, discovery (exploration/experimentation), aligning content with the child's developmental level (existing knowledge/thinking level), and continuous monitoring (evaluation) of cognitive progress are appropriate."
+  },
+  {
+    "id": 3,
+    "topic": "Vygotsky's Sociocultural Theory and Learning Promotion",
+    "question": "According to Lev Vygotsky’s Sociocultural Theory, what is the best way to promote learning (Adhigam)?",
+    "options": [
+      "Providing tasks that students can complete easily without any guidance.",
+      "Providing tasks that are completely irrelevant (unrelated) to the student’s current level of understanding.",
+      "Providing no assistance to allow children to learn independently, fostering biological maturation.",
+      "Providing tasks that are slightly ahead of the student's current level, along with appropriate guidance and support."
+    ],
+    "correct_option": 4,
+    "answer": "Providing tasks that are slightly ahead of the student's current level, along with appropriate guidance and support.",
+    "explanation": "Vygotsky’s theory emphasizes that learning occurs best within the Zone of Proximal Development (ZPD)—the gap between what a learner can do independently and what they can achieve with guidance. Therefore, tasks should be slightly challenging (ahead of the current level) and require support or ‘scaffolding’ (guidance, assistance, or structure) from a More Knowledgeable Other (MKO)."
+  },
+  {
+    "id": 4,
+    "topic": "Vygotsky on Language and Cognitive Development",
+    "question": "According to Lev Vygotsky, which statement correctly describes the relationship between language and cognitive development?",
+    "options": [
+      "Social factors affect language development but remain separate from cognitive development.",
+      "Cognitive development is primary and determines the course of language development.",
+      "Language and cognitive development are independent processes that remain separate throughout life.",
+      "Language and thought initially develop separately, but later merge, with language serving as a crucial tool for shaping and facilitating cognitive activity."
+    ],
+    "correct_option": 4,
+    "answer": "Language and thought initially develop separately, but later merge, with language serving as a crucial tool for shaping and facilitating cognitive activity.",
+    "explanation": "Vygotsky maintained that language (especially social interaction through language) is fundamental to the formation of thought. While thought and language have distinct origins, they merge around age two, after which language becomes the primary tool for shaping and regulating higher-order cognitive functions (like thinking and problem-solving). Option 2 describes Piaget's view, while Vygotsky emphasizes that language shapes thought."
+  }
+]
+```
+
+========== CHUNK 16 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Vygotsky's Scaffolding",
+    "question": "Students in a classroom are working in groups on a subject. One group gets stuck while trying to understand a problem. The teacher provides them with hints and guidance, and then allows them to try independently again. After some time, the same students are able to solve the problem by themselves. Which teaching principle did the teacher apply in this class?",
+    "options": [
+      "Rote learning",
+      "Passive imitation",
+      "Conditioning",
+      "Scaffolding (Paddh Dhancha Aalamaban)"
+    ],
+    "correct_option": 4,
+    "answer": "Scaffolding (Paddh Dhancha Aalamaban)",
+    "explanation": "Scaffolding, or supportive structure (Paddh Dhancha/Aalamaban), involves a teacher providing temporary support, cues, hints, or guidance (like the teacher did here) to help students move from their current level of understanding to a higher level of potential development. This support is gradually withdrawn as the learner becomes proficient. Concepts like rote learning and passive imitation are rejected by constructivism, and conditioning is a behaviorist concept, making Scaffolding the appropriate constructivist principle applied."
+  },
+  {
+    "id": 2,
+    "topic": "Vygotsky's ZPD",
+    "question": "Saniya can solve single-step addition and subtraction problems by herself, but she gets stuck on multi-step word problems. Her teacher sits with her, explains strategies, asks guiding questions, and slowly lets her attempt to learn independently. According to Vygotsky's theory, the range of tasks that Saniya can perform with the guidance of the teacher but cannot do alone is called what?",
+    "options": [
+      "Cognitive Mediation",
+      "Zone of Proximal Development (ZPD)",
+      "More Knowledgeable Other (MKO)",
+      "Scaffolding"
+    ],
+    "correct_option": 2,
+    "answer": "Zone of Proximal Development (ZPD)",
+    "explanation": "The Zone of Proximal Development (ZPD) is the difference between what a learner can do without help (Actual Development) and what they can achieve with guidance and encouragement from a skillful partner (Potential Development). The scenario describes tasks (multi-step problems) that Saniya can only complete with assistance, placing them directly within her ZPD. The teacher acts as the MKO and provides Scaffolding, but the 'range of tasks' itself is the ZPD."
+  },
+  {
+    "id": 3,
+    "topic": "Vygotsky's Social Constructivism",
+    "question": "Lev Vygotsky, as a social constructivist, would LEAST support which of the following teaching principles?",
+    "options": [
+      "Controlling behavior using rewards and punishments",
+      "Promoting social interaction among students",
+      "Promoting cooperative learning",
+      "Providing cultural tools for children’s learning"
+    ],
+    "correct_option": 1,
+    "answer": "Controlling behavior using rewards and punishments",
+    "explanation": "Vygotsky's theory strongly emphasizes social interaction, cooperative learning, and the use of cultural tools (like language, maps, calculators) as mechanisms for cognitive development. These principles align with constructivism. Conversely, controlling behavior using external rewards and punishments is a hallmark of Behaviorism, which is fundamentally opposed to the constructivist approach Vygotsky championed. Therefore, Vygotsky would support this principle the least."
+  },
+  {
+    "id": 4,
+    "topic": "Vygotsky's Private Speech",
+    "question": "According to Lev Vygotsky, what is the role of Private Speech (Niji Bhashan/self-talk) in children's learning?",
+    "options": [
+      "It helps in self-regulation and guiding one's actions and thoughts.",
+      "It is a sign of cognitive immaturity and egocentrism.",
+      "It is a form of social communication directed at peers.",
+      "It is a distraction that hinders problem-solving skills."
+    ],
+    "correct_option": 1,
+    "answer": "It helps in self-regulation and guiding one's actions and thoughts.",
+    "explanation": "Vygotsky viewed Private Speech (talking out loud to oneself) as a crucial tool for cognitive development. Its primary function is self-regulation—children use it to plan, monitor, and guide their own behavior and thinking, especially when facing challenging tasks. This contrasts sharply with Piaget's view, which categorized self-talk as merely egocentric speech that served no major cognitive function."
+  }
+]
+```
+
+========== CHUNK 17 ==========
+The following MCQ questions have been extracted from the provided Hindi transcript, translated, and structured in JSON format.
+
+```json
+[
+  {
+    "id": 1,
+    "topic": "Lev Vygotsky's Social Constructivism (Speech)",
+    "question": "According to Lev Vygotsky, what is the primary role of Private Speech (the child speaking aloud while working or playing)?",
+    "options": [
+      "It helps children in regulating and controlling their thinking process.",
+      "It has no effect on the child's thinking.",
+      "It creates a hindrance or barrier in the child’s thinking.",
+      "It promotes and increases the student's egocentrism."
+    ],
+    "correct_option": 1,
+    "answer": "It helps children in regulating and controlling their thinking process.",
+    "explanation": "Lev Vygotsky defined Private Speech (speaking aloud to oneself while performing a task) as a tool for self-regulation and problem-solving. It helps the child plan, monitor, and guide their actions and thought processes. While egocentrism (Option 4) is associated with Piaget's view of this type of speech, Vygotsky views it as a positive and necessary transition toward Inner Speech (thought). Therefore, for Vygotsky, the function of self-regulation and control of thought is the most appropriate answer."
+  },
+  {
+    "id": 2,
+    "topic": "Lev Vygotsky's Social Constructivism (ZPD and Scaffolding)",
+    "question": "Ravi is finding it difficult to solve algebraic equations. His older brother, who has a good knowledge of mathematics, helps him by explaining the steps, offering suggestions, and gradually engaging in reciprocal interaction to motivate him to solve the problem. According to Vygotsky's socio-constructivist theory, what role is Ravi’s older brother playing?",
+    "options": [
+      "Expository Teaching",
+      "Collaborative Learning",
+      "Reinforcement",
+      "Cultural Tools"
+    ],
+    "correct_option": 2,
+    "answer": "Collaborative Learning",
+    "explanation": "Vygotsky's theory emphasizes that learning occurs through social interaction. The brother, being a More Knowledgeable Other (MKO), is providing Scaffolding (support and suggestions) within Ravi's Zone of Proximal Development (ZPD). This process of mutual interaction and shared problem-solving aligns best with the concept of Collaborative Learning (or cooperative learning), which is central to Vygotsky’s social constructivism. Expository teaching and reinforcement are associated with behaviorist approaches, not constructivism."
+  },
+  {
+    "id": 3,
+    "topic": "Lawrence Kohlberg's Moral Development Theory",
+    "question": "Anaya sees a purse in the school playground. She knows taking it is wrong. She decides not to take it, reasoning: 'If someone finds out, I shouldn't be punished.' According to Lawrence Kohlberg's theory of moral development, which stage of reasoning does Anaya's logic represent?",
+    "options": [
+      "Obedience and Punishment Orientation",
+      "Individualism and Exchange",
+      "Good Interpersonal Relationships",
+      "Maintaining Social Order"
+    ],
+    "correct_option": 1,
+    "answer": "Obedience and Punishment Orientation",
+    "explanation": "Anaya's morality is based entirely on the external consequences of her actions—specifically, avoiding punishment. This is characteristic of the first stage of Kohlberg's Pre-Conventional Level, known as the Obedience and Punishment Orientation (Stage 1). At this stage, rules are fixed and obeyed simply to avoid punishment."
+  }
+]
+```
+
+========== CHUNK 18 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Kohlberg's Stages of Moral Development (Pre-Conventional)",
+    "question": "When eight-year-old Aarav is presented with the Heinz Dilemma (Should Heinz steal the drug to save his wife?), he argues that Heinz should steal the medicine because he needs it. According to Lawrence Kohlberg's theory of moral development, Aarav's reasoning reflects the stage where decisions about right and wrong are based on individual needs and self-interest. Which stage is Aarav demonstrating?",
+    "options": [
+      "Punishment and Obedience Orientation",
+      "Instrumental Relativist Orientation (Individualism and Exchange)",
+      "Good Boy–Good Girl Orientation",
+      "Law and Order Orientation"
+    ],
+    "correct_option": 2,
+    "answer": "Instrumental Relativist Orientation (Individualism and Exchange)",
+    "explanation": "In the Instrumental Relativist Orientation (Stage 2 of the Pre-Conventional Level), morality is defined by what satisfies one's own needs and occasionally the needs of others (self-interest). Aarav argues that Heinz should steal the drug because 'he needs it,' directly reflecting the focus on personal needs and self-gain."
+  },
+  {
+    "id": 2,
+    "topic": "Kohlberg's Stages of Moral Development (Conventional)",
+    "question": "Tanya observes her friend cheating on an exam. She warns her friend because Tanya wants to be viewed as an honest and 'good student' by her teacher and peers. According to Lawrence Kohlberg's theory of moral development, which stage is Tanya exhibiting?",
+    "options": [
+      "Punishment and Obedience Orientation",
+      "Law and Order Orientation",
+      "Good Boy–Good Girl Orientation",
+      "Universal Ethical Principle Orientation"
+    ],
+    "correct_option": 3,
+    "answer": "Good Boy–Good Girl Orientation",
+    "explanation": "The Good Boy–Good Girl Orientation (Stage 3 of the Conventional Level) is characterized by a desire to gain approval and maintain good relationships with others, often by adhering to social expectations and acting in ways deemed 'nice' or 'good' (e.g., being an honest student)."
+  },
+  {
+    "id": 3,
+    "topic": "Kohlberg's Stages of Moral Development (Conventional)",
+    "question": "In a discussion about a moral dilemma (whether Heinz should steal the life-saving drug), a student named Rohit responds that Heinz should NOT steal the drug because 'stealing is against the law, and everyone must follow the rules for society to function properly.' According to Kohlberg's theory, which stage of moral reasoning does Rohit's answer reflect?",
+    "options": [
+      "Social Contract Orientation",
+      "Universal Ethical Principle Orientation",
+      "Instrumental Relativist Orientation",
+      "Law and Order Orientation"
+    ],
+    "correct_option": 4,
+    "answer": "Law and Order Orientation",
+    "explanation": "The Law and Order Orientation (Stage 4 of the Conventional Level) is characterized by a strong belief in maintaining social order. Individuals at this stage feel a duty to uphold laws, rules, and authority, regardless of the immediate consequences, believing that rules are necessary for society to function."
+  },
+  {
+    "id": 4,
+    "topic": "Kohlberg's Stages of Moral Development (Post-Conventional)",
+    "question": "A student, Rohan, reflects on a moral situation and concludes that if Ayesha does not make every possible effort to save her friend, she is valuing some other principle (like legality or property rights) above the value of human life. According to Lawrence Kohlberg's theory, which stage does Rohan's moral thought process indicate?",
+    "options": [
+      "Social Contract Orientation",
+      "Law and Order Orientation",
+      "Good Boy–Good Girl Orientation",
+      "Universal Ethical Principle Orientation"
+    ],
+    "correct_option": 4,
+    "answer": "Universal Ethical Principle Orientation",
+    "explanation": "The Universal Ethical Principle Orientation (Stage 6 of the Post-Conventional Level) is based on abstract reasoning using universal ethical principles (like the sanctity of life, dignity, and justice). At this highest stage, the value of life supersedes laws, contracts, or social norms."
+  },
+  {
+    "id": 5,
+    "topic": "Critique of Kohlberg's Theory",
+    "question": "Carol Gilligan, a student and later colleague of Lawrence Kohlberg, critically analyzed his stages of moral development. What was the primary critique Carol Gilligan leveled against Kohlberg's theory?",
+    "options": [
+      "The theory failed to account for cultural variations in moral judgment (Cultural Bias).",
+      "The theory was chronologically inaccurate regarding the age at which children reached specific stages.",
+      "The theory was gender-biased, focusing primarily on the male perspective (Justice) and neglecting the female perspective (Care).",
+      "The theory overemphasized the role of parental influence and neglected the role of peers."
+    ],
+    "correct_option": 3,
+    "answer": "The theory was gender-biased, focusing primarily on the male perspective (Justice) and neglecting the female perspective (Care).",
+    "explanation": "Carol Gilligan argued that Kohlberg’s stages were based predominantly on male subjects and therefore favored a 'justice' perspective (impartial application of rules and rights) common among males, while overlooking a 'care' perspective (focus on relationships, responsibility, and context) more common among females. She criticized the theory for being gender-biased."
+  }
+]
+```
+
+========== CHUNK 19 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Moral Development (Kohlberg & Gilligan's Critique)",
+    "question": "Carol Gilligan, in criticizing Lawrence Kohlberg's theory of moral development, argued that the moral reasoning typically observed in men and women is based on which perspectives, respectively?",
+    "options": [
+      "Men: Justice Perspective; Women: Care Perspective",
+      "Men: Care Perspective; Women: Justice Perspective",
+      "Men: Universal Ethics; Women: Social Order",
+      "Men: Instrumental Purpose; Women: Obedience and Punishment"
+    ],
+    "correct_option": 1,
+    "answer": "Men: Justice Perspective; Women: Care Perspective",
+    "explanation": "Carol Gilligan argued that Kohlberg's model, developed primarily using male subjects, overlooked the 'Care Perspective' typically associated with women's moral reasoning. She suggested that males tend to rely on the 'Justice Perspective' (rights and rules), while females rely more on the 'Care Perspective' (relationships, responsibility, and empathy)."
+  },
+  {
+    "id": 2,
+    "topic": "Intelligence (Nature and Characteristics)",
+    "question": "An Assertion (A) and a Reason (R) are given below. Choose the correct option.",
+    "assertion": "Intelligence is multi-dimensional and mutable in nature, involving abilities such as thinking and imagination that develop with experience.",
+    "reason": "The ability to think and imagine enables an individual to analyze situations, generate new ideas, and modify behavior, leading to the continuous development of intelligence.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "correct_option": 1,
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The Assertion accurately describes intelligence as being complex (multi-dimensional) and changing (mutable/developing with experience). The Reason accurately describes how core intelligent abilities like thinking and imagination facilitate adaptation and learning, which directly supports and explains why intelligence is mutable and develops continuously."
+  },
+  {
+    "id": 3,
+    "topic": "Nature of Intelligence",
+    "question": "Which of the following statements correctly describes the nature and characteristics of intelligence?",
+    "statements": [
+      "1. Intelligence is composed of a set of complex capabilities rather than a single, monolithic ability.",
+      "2. Intelligence is completely stable from birth and cannot be changed by experience.",
+      "3. Intelligence helps individuals in problem-solving and adapting to the environment.",
+      "4. Intelligence is influenced by the interaction between heredity and environment."
+    ],
+    "options": [
+      "1, 2, and 3",
+      "1, 3, and 4",
+      "2, 3, and 4",
+      "1, 2, 3, and 4"
+    ],
+    "correct_option": 2,
+    "answer": "1, 3, and 4",
+    "explanation": "Statement 1 is correct (Intelligence is complex and multi-faceted, not unitary). Statement 3 is correct (Intelligence enables problem-solving and adaptation/adjustment to the environment). Statement 4 is correct (Intelligence is the product of both genetic predisposition and environmental interaction). Statement 2 is incorrect; intelligence is highly mutable and changes/develops throughout life based on experience, making it non-stable."
+  }
+]
+```
+
+========== CHUNK 20 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Howard Gardner's Theory of Multiple Intelligences",
+    "question": "Vihaan showed a deep interest in singing from a young age. He actively participates in school programs and presents confidently on stage. He easily understands rhythm, tone, and musical patterns and retains information well when lessons are taught through songs or rhymes. According to Howard Gardner's theory of Multiple Intelligences, which intelligence is most dominant in Vihaan?",
+    "options": [
+      "Linguistic Intelligence",
+      "Logical-Mathematical Intelligence",
+      "Musical Intelligence",
+      "Spatial Intelligence"
+    ],
+    "correct_option": 3,
+    "answer": "Musical Intelligence",
+    "explanation": "Musical Intelligence (or Musical Rhythmic and Harmonic intelligence) involves skill in the performance, composition, and appreciation of musical patterns, tone, and rhythm. Since Vihaan demonstrates a strong understanding of musical patterns, tone, and rhythm, and retains information best through songs and rhymes, Musical Intelligence is the most dominant type."
+  },
+  {
+    "id": 2,
+    "topic": "Howard Gardner's Theory of Multiple Intelligences: Intelligence and Career Matching",
+    "question": "According to Howard Gardner's theory of Multiple Intelligences, which of the following types of intelligence and their potential final states (careers) is NOT correctly matched?",
+    "options": [
+      "Logical-Mathematical Intelligence - Scientist",
+      "Spatial Intelligence - Pilot, Architect",
+      "Interpersonal Intelligence - Counselor, Politician",
+      "Intrapersonal Intelligence - Religious Leader"
+    ],
+    "correct_option": 4,
+    "answer": "Intrapersonal Intelligence - Religious Leader",
+    "explanation": "Intrapersonal intelligence is the capacity to understand oneself—one's feelings, fears, and motivations. Typical examples include philosophers or spiritual leaders (like Swami Vivekananda), who engage in deep self-reflection. Religious leaders, who often specialize in influencing, organizing, and leading large groups of people (understanding and manipulating external behaviors and emotions), typically exemplify Interpersonal Intelligence, not Intrapersonal Intelligence. Thus, the match 'Intrapersonal Intelligence - Religious Leader' is incorrect."
+  },
+  {
+    "id": 3,
+    "topic": "Scaffolding and Measurement of Intelligence",
+    "question_type": "Assertion and Reason",
+    "assertion": {
+      "statement": "The less competent a child is in performing a task, the more guidance the teacher should provide. As the child's competence increases, the teacher should gradually reduce their support.",
+      "is_true": true
+    },
+    "reason": {
+      "statement": "Intelligence cannot be accurately measured only through IQ scores.",
+      "is_true": true
+    },
+    "options": [
+      "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+      "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+      "Assertion (A) is true, but Reason (R) is false.",
+      "Assertion (A) is false, but Reason (R) is true."
+    ],
+    "correct_option": 2,
+    "answer": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+    "explanation": "Assertion (A) describes the concept of scaffolding (providing temporary support which is gradually withdrawn as the learner becomes capable), which is a true principle of effective teaching. Reason (R) is also true, as intelligence is multi-faceted (as per Gardner's theory) and IQ tests (like standard psychometric tests) alone are often considered limited or not fully valid for measuring all aspects of intelligence. However, the limitation of IQ tests (R) does not explain the necessity or mechanism of scaffolding (A). Therefore, both statements are true, but R is not the correct explanation for A."
+  }
+]
+```
+
+========== CHUNK 21 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Constructivism, Scaffolding, and Limitations of IQ Testing",
+    "type": "Assertion and Reason",
+    "assertion_a": "The more competent a child is in performing a task, the more guidance (scaffolding) the teacher should provide initially, and gradually reduce the support as the child's capability increases.",
+    "reason_r": "IQ tests are often culturally biased and neglect environmental factors, thus failing to accurately predict the precision of intelligence.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correct_option": 2,
+    "answer": "Both A and R are true, but R is NOT the correct explanation of A.",
+    "explanation": "Assertion A describes the concept of Scaffolding, central to Vygotsky's socio-cultural theory and Constructivism, which is true. Reason R highlights valid criticisms of traditional IQ tests (cultural bias, environmental neglect), making R true. However, the concept of scaffolding (A) is unrelated to the validity and limitations of IQ tests (R). Therefore, while both statements are individually true, the Reason does not explain the Assertion."
+  },
+  {
+    "id": 2,
+    "topic": "Types of Thinking",
+    "question": "In a classroom, a teacher first gives a puzzle to the students that has only one correct solution. Later, the teacher asks the students to think of as many possible solutions as they can for a real-life problem. The first task reflects ________, while the second task reflects ________.",
+    "options": [
+      "Convergent thinking; Convergent thinking",
+      "Divergent thinking; Convergent thinking",
+      "Divergent thinking; Divergent thinking",
+      "Convergent thinking; Divergent thinking"
+    ],
+    "correct_option": 4,
+    "answer": "Convergent thinking; Divergent thinking",
+    "explanation": "The first task, requiring only one correct solution, focuses thought inwards towards a single accepted answer, which is characteristic of Convergent thinking (Abhisari Chintan). The second task, requiring multiple possible and creative solutions for a real-life problem, involves lateral thinking and generating new ideas, which is characteristic of Divergent thinking (Apasaari Chintan)."
+  },
+  {
+    "id": 3,
+    "topic": "Critical Thinking",
+    "question": "To encourage critical thinking in children, a teacher provides them with authentic tasks that allow them to analyze new concepts. Which of the following practices is CONTRARY (opposite) to promoting critical thinking?",
+    "options": [
+      "Providing contextual material related to the students' lives.",
+      "Fostering an analytical approach where concepts are broken down and studied.",
+      "Providing both examples and non-examples of concepts.",
+      "Focusing on tasks that require rote memorization and recall of facts."
+    ],
+    "correct_option": 4,
+    "answer": "Focusing on tasks that require rote memorization and recall of facts.",
+    "explanation": "Critical thinking (Samalochanaatmak Chintan) involves evaluation, analysis, synthesis, and creative problem-solving (divergent thinking). Practices like using contextual material, providing examples/non-examples, and encouraging analysis are all positive steps toward critical thinking development. Rote memorization and recall (factual knowledge with a single fixed answer, similar to closed questions) is antithetical to critical thinking as it discourages deep understanding, reasoning, and generating multiple perspectives."
+  }
+]
+```
+
+========== CHUNK 22 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Types of Knowledge and Critical Thinking",
+    "question": "Which of the following types of knowledge is least likely to foster critical thinking and deep understanding in students?",
+    "options": [
+      "Procedural Knowledge",
+      "Declarative Knowledge",
+      "Interpretive/Explanatory Knowledge",
+      "None of the above"
+    ],
+    "correct_option": 2,
+    "answer": "Declarative Knowledge",
+    "explanation": "Declarative knowledge (घोषणात्मक ज्ञान) refers to surface-level or factual knowledge (e.g., 'who gave which theory?'). The speaker notes that this superficial knowledge is negative for promoting deep learning because it does not encourage critical thinking. In contrast, procedural knowledge (learning through a process) and interpretive knowledge (drawing conclusions and making interpretations) are more beneficial. Therefore, Declarative Knowledge is the least effective for fostering critical thought."
+  },
+  {
+    "id": 2,
+    "topic": "Learning Strategies and Meta-cognition",
+    "question": "Aarav realizes that sitting at the back of the class distracts him, preventing him from grasping important points in mathematics. To improve his concentration and understanding, he decides to sit at the front of the class and self-monitors his own learning process. Which learning strategy is Aarav using?",
+    "options": [
+      "Rote Rehearsal",
+      "Meta-cognition",
+      "Scaffolding",
+      "Memory technique"
+    ],
+    "correct_option": 2,
+    "answer": "Meta-cognition",
+    "explanation": "Meta-cognition is defined as 'thinking about thinking' or the ability to monitor and control one's own cognitive processes. Aarav's realization about his concentration issues, his decision to change his behavior (sitting in front), and his active self-monitoring of his learning process ('स्वयं निगरानी रखता है') are all characteristics of meta-cognitive strategy usage."
+  },
+  {
+    "id": 3,
+    "topic": "Language and Thought (Socio-Constructivist Perspective)",
+    "question": "According to a social and constructive perspective, which statement accurately describes the relationship between language and thought?",
+    "options": [
+      "Language determines thought.",
+      "Thought governs and guides language.",
+      "The relationship between language and thought is bidirectional.",
+      "Language and thought are independent."
+    ],
+    "correct_option": 3,
+    "answer": "The relationship between language and thought is bidirectional.",
+    "explanation": "While Piaget argued that thought precedes language, and Vygotsky argued for language influencing thought (and social speech becoming inner speech), the socio-constructivist perspective often emphasizes that the relationship is dynamic and bidirectional (द्विदशात्मक). Language is needed to express complex thought, and all verbalization requires underlying reflection or thinking. Thus, they influence each other mutually."
+  },
+  {
+    "id": 4,
+    "topic": "Problem Solving Strategies",
+    "question": "Which of the following sets of methods are helpful in problem-solving?",
+    "options": [
+      "Trial and Error, Algorithm Method, Creativity, Functional Fixedness",
+      "Mental Set, Concept Map, Cognitive Conflict, Response Set",
+      "Analogical Thinking, Means-End Analysis, Open-Ended Questions, Heuristic",
+      "Convergent Thinking, Verbalization, Passive Observation, Mnemonics Technique"
+    ],
+    "correct_option": 3,
+    "answer": "Analogical Thinking, Means-End Analysis, Open-Ended Questions, Heuristic",
+    "explanation": "The methods listed in the third option are highly conducive to effective problem-solving: \n1. **Analogical Thinking:** Solving a new problem by referencing a similar, previously solved problem.\n2. **Means-End Analysis:** Breaking a problem into sub-goals and finding ways (means) to achieve those intermediate goals.\n3. **Open-Ended Questions:** Encouraging divergent thought and multiple solutions.\n4. **Heuristic:** Using mental shortcuts or rules of thumb that often lead to a solution, though not guaranteed. \n\nThe other options contain elements that hinder problem-solving, such as Functional Fixedness (Option 1), Mental Set, Cognitive Conflict, and Response Set (Option 2), and Passive Observation (Option 4)."
+  }
+]
+```
+
+========== CHUNK 23 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Problem Solving Methods",
+    "question": "Which of the following sets of concepts are beneficial tools/strategies for effective problem-solving?",
+    "options": [
+      "Mental Set, Convergent Thinking, Closed-ended Questions",
+      "Functional Fixedness, Passive Imitation, Algorithm",
+      "Analogical Thinking, Means-End Analysis, Open-ended Questions",
+      "Mnemonics, Closed-ended Questions, Passive Imitation"
+    ],
+    "correct_option": 3,
+    "answer": "Analogical Thinking, Means-End Analysis, Open-ended Questions",
+    "explanation": "The speaker reviews various problem-solving strategies, classifying them as helpful (positive) or harmful (negative/barrier).\n\n*   **Helpful (Positive):** Analogical Thinking (solving similar problems to find solutions), Means-End Analysis (breaking down a problem into smaller parts), Open-ended Questions (promoting divergent thinking), Heuristics (rule of thumb/exploration), Verbalization (talking through the problem), Mnemonics (memory aids), and Concept Mapping.\n*   **Harmful/Barrier (Negative):** Mental Set (fixity in thinking), Functional Fixedness, Closed-ended Questions (restrictive), Convergent Thinking (narrow thinking), and Passive Imitation.\n\nSince Analogical Thinking, Means-End Analysis, and Open-ended Questions all promote effective, flexible problem-solving, they form the correct set."
+  },
+  {
+    "id": 2,
+    "topic": "Motivation (Assertion and Reason)",
+    "question": "Read the following statements and choose the correct option:\n\n**Assertion (A):** Motivation is goal-directed.\n\n**Reason (R):** It encourages the individual to behave in a specific way to achieve desired outcomes.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "correct_option": 1,
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The Assertion (A) is correct; motivation guides an individual towards achieving a specific goal (e.g., passing an exam). The Reason (R) is also correct; motivation provides the impetus or energy for the desired behavior (e.g., studying all night in a marathon class) that leads to the desired outcome (passing the exam). Since the behavior described in R is precisely how motivation directs behavior towards a goal (A), R correctly explains A."
+  },
+  {
+    "id": 3,
+    "topic": "Types of Motivation",
+    "question": "A teacher gives students stars and certificates for good performance. This practice primarily promotes which type of motivation?",
+    "options": [
+      "Intrinsic Motivation, because students develop interest in the task.",
+      "Extrinsic Motivation, because behavior is influenced by external rewards.",
+      "Intrinsic Motivation, because the task satisfies the student's curiosity.",
+      "Extrinsic Motivation, because the student seeks mastery of the subject."
+    ],
+    "correct_option": 2,
+    "answer": "Extrinsic Motivation, because behavior is influenced by external rewards.",
+    "explanation": "The use of external rewards like stars, certificates, praise, or prizes (like laptops/tablets mentioned in the general discussion) is characteristic of Extrinsic (or External) Motivation. The behavior is driven by the desire to obtain the reward or avoid punishment, not by internal interest or enjoyment of the task itself. Internal factors like interest, curiosity, and enjoyment relate to Intrinsic Motivation. The transcript confirms that the correct option is the one stating that behavior is influenced by rewards."
+  },
+  {
+    "id": 4,
+    "topic": "Goal Orientation (Mastery vs Performance)",
+    "question": "Riya works hard because she wants to secure the first rank in the class. Meanwhile, Aman studies the same subject because he wants to understand it better and improve his capabilities. Which statement correctly describes their goals?",
+    "options": [
+      "Riya is focused on Performance Goals, while Aman is focused on Mastery Goals.",
+      "Riya is focused on Mastery Goals, while Aman is focused on Performance Goals.",
+      "Both Riya and Aman are focused on Performance Goals.",
+      "Both Riya and Aman are focused on Mastery Goals."
+    ],
+    "correct_option": 1,
+    "answer": "Riya is focused on Performance Goals, while Aman is focused on Mastery Goals.",
+    "explanation": "The speaker contrasts Performance Goals (focusing on competition, ranking, external validation, and being the best—like Riya) with Mastery Goals (focusing on deeper understanding, skill improvement, self-competence, and interest—like Aman). The example of Riya seeking the first rank (Chutur in 3 Idiots analogy) is a clear indicator of Performance Orientation. Aman's focus on understanding and improving capabilities (Rancho in 3 Idiots analogy) is a clear indicator of Mastery Orientation."
+  },
+  {
+    "id": 5,
+    "topic": "Assessment in Education",
+    "question": "Which of the following statements about children's assessment is NOT correct?",
+    "options": [
+      "Assessment should be used to support and improve learning, utilizing diverse assessment tools.",
+      "Assessment should be viewed as a standardized process, separate from the teaching-learning process.",
+      "Assessment tools like portfolios and rubrics should be used.",
+      "Assessment results should inform future teaching strategies."
+    ],
+    "correct_option": 2,
+    "answer": "Assessment should be viewed as a standardized process, separate from the teaching-learning process.",
+    "explanation": "The speaker explicitly states that assessment should *not* be seen as a separate or standardized process (5:55:43-5:55:50). In modern, continuous comprehensive evaluation (CCE), assessment must be integrated with the teaching-learning process (Assessment for Learning), not isolated from it. Furthermore, assessment should avoid rigid standardization where possible, favoring flexible and diverse tools (like portfolios, rubrics, etc.). Therefore, the statement that assessment should be viewed as a standardized process separate from teaching is incorrect."
+  }
+]
+```
+
+========== CHUNK 24 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Types of Assessment (Formative and Summative)",
+    "question": "During a science lesson, a teacher asks students oral questions, checks their notebooks, and provides immediate feedback to correct errors. At the end of the instructional period, a written test is administered for the purpose of assigning grades. What type of assessment is the teacher primarily using *during* the lesson and what type is used *at the end* of the instructional period?",
+    "options": [
+      "Formative Assessment, Diagnostic Assessment",
+      "Summative Assessment, Formative Assessment",
+      "Formative Assessment, Summative Assessment",
+      "Continuous Assessment, Summative Assessment"
+    ],
+    "correct_option": 3,
+    "answer": "Formative Assessment, Summative Assessment",
+    "explanation": "Assessment used during the teaching-learning process (like asking oral questions, checking notebooks, and providing immediate feedback for correction) is Formative Assessment (Assessment FOR Learning), as its goal is continuous improvement. The written test administered at the end of the instructional period specifically for assigning grades and determining the final level of achievement is Summative Assessment (Assessment OF Learning)."
+  },
+  {
+    "id": 2,
+    "topic": "Classification of Assessment Practices (OF, FOR, AS Learning)",
+    "question": "A school uses Unit Tests to assign grades. Furthermore, to develop self-reflection in students after they fail standardized examinations, and to improve teaching, the school also conducts Peer Assessment. Which of the following options correctly classifies these practices?",
+    "options_structure": {
+      "Practice 1": "Unit Test for Grading",
+      "Practice 2": "Self-Reflection (after failing standardized tests for improvement)",
+      "Practice 3": "Peer Assessment"
+    },
+    "classification_options": [
+      ["Assessment As Learning", "Assessment Of Learning", "Assessment For Learning"],
+      ["Assessment Of Learning", "Assessment For Learning", "Assessment As Learning"],
+      ["Assessment For Learning", "Assessment As Learning", "Assessment Of Learning"],
+      ["Assessment Of Learning", "Assessment As Learning", "Assessment For Learning"]
+    ],
+    "correct_option": 2,
+    "answer": "Assessment Of Learning, Assessment For Learning, Assessment As Learning",
+    "explanation": "1. Unit Tests used for grading generally fall under Assessment **OF** Learning (Summative). 2. Self-Reflection performed specifically to identify shortcomings and improve teaching/learning after failure aligns with Assessment **FOR** Learning (using assessment results to modify future action). 3. Peer Assessment, where students evaluate each other or themselves (self-assessment), is categorized as Assessment **AS** Learning, fostering metacognition and self-monitoring."
+  },
+  {
+    "id": 3,
+    "topic": "Principles of Assessment",
+    "question": "Ms. Sharma, a teacher of Class V, is planning to assess her students. She wants the assessment to be useful not only for assigning grades but also for improving her teaching and understanding each child’s learning progress. Which of the following considerations should NOT guide her choice of assessment methods?",
+    "options": [
+      "Considering who besides her will use the assessment results.",
+      "Using methods that best identify the learning progress of individual students.",
+      "Using methods that help her reflect on and improve her teaching behavior.",
+      "Selecting methods that prioritize categorization or differentiation among students."
+    ],
+    "correct_option": 4,
+    "answer": "Selecting methods that prioritize categorization or differentiation among students.",
+    "explanation": "Good assessment practices focus on improving learning (formative goals) rather than simply classifying, segregating, or ranking students (categorization/differentiation). Assigning grades is an accepted function, but the primary purpose should be diagnostic and developmental. Therefore, prioritizing methods that classify students (Option 4) is counterproductive to the goal of improving teaching and learning progress and should not guide her choice."
+  },
+  {
+    "id": 4,
+    "topic": "Criterion-Referenced Test (CRT) vs. Norm-Referenced Test (NRT)",
+    "question": "Consider the following statements regarding Criterion-Referenced Tests (CRT) and Norm-Referenced Tests (NRT):\n\n1. CRT interprets student performance based on clearly defined learning outcomes.\n2. NRT focuses on determining a student’s standing relative to other students.\n3. CRT is mainly used for the selection, promotion, and categorization of students.\n4. NRT results are not affected by the performance of the peer group.\n\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 3, and 4 only"
+    ],
+    "correct_option": 3,
+    "answer": "1 and 2 only",
+    "explanation": "Statement 1 is Correct: CRT compares a student's performance against a fixed standard or defined criteria (e.g., passing score). Statement 2 is Correct: NRT compares a student's performance against the performance of a peer group (norms), leading to ranking and competition.\nStatement 3 is Incorrect: Selection, promotion, and categorization based on relative standing are functions of NRT, not CRT.\nStatement 4 is Incorrect: NRT results *are* directly affected by the performance of the peer group, as the average performance of the group defines the norm."
+  }
+]
+```
+
+========== CHUNK 25 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Criterion-Referenced Test (CRT) vs. Norm-Referenced Test (NRT)",
+    "question": "Consider the following statements regarding Criterion-Referenced Tests (CRT) and Norm-Referenced Tests (NRT):\n\n(I) CRT interprets student performance in terms of clearly defined teaching outcomes.\n(II) NRT focuses on comparing a student's standing with other students.\n(III) CRT is mainly used for the selection, promotion, and ranking of students.\n(IV) NRT results are NOT influenced by the performance of the peer group.\n\nWhich of the statements given above is/are CORRECT?",
+    "options": [
+      "I only",
+      "I and II only",
+      "I, II, and III only",
+      "I, II, III, and IV"
+    ],
+    "correct_option": 2,
+    "answer": "I and II only",
+    "explanation": "Statements I and II are correct definitions. CRT measures performance against established criteria or learning outcomes, and NRT measures performance relative to the performance of a peer group (norm). Statement III is incorrect because NRT, not CRT, is primarily used for selection, promotion, and ranking/sorting students. Statement IV is incorrect because NRT results are heavily influenced by the performance of the peer group, as the core principle is competition and comparison."
+  },
+  {
+    "id": 2,
+    "topic": "Continuous and Comprehensive Evaluation (CCE)",
+    "question": "Continuous and Comprehensive Evaluation (CCE) was recommended by the Right to Education (RTE) Act 2009 to ensure ongoing and holistic assessment, covering both scholastic and co-scholastic aspects. Consider the following statements about CCE:\n\n(I) CCE involves the careful planning of evaluation criteria and the use of various assessment tools.\n(II) CCE requires teachers to maintain systematic and continuous records, such as portfolios.\n(III) CCE emphasizes periodic testing of children and the subsequent ranking/sequencing of students.\n(IV) CCE is integrated with the teaching-learning process.\n(V) CCE provides opportunities for teachers to reflect on their teaching behavior and make necessary improvements.\n\nWhich of the statements given above are CORRECT?",
+    "options": [
+      "I, II, IV, and V only",
+      "I, II, III, and IV only",
+      "I, II, and V only",
+      "I, II, III, IV, and V"
+    ],
+    "correct_option": 1,
+    "answer": "I, II, IV, and V only",
+    "explanation": "CCE is designed to reduce exam stress and promote holistic development. Statements I, II, IV, and V are all objectives and characteristics of CCE. Statement III is incorrect. CCE specifically discourages the emphasis on periodic, high-stakes testing, ranking, and labeling of students; rather, it promotes continuous assessment integrated with instruction."
+  },
+  {
+    "id": 3,
+    "topic": "School-Based Assessment (SBA)",
+    "question": "Which of the following is NOT a main objective of School-Based Assessment (SBA)?",
+    "options": [
+      "Supporting continuous improvement through regular feedback in students' learning.",
+      "Assessing the holistic development of students using various assessment tools.",
+      "Assisting teachers in changing teaching methods based on students' progress.",
+      "Labeling students nationally for competitive comparison."
+    ],
+    "correct_option": 4,
+    "answer": "Labeling students nationally for competitive comparison.",
+    "explanation": "SBA is child-centered, formative, and focused on holistic development and providing immediate feedback for improvement. It supports teachers in modifying instructional methods. Its objectives do not include promoting competitive comparison or labeling students on a national level, which is typically the characteristic of large-scale standardized (Board-Based) assessment."
+  },
+  {
+    "id": 4,
+    "topic": "Assessment Tools",
+    "question": "Match the following assessment scenarios (A, B, C, D) with their corresponding evaluation tools (I, II, III, IV):\n\n| Scenario | Description |\n|---|---|\n| A (Ms. Ritu) | Gives students a project with clear criteria and performance levels. |\n| B (Raja) | Asks students to compile their work throughout the course and reflect on their learning progress. |\n| C (Ms. Priya) | Notes students' participation, cooperation, and attention on a structured sheet during group activities. |\n| D (Ms. Seema) | Uses a grading system for the conduct/behavior of each student. |\n\n| Tool |\n|---|---|\n| I | Portfolio |\n| II | Rubric (Evaluation Criterion Sheet) |\n| III | Observation Sheet |\n| IV | Grading System/Project Record |\n\nWhich of the following pairings is correctly matched?",
+    "options": [
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-I, C-III, D-IV",
+      "A-II, B-III, C-I, D-IV",
+      "A-IV, B-I, C-II, D-III"
+    ],
+    "correct_option": 2,
+    "answer": "A-II, B-I, C-III, D-IV",
+    "explanation": "Scenario A describes the use of **Rubrics** (Evaluation Criterion Sheet), which are scoring guides with defined criteria and performance levels (A-II). Scenario B describes the process of compiling work and reflecting on progress, which is the definition of a **Portfolio** (B-I). Scenario C describes systematically tracking behavior, cooperation, and participation during an activity using a structured format, which corresponds to an **Observation Sheet** (C-III). Scenario D involves using a **Grading System** for conduct (D-IV)."
+  }
+]
+```
+
+========== CHUNK 26 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Assessment Tools and Techniques",
+    "question": "Match the Assessment Tool given in List I with its appropriate Description given in List II:",
+    "list_i": {
+      "A": "Rating Scale",
+      "B": "Observation Sheet",
+      "C": "Check List",
+      "D": "Cumulative Record"
+    },
+    "list_ii": {
+      "1": "Ms. Shreshth gives numerical scores to evaluate a student's creativity, conduct, and performance in classroom activities.",
+      "2": "Sriraj systematically observes and makes notes on student participation, teamwork, and attention during a group activity.",
+      "3": "Ms. Priya uses a pre-prepared list to verify whether students have completed specific tasks or skills in the class.",
+      "4": "Anjali prepares a detailed record of each student's progress, achievements, and attendance throughout the year."
+    },
+    "options": [
+      "A-4, B-2, C-1, D-3",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-3, C-4, D-1",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "correct_option": 2,
+    "answer": "A-1, B-2, C-3, D-4",
+    "explanation": "Rating Scale (A) involves assigning numerical scores or ranks (1). Observation Sheet (B) is used for systematic, narrative recording of student behavior during activity (2). Check List (C) utilizes a pre-prepared list to mark the presence or absence of specific skills/tasks (3). Cumulative Record (D) maintains a comprehensive, detailed history of a student's progress, achievements, and attendance over time (4)."
+  },
+  {
+    "id": 2,
+    "topic": "Errors and Mistakes in Learning",
+    "question": "When children make errors in their work, the teacher should understand the reason, detect the errors, and resolve them. Consider the following statements regarding these errors/mistakes (errors/trutiyan). Identify the correct statement(s).",
+    "statements": [
+      "These errors confirm the intellectual inferiority of a child compared to other children.",
+      "Errors definitely indicate a lack of preparation on the part of the teacher.",
+      "Teachers should ignore errors so as not to discourage children.",
+      "Errors should be carefully analyzed by the teacher and discussed constructively with the children."
+    ],
+    "options": [
+      "Only 1 and 2 are correct",
+      "Only 3 is correct",
+      "1, 2, and 3 are correct",
+      "Only 4 is correct"
+    ],
+    "correct_option": 4,
+    "answer": "Only 4 is correct",
+    "explanation": "Errors are a natural part of the learning process (indicating learning, not inferiority), and they provide insights into the child's thinking and learning approach. Therefore, they should not be ignored (Statement 3). While teacher planning is important, errors primarily reflect the student's current understanding (Statement 2 is often rejected in educational pedagogy). The correct approach is to analyze the errors carefully and use them as a basis for constructive discussion and remediation (Statement 4)."
+  },
+  {
+    "id": 3,
+    "topic": "Inclusive Education",
+    "question": "In a classroom, children with disabilities and general children are studying together. The teacher ensures that everyone gets learning opportunities and receives help according to their potential. Which teaching system is this an example of?",
+    "options": [
+      "General Education",
+      "Special Education",
+      "Inclusive Education",
+      "Alternative Education"
+    ],
+    "correct_option": 3,
+    "answer": "Inclusive Education",
+    "explanation": "Inclusive Education (Samaveshi Shiksha) is a system where all children, regardless of ability or disability, learn together in the same classroom without discrimination. The system and curriculum are flexible and adapted to meet the individual needs and potential of every child."
+  },
+  {
+    "id": 4,
+    "topic": "Integrated vs. Inclusive Education",
+    "question": "What is the main difference between Integrated Education and Inclusive Education?",
+    "options": [
+      "In Integrated Education, children are included in the general classroom but do not receive full accommodation (resources may be separate), whereas in Inclusive Education, the curriculum and support are tailored and made flexible according to the needs of every child.",
+      "Integrated Education focuses solely on academic achievement, while Inclusive Education focuses on social and emotional development.",
+      "Inclusive Education requires children to adapt to the existing system, whereas Integrated Education adapts the system to the child.",
+      "Integrated Education focuses on mainstreaming high-achieving students, while Inclusive Education focuses on students with learning difficulties."
+    ],
+    "correct_option": 1,
+    "answer": "In Integrated Education, children are included in the general classroom but do not receive full accommodation (resources may be separate), whereas in Inclusive Education, the curriculum and support are tailored and made flexible according to the needs of every child.",
+    "explanation": "Integrated Education brings disabled children into the general classroom but often requires the child to adjust to the existing rigid school structure. Inclusive Education is a philosophy where the entire system (curriculum, resources, teaching methods) is made flexible to accommodate the specific needs of every child, ensuring full support and accommodation within the main classroom."
+  },
+  {
+    "id": 5,
+    "topic": "Educational Approaches",
+    "question": "In a school, children with disabilities are kept completely separate in a different classroom and do not get a chance to participate in the general classroom. This represents which educational approach?",
+    "options": [
+      "Segregation",
+      "Integration",
+      "Inclusion",
+      "Exclusion"
+    ],
+    "correct_option": 4,
+    "answer": "Exclusion",
+    "explanation": "Exclusion (Bahuishkar/Banishment) is the practice of completely separating children with disabilities from their general peers, denying them access to the mainstream school environment and resources. This contrasts sharply with Integration (partial inclusion with rigid structures) and Inclusion (full accommodation and equal opportunity within the mainstream)."
+  }
+]
+```
+
+========== CHUNK 27 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Inclusive Education and Differentiated Instruction",
+    "question_type": "Assertion and Reason",
+    "assertion": "An inclusive classroom does NOT provide differentiated instruction.",
+    "reason": "Inclusion emphasizes equal opportunities, which requires standardized teaching and similar teaching policies for all students.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation for Assertion.",
+      "Assertion is true, but Reason is false.",
+      "Both Assertion and Reason are false."
+    ],
+    "correct_option": 4,
+    "answer": "Both Assertion and Reason are false.",
+    "explanation": "Assertion is false: An inclusive classroom absolutely must provide differentiated instruction (teaching methods tailored to individual student needs) to cater to diversity. Reason is also false: Inclusion focuses on equal opportunities, but this does not imply identical or standardized teaching. Instead, it requires varied, flexible, and differentiated teaching strategies and assessment methods tailored to individual student requirements and abilities. Therefore, both the Assertion and the Reason are incorrect."
+  },
+  {
+    "id": 2,
+    "topic": "Segregation and Social Isolation",
+    "question": "A school administration decides to place all students with disabilities in a separate classroom primarily to quickly complete the syllabus. What would be the main negative impact of this policy?",
+    "options": [
+      "It would boost collaboration among all students.",
+      "It would lead to increased social isolation and a decrease in self-esteem among students with disabilities.",
+      "It would simplify the teacher's workload.",
+      "It would ensure effective curriculum coverage for all students."
+    ],
+    "correct_option": 2,
+    "answer": "It would lead to increased social isolation and a decrease in self-esteem among students with disabilities.",
+    "explanation": "Segregation (placing disabled students in separate classrooms) undermines the principles of inclusive education. The main negative impact is that it leads to social isolation (preventing interaction with general peers) and lowers the self-esteem of the disabled students, who feel they are being singled out or marginalized."
+  },
+  {
+    "id": 3,
+    "topic": "Learning Disabilities (SLD)",
+    "question": "Which of the following statements is TRUE regarding specific learning disabilities (such as Dyslexia, Dyscalculia, and Dysgraphia)?",
+    "options": [
+      "All students with learning disabilities are similar in their learning patterns and needs.",
+      "Only standardized tests should be used to correctly evaluate the progress of these students.",
+      "Teacher-centric (lecture-based) teaching methods are most effective for the intellectual development of these students.",
+      "Learning disabilities are influenced by both neurodevelopmental/brain-related factors and environmental factors."
+    ],
+    "correct_option": 4,
+    "answer": "Learning disabilities are influenced by both neurodevelopmental/brain-related factors and environmental factors.",
+    "explanation": "Specific learning disabilities (SLD) often have a neurological basis (neurodevelopmental) but their expression, severity, and response to intervention are significantly mediated by environmental factors (e.g., quality of instruction, home environment, support systems). The other options are incorrect: Students with LD are highly diverse; standardized tests are generally inappropriate for evaluation; and child-centric methods, not teacher-centric methods, are most effective."
+  },
+  {
+    "id": 4,
+    "topic": "Autism Spectrum Disorder (ASD)",
+    "question": "Preeti consistently engages in repetitive behavioral actions and has difficulty establishing coordination based on social communication. Which disability is identified by these characteristics?",
+    "options": [
+      "Attention Deficit Hyperactivity Disorder (ADHD)",
+      "Autism Spectrum Disorder (ASD)",
+      "Dyspraxia",
+      "Dyscalculia"
+    ],
+    "correct_option": 2,
+    "answer": "Autism Spectrum Disorder (ASD)",
+    "explanation": "The key characteristics mentioned—repetitive behaviors (stereotyped or restricted behavior/motor actions) and persistent difficulties with social communication and interaction—are the defining features of Autism Spectrum Disorder (ASD). Children with ASD often prefer to be self-absorbed and struggle with the back-and-forth of social interaction."
+  },
+  {
+    "id": 5,
+    "topic": "Characteristics of Learning Disabilities",
+    "question": "Which of the following characteristics are generally observed in students with Learning Disabilities (LD)?\n\nI. They skip words or lines while reading.\nII. They make frequent errors in spelling.\nIII. They do not consistently make errors in counting or mathematical problems.",
+    "options": [
+      "I only",
+      "II only",
+      "I and II only",
+      "I, II, and III"
+    ],
+    "correct_option": 3,
+    "answer": "I and II only",
+    "explanation": "Statements I (skipping words/lines) and II (spelling errors) are common indicators of reading and writing disabilities (Dyslexia and Dysgraphia). Statement III suggests that the student is proficient in math (not making consistent errors in counting or calculation), meaning they would likely NOT have Dyscalculia. Therefore, I and II are general characteristics of LD students, but III is not."
+  },
+  {
+    "id": 6,
+    "topic": "Assistive Technology",
+    "question": "Which assistive technology is suitable for students experiencing difficulties in hearing (hearing impairment)?",
+    "options": [
+      "Text-to-speech software",
+      "Audiobooks",
+      "Braille reading materials",
+      "Sign Language"
+    ],
+    "correct_option": 4,
+    "answer": "Sign Language",
+    "explanation": "Sign Language is a visual-gestural system specifically developed for communication with and among individuals who are deaf or hard of hearing. Text-to-speech and audiobooks rely on auditory input and are thus unsuitable for the hearing impaired, although they are useful for the visually impaired. Braille is used for the visually impaired."
+  }
+]
+```
+
+========== CHUNK 28 ==========
+{
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Learning Disabilities (Language)",
+      "question": "A teacher observed that a child in the class is finding it difficult to understand instructions and clearly express their ideas, although their mathematical calculation and writing abilities are normal. Which specific learning difficulty is the child exhibiting?",
+      "options": [
+        "Dyscalculia (Difficulty with mathematical calculation)",
+        "Dysgraphia (Difficulty with writing)",
+        "Dysphoria (Related to mood/anxiety disorders or excessive worry)",
+        "Dysphasia (Difficulty with comprehending or expressing language)"
+      ],
+      "correct_option": 4,
+      "answer": "Dysphasia (Difficulty with comprehending or expressing language)",
+      "explanation": "Since the student's mathematical (Dyscalculia) and writing (Dysgraphia) abilities are normal, the difficulty lies in processing and expressing verbal information and understanding instructions. Dysphasia (or Aphasia, in severe cases) is a disorder affecting the ability to use or understand language, often resulting in difficulties with verbal expression and comprehension."
+    },
+    {
+      "id": 2,
+      "topic": "Inclusive Education and Accessibility",
+      "question": "Aryan, a Class 7 student who uses a wheelchair, recently got admission to a school. The school administration wishes to ensure his full participation and inclusion. Which of the following arrangements would HINDER Aryan's successful inclusion and should therefore be AVOIDED?",
+      "options": [
+        "Providing ramps and lift facilities within the school premises.",
+        "Making physical and educational adaptations according to Aryan's needs.",
+        "Providing appropriate seating arrangements and sufficient space in the classroom.",
+        "Locating the classrooms, library, and science laboratory on the upper floor."
+      ],
+      "correct_option": 4,
+      "answer": "Locating the classrooms, library, and science laboratory on the upper floor.",
+      "explanation": "For a student using a wheelchair (Locomotor Disability), placing essential facilities like classrooms, the library, and laboratories on upper floors creates a physical barrier, significantly hindering their mobility and participation unless adequate lift access is guaranteed. Inclusive practice mandates that such essential facilities should ideally be located on the ground floor or be easily accessible via ramps and lifts."
+    },
+    {
+      "id": 3,
+      "topic": "Inclusive Education: Accommodations",
+      "question": "Under inclusive education, which of the following pairs correctly matches the disability with the appropriate supportive arrangement?",
+      "options": [
+        {
+          "disability": "ADHD (Attention Deficit Hyperactivity Disorder)",
+          "arrangement": "Giving small, grouped tasks, and providing frequent breaks."
+        },
+        {
+          "disability": "Cerebral Palsy (Motor disorder)",
+          "arrangement": "Mandating fast handwriting and time-bound written examinations."
+        },
+        {
+          "disability": "Dysgraphia (Writing difficulty)",
+          "arrangement": "Emphasizing long written answer booklets."
+        },
+        {
+          "disability": "Intellectual Disability",
+          "arrangement": "Increased use of abstract concepts."
+        },
+        {
+          "disability": "Speech Impairment",
+          "arrangement": "Only conducting oral examinations."
+        }
+      ],
+      "correct_option": 1,
+      "answer": "ADHD (Attention Deficit Hyperactivity Disorder) | Giving small, grouped tasks, and providing frequent breaks.",
+      "explanation": "Students with ADHD have difficulty sustaining focus. Providing small, manageable tasks and frequent breaks helps maintain their attention and reduces hyperactivity. All other options describe unsuitable or harmful arrangements: Forcing fast writing (Cerebral Palsy) is impossible; emphasizing long answers (Dysgraphia) compounds the writing difficulty; increasing abstract concepts (Intellectual Disability) exceeds the cognitive capacity; and relying only on oral exams (Speech Impairment) is counterproductive given the student's difficulty with speaking."
+    },
+    {
+      "id": 4,
+      "topic": "Inclusive Classroom Practices",
+      "question": "A teacher aims to create an adaptive learning environment and a conducive atmosphere for students with disabilities in her class. Which of the following would be the most appropriate approach?",
+      "options": [
+        "Forcing students to follow a strict, rigid curriculum.",
+        "Making educational decisions without consulting the student.",
+        "Evaluating students only using standardized assessment methods.",
+        "Making appropriate and reasonable adjustments to the curriculum so that students can actively learn."
+      ],
+      "correct_option": 4,
+      "answer": "Making appropriate and reasonable adjustments to the curriculum so that students can actively learn.",
+      "explanation": "Inclusive education requires flexibility. The curriculum, teaching methods, and environment must be adapted to meet the diverse needs of students (Curriculum Adaptation). Strict curricula, lack of student consultation, and reliance solely on standardized assessments contradict the principles of inclusion and flexible learning."
+    },
+    {
+      "id": 5,
+      "topic": "Characteristics of Learning",
+      "question": "Consider the following statements regarding the characteristics of learning (Adhigam). Which statements are generally considered true in educational psychology?",
+      "statements": [
+        "A. Learning is goal-directed.",
+        "B. Learning results in relatively permanent changes in behavior.",
+        "C. Learning is a passive process.",
+        "D. Learning is a continuous process that proceeds throughout life."
+      ],
+      "correct_statements": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Learning is inherently goal-directed, meaning it occurs because we seek to achieve a specific outcome. Successful learning leads to changes in behavior that are reasonably lasting. Learning is a lifelong process (continuous). Statement C is incorrect because learning is an active process (सक्रिय), not a passive one, requiring engagement from the learner. Other characteristics discussed include: Learning is a mental process, Learning is transferable (transfer of learning), and Learning is improvable."
+    }
+  ]
+}
+
+========== CHUNK 29 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Factors Affecting Learning",
+    "question": "Which of the following factors affect learning?",
+    "options": [
+      "Motivation of the students",
+      "Maturation level of the students",
+      "Teaching strategies",
+      "Physical and emotional health of the students",
+      "All of the above"
+    ],
+    "correct_option": 5,
+    "answer": "All of the above",
+    "explanation": "The speaker confirms that all the listed factors—motivation, maturity (a hereditary factor), effective teaching strategies, and physical/emotional health—significantly influence a child's learning process. For example, a malnourished child (poor physical health) will face difficulties in learning. Therefore, all these factors affect learning."
+  },
+  {
+    "id": 2,
+    "topic": "Types of Learning (Synchronous vs. Asynchronous)",
+    "question": "A teacher provides students with a pre-recorded lecture and asks them to complete practice work within a week. Students can watch the lecture at any time and submit their work online. What type of learning does this demonstrate?",
+    "options": [
+      "Synchronous Learning",
+      "Asynchronous Learning",
+      "Blended Learning",
+      "Traditional Classroom Learning"
+    ],
+    "correct_option": 2,
+    "answer": "Asynchronous Learning",
+    "explanation": "Asynchronous learning involves learning that occurs outside of real-time interaction. Since the students can watch the recorded lecture at their own pace (flexible timing) and feedback is delayed (submission within a week), this is characteristic of asynchronous learning. Synchronous learning requires real-time interaction (like live classes or video conferencing)."
+  },
+  {
+    "id": 3,
+    "topic": "Universal Design for Learning (UDL)",
+    "question": "Universal Design for Learning (UDL) emphasizes all of the following EXCEPT:",
+    "options": [
+      "Engaging learners by linking learning tasks to their interests and providing appropriate challenges.",
+      "Classifying and labeling learners based on their abilities and limitations.",
+      "Providing multiple ways for learners to access, acquire, and understand information.",
+      "Offering different options for learners to express and demonstrate their learning."
+    ],
+    "correct_option": 2,
+    "answer": "Classifying and labeling learners based on their abilities and limitations.",
+    "explanation": "UDL is a framework based on child-centered education. It focuses on providing flexible methods for engagement, representation of information, and expression of learning. It explicitly rejects the practice of classifying, categorizing, or labeling students (e.g., 'gifted,' 'average,' 'low achievers') as this contradicts the inclusive, flexible nature of UDL."
+  },
+  {
+    "id": 4,
+    "topic": "Learning Styles",
+    "question": "A student quickly understands a topic by viewing charts, pictures, and diagrams but struggles with long oral explanations (lectures). Which learning style does this student demonstrate?",
+    "options": [
+      "Visual Learning Style",
+      "Auditory Learning Style",
+      "Kinesthetic Learning Style",
+      "Reading/Writing Learning Style"
+    ],
+    "correct_option": 1,
+    "answer": "Visual Learning Style",
+    "explanation": "The student learns best 'by seeing' (through charts, pictures, and diagrams). This indicates that their preferred method of processing information is visual. The difficulty with oral explanations further confirms that they are not primarily auditory learners."
+  }
+]
+```
+
+========== CHUNK 30 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Motivation and Learning",
+    "question": "Read the following statements and choose the correct option:\n\nAssertion (A): Motivation plays a crucial role in enhancing student learning.\nReason (R): Motivation increases learners' interest and effort, leading them to actively engage in learning and self-monitor their learning.",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "Both (A) and (R) are false."
+    ],
+    "correct_option": 1,
+    "answer": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+    "explanation": "Motivation is vital for effective learning. The assertion states that motivation enhances learning, which is true. The reason explains how motivation works: by increasing interest and effort, encouraging active participation, and promoting self-monitoring (metacognition). Therefore, the reason correctly explains the assertion."
+  },
+  {
+    "id": 2,
+    "topic": "Learning Theories and Pedagogical Methods",
+    "question": "A teacher observes that students grasp concepts better when they actively participate through experiments, group discussions, and hands-on activities, rather than merely listening to lectures. Which learning principle does this situation best illustrate?",
+    "options": [
+      "Learning is based on reinforcement.",
+      "Active participation and direct experience make learning more effective.",
+      "Learning occurs only through rewards and punishments.",
+      "Learning depends entirely on teacher instructions."
+    ],
+    "correct_option": 2,
+    "answer": "Active participation and direct experience make learning more effective.",
+    "explanation": "The scenario describes constructivist and experiential learning approaches (hands-on activities, experiments, group discussions), where students are active participants. This approach emphasizes that learning is most effective when the learner is actively engaged and gains direct experience, unlike passive methods like pure lecturing (teacher instruction/passive reception) or purely behaviorist methods (reinforcement/punishment)."
+  },
+  {
+    "id": 3,
+    "topic": "Child-Centered Pedagogy and Meaningful Learning",
+    "question": "Read the following statements and choose the correct option:\n\nAssertion (A): Teachers should focus on encouraging students to ask questions (even to peers) rather than just giving instructions, to promote meaningful learning.\nReason (R): Child-centered pedagogy provides opportunities for students to express their ideas and ensures their active participation.",
+    "options": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "Both (A) and (R) are false."
+    ],
+    "correct_option": 1,
+    "answer": "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+    "explanation": "Meaningful learning (Sarthak Adhigam) is rooted in constructivism, requiring conceptual understanding and active engagement (A). Child-centered pedagogy (R) directly supports this by maximizing opportunities for student expression and participation, thereby making it the underlying principle for promoting meaningful learning through questioning and exploration."
+  },
+  {
+    "id": 4,
+    "topic": "Child-Centered Education",
+    "question": "Which of the following does NOT promote child-centered teaching-learning?",
+    "options": [
+      "Providing a safe and positive school environment conducive to children.",
+      "Encouraging active participation and self-expression of students.",
+      "Adopting positive discipline and giving students freedom to ask questions and explore ideas.",
+      "Using rote learning and viewing the student as a passive recipient of knowledge."
+    ],
+    "correct_option": 4,
+    "answer": "Using rote learning and viewing the student as a passive recipient of knowledge.",
+    "explanation": "Child-centered education emphasizes active learning, conceptual understanding, and the student as a constructor of knowledge. Rote learning and treating the student as a passive recipient of knowledge are antithetical to this approach. Options 1, 2, and 3 are all core tenets of child-centered pedagogy."
+  },
+  {
+    "id": 5,
+    "topic": "Gifted Children",
+    "question": "Which of the following is NOT true regarding gifted children?",
+    "options": [
+      "They show interest in challenging tasks rather than mediocre tasks.",
+      "They learn at a relatively advanced pace compared to other students (Acceleration is an appropriate teaching strategy).",
+      "They possess High Order Thinking Skills (HOTS).",
+      "They primarily rely on memorization and low-order thinking skills to solve problems."
+    ],
+    "correct_option": 4,
+    "answer": "They primarily rely on memorization and low-order thinking skills to solve problems.",
+    "explanation": "Gifted children exhibit advanced cognitive abilities, a fast pace of learning, and preference for complexity. They rely heavily on Higher Order Thinking Skills (HOTS) like analysis, synthesis, and evaluation, and actively seek out challenging work. Therefore, stating they rely on memorization and low-order thinking skills (LOTS) is incorrect."
+  }
+]
+```
+
+========== CHUNK 31 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Gifted Children",
+    "question": "Which of the following statements about gifted children is NOT correct?",
+    "options": [
+      "They possess Higher Order Thinking Skills (HOTS).",
+      "They show high ability in analysis, synthesis, and evaluation.",
+      "They are often highly curious and intrinsically motivated.",
+      "They definitely achieve excellence in all domains: academic, social, and emotional."
+    ],
+    "correct_option": 4,
+    "answer": "They definitely achieve excellence in all domains: academic, social, and emotional.",
+    "explanation": "Gifted children certainly excel in cognitive and academic domains, demonstrating HOTS such as analysis, synthesis, and evaluation. However, it is a misconception that giftedness guarantees excellence across *all* domains (academic, social, emotional). Many highly intelligent individuals may struggle with emotional regulation, social adjustment, or mental health issues, demonstrating that strength in one area does not negate weakness in another."
+  },
+  {
+    "id": 2,
+    "topic": "Misconceptions and Constructivist Teaching",
+    "question": "Read the following Assertion (A) and Reason (R) and choose the correct option:",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "Both A and R are false."
+    ],
+    "assertion": "(A) Teachers should evaluate evidence logically and systematically, providing ample opportunities for children to experiment.",
+    "reason": "(R) Attempts should be made to overcome misconceptions (naive concepts/alternative conceptions) by providing authentic evidence.",
+    "correct_option": 1,
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Assertion (A) is correct. Effective teaching involves providing students with many opportunities for experimentation and logical evaluation of the resulting data. Reason (R) is also correct. Misconceptions are important parts of a child's thinking and should be addressed by providing factual, authentic evidence (Pramanik Sakshya) to help them restructure their understanding. Since providing authentic evidence (R) is precisely how a teacher facilitates logical and systematic evaluation during experimentation (A), R correctly explains A. The entire process focuses on guided conceptual change."
+  },
+  {
+    "id": 3,
+    "topic": "Progressive Education and Learning",
+    "question": "In a progressive classroom, which of the following statements best reflects the principles of learning?",
+    "options": [
+      "Learning is not self-constructed by students.",
+      "Learning is teacher-directed, and the student should be considered a passive recipient of knowledge.",
+      "Learning occurs mainly through practice, repetition, rewards, and punishment.",
+      "Learning occurs through direct experience, discussion, and active participation."
+    ],
+    "correct_option": 4,
+    "answer": "Learning occurs through direct experience, discussion, and active participation.",
+    "explanation": "Progressive education, rooted in constructivism (Rachnavad), emphasizes that children construct their own knowledge (self-constructed) through active engagement. Methods like direct experience, dialogue (discussion), and collaboration ensure active participation, which is foundational to this approach. It rejects rote repetition, rewards/punishment (behaviorism), and passive reception of knowledge."
+  },
+  {
+    "id": 4,
+    "topic": "Role of Teacher in Progressive Education",
+    "question": "Which of the following statements best describes the role of the teacher in Progressive Education?",
+    "options": [
+      "The teacher strictly implements the predetermined curriculum exactly as it is written.",
+      "The teacher allows children to work completely independently without any guidance.",
+      "The teacher acts as the main source of knowledge for the students.",
+      "The teacher works as a facilitator, providing guidance and support to the students."
+    ],
+    "correct_option": 4,
+    "answer": "The teacher works as a facilitator, providing guidance and support to the students.",
+    "explanation": "In progressive and child-centered education, the teacher’s role is defined as a facilitator (Sahayak). According to NCF 2005, a facilitator creates an environment conducive to learning, provides necessary resources, offers guidance when the student faces difficulties, and helps students in their process of knowledge construction, rather than simply dispensing information or strictly enforcing curriculum rigidity."
+  },
+  {
+    "id": 5,
+    "topic": "Attribution and Mindset",
+    "question": "Rohit fails his examination and believes he failed because he lacks ability (Entitaty Theory/Fixed Mindset). He thinks that no matter how much effort he puts in, he cannot improve. Based on this belief that ability is fixed and cannot be changed by effort, what is he most likely to experience?",
+    "options": [
+      "Learned Helplessness",
+      "Brain Plasticity",
+      "High Self-Esteem",
+      "Mastery Orientation"
+    ],
+    "correct_option": 1,
+    "answer": "Learned Helplessness",
+    "explanation": "Learned helplessness (Adhigam Lad Asahayta) is a condition in which an individual attributes failure to stable, internal factors (like lack of ability) rather than unstable, controllable factors (like lack of effort). Since Rohit believes his ability is fixed and his efforts are futile, he will stop trying to improve, leading to a state of learned helplessness. This is associated with a fixed mindset, not a growth mindset (which aligns with Brain Plasticity and Mastery Orientation)."
+  },
+  {
+    "id": 6,
+    "topic": "Socio-Constructivism",
+    "question": "A teacher observed that children learn best when they interact with peers, explore, and connect the lesson to daily life. Based on the socio-constructivist perspective, which of the following statements is the most appropriate?",
+    "options": [
+      "Children gradually change through experience.",
+      "Behavior is entirely determined by early experiences.",
+      "Children are innocent at birth and must be molded by the teacher.",
+      "Children are active learners who construct knowledge through social interaction."
+    ],
+    "correct_option": 4,
+    "answer": "Children are active learners who construct knowledge through social interaction.",
+    "explanation": "Socio-constructivism (associated with Vygotsky) emphasizes that knowledge construction is a process driven by active engagement, especially through interaction with others (social interaction) and exploration. While Option 1 (gradual change through experience) is true, Option 4 provides the most comprehensive and direct definition aligning with the core tenets of socio-constructivism mentioned in the scenario (peer interaction, exploration, knowledge construction)."
+  },
+  {
+    "id": 7,
+    "topic": "Learning Theories and Application",
+    "question": "Mira is asked to build a simple electric circuit. The teacher does not provide direct steps, but Mira learns by manipulating materials, investigating connections, and trying to understand how the circuit works by herself. This situation reflects which principle of learning?",
+    "options": [
+      "Exploration of ideas and construction of knowledge through experimentation.",
+      "Learning only by following repeated instructions and practice.",
+      "Learning by observing and memorizing information given by the teacher.",
+      "Learning only through trial and error without considering the outcomes."
+    ],
+    "correct_option": 1,
+    "answer": "Exploration of ideas and construction of knowledge through experimentation.",
+    "explanation": "The scenario describes Mira actively engaging in hands-on manipulation, investigation, and self-discovery. This is a clear example of Constructivism, where the learner actively constructs knowledge through experimentation (Anveshan), rather than passively receiving instructions (Option 2), memorizing (Option 3), or engaging in blind trial and error (Option 4). The focus is on discovery and self-generated understanding."
+  }
+]
