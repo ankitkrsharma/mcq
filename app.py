@@ -34,7 +34,7 @@ def extract_questions(file_path):
 # ----------------------------------------------------
 # LOAD QUESTIONS
 # ----------------------------------------------------
-FILE =r"C:\Users\ankit\OneDrive\Desktop\mcq\question.txt"
+FILE =r"question.txt"
 questions = extract_questions(FILE)
 
 if not questions:
