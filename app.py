@@ -110,7 +110,7 @@ selected = st.radio(
         else None
     ),
     format_func=lambda x: options[x - 1],
-    key=f"q_{st.session_state.index}"
+    key="answer_radio"
 )
 
 if selected is not None:
@@ -137,6 +137,7 @@ with col1:
     if st.button("⬅ Previous", key="prev_btn"):
         if st.session_state.index > 0:
             st.session_state.index -= 1
+            st.session_state.pop("answer_radio", None)
 
 with col2:
     st.markdown(
@@ -148,6 +149,7 @@ with col3:
     if st.button("Next ➡", key="next_btn"):
         if st.session_state.index < TOTAL - 1:
             st.session_state.index += 1
+            st.session_state.pop("answer_radio", None)
 
 # ----------------------------------------------------
 # REVIEW ANSWERS (HIDDEN BY DEFAULT)
