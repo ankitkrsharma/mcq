@@ -1,0 +1,1484 @@
+
+========== CHUNK 1 ==========
+{
+  "extracted_questions": [
+    {
+      "id": 1,
+      "topic": "Features of Language",
+      "question": "Language is NOT:",
+      "options": [
+        "Social",
+        "Instinctive (Manmani)",
+        "Arbitrary (Swachchhand)",
+        "Symbolic"
+      ],
+      "correct_option": 2,
+      "answer": "Instinctive (Manmani)",
+      "explanation": "The speaker reviews the features of language: Language is Social (used for interaction), Symbolic (uses letters/signs), Systematic/Structured (follows rules like Grammar, e.g., Subject-Verb-Object), Dynamic (changes over time), and Arbitrary (no inherent relation between word and meaning). Since language is structured and systematic, one cannot use it according to their 'will' (मनमानी—instinctive/capricious use). Therefore, language is NOT instinctive/capricious, making this the correct answer in the context of a negative question."
+    },
+    {
+      "id": 2,
+      "topic": "Features of Language - Arbitrariness",
+      "question": "The term 'Language Arbitrary' means:",
+      "options": [
+        "There is an external relation between the word and its meaning.",
+        "It is based on a valid reason and not on chance.",
+        "There is a strong relation between the word of the language and its meaning.",
+        "There is no inherent relation between the word and its meaning."
+      ],
+      "correct_option": 4,
+      "answer": "There is no inherent relation between the word and its meaning.",
+      "explanation": "Arbitrariness (स्वच्छंदता) is a key feature of language. It means that the relationship between a word (the linguistic signifier, e.g., P.E.N.) and the object it represents (the signified, the physical pen) is purely conventional or based on chance/agreement (e.g., if the inventor had named it 'phone,' we would call it a 'phone'). There is no intrinsic, internal (inherent) connection between the sound/symbol and the concept."
+    },
+    {
+      "id": 3,
+      "topic": "Vygotsky's Speech Types",
+      "question": "During a classroom discussion, a student is listening to her peers. She comments on the discussion, but her comment is NOT audible to her peers. What type of speech is she engaged in?",
+      "options": [
+        "Egocentric Speech",
+        "Social Speech",
+        "Private Speech",
+        "Silent Inner Speech"
+      ],
+      "correct_option": 4,
+      "answer": "Silent Inner Speech",
+      "explanation": "According to Vygotsky, there are three types of speech: Social Speech (for communication with others), Private Speech (self-talk, which is audible, often used by children while playing or adults while focusing on a task), and Silent Inner Speech (self-talk that is completely internal, not audible to others, often used for critical thinking or self-regulation). Since the student's comments are 'NOT audible' (सुनाई नहीं दे रहा है), she is engaged in Silent Inner Speech. (Note: The speaker confirmed the options were changed to include 'Silent Inner Speech' because it precisely matches the condition 'Not Audible')."
+    }
+  ]
+}
+
+========== CHUNK 2 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Acquisition (Nativism)",
+    "question": "The idea that all children are born with an innate knowledge of grammar (innate capacity for grammar) is attributed to which theorist?",
+    "options": [
+      "Noam Chomsky",
+      "Jean Piaget",
+      "Lev Vygotsky",
+      "B.F. Skinner"
+    ],
+    "correct_option": 1,
+    "answer": "Noam Chomsky",
+    "explanation": "Noam Chomsky is the proponent of the Nativist theory, which posits that humans possess an innate, biological mechanism (often termed the Language Acquisition Device or LAD) containing Universal Grammar, allowing them to naturally acquire language and understand its fundamental rules from birth."
+  },
+  {
+    "id": 2,
+    "topic": "Language Teaching Methods (Oral Situational Approach)",
+    "question": "In the Oral Situational Approach (OSA) or Situational Language Teaching (SLT), which language skill is given primary priority?",
+    "options": [
+      "Speech (Speaking)",
+      "Reading",
+      "Writing",
+      "Listening"
+    ],
+    "correct_option": 1,
+    "answer": "Speech (Speaking)",
+    "explanation": "The Oral Situational Approach (OSA), also known as Situational Language Teaching (SLT), emphasizes the use of language in realistic situations and gives primary importance to developing oral skills (speaking and listening). It focuses on accuracy and the mastery of correct language structures through repetition and practice in context."
+  }
+]
+```
+
+========== CHUNK 3 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Teaching Methods (TPR)",
+    "question": "The method that is based on the coordination of language and physical movement is:",
+    "options": [
+      "Task-Based Language Teaching (TBLT)",
+      "Total Physical Response (TPR)",
+      "Cooperative Language Learning",
+      "Communicative Language Teaching (CLT)"
+    ],
+    "correct_option": 2,
+    "answer": "Total Physical Response (TPR)",
+    "explanation": "Total Physical Response (TPR) is a method developed by James Asher that emphasizes coordinating language understanding with physical actions. Learners respond to commands given in the target language through bodily movements, establishing a strong link between speech and action."
+  },
+  {
+    "id": 2,
+    "topic": "Language Learning Approaches (Constructivism)",
+    "question": "The Constructivist Approach is different from the Communicative Approach in that it focuses primarily on:",
+    "options": [
+      "Focusing on meaning, and expecting that the form (structure/rules) will gradually be learned in the process.",
+      "Focusing on the form (structure/rules), and expecting that meaning will gradually be learned.",
+      "Use and knowledge of the form (rules/structures).",
+      "Drilling and habit formation."
+    ],
+    "correct_option": 1,
+    "answer": "Focusing on meaning, and expecting that the form (structure/rules) will gradually be learned in the process.",
+    "explanation": "The Constructivist approach, like the Communicative Approach, is a modern, child-centered approach. It emphasizes that the learner actively constructs knowledge (meaning) through experience and interaction. The primary focus is always on deriving meaning and communication. While form (rules/grammar) is important, it is learned inductively and contextually as part of the communicative process, not taught deductively in isolation. Options 2, 3, and 4 prioritize explicit rule learning, which is characteristic of traditional or behaviorist methods (like GTM or ALM), not constructivist/communicative frameworks."
+  }
+]
+```
+
+========== CHUNK 4 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Communicative Approach (CLT)",
+    "question": "Which of the following is NOT a feature of the Communicative Approach to Language Teaching (CLT)?",
+    "options": [
+      "They are all based on a semantically organized syllabus (meaning-based).",
+      "They teach the language needed in different situations to understand different functions.",
+      "They do not emphasize the appropriateness of language.",
+      "They emphasize the correct use of language."
+    ],
+    "correct_option": 3,
+    "answer": "They do not emphasize the appropriateness of language.",
+    "explanation": "The Communicative Approach places significant emphasis on language appropriateness (using language that is suitable for the context and meaning-oriented). Therefore, the statement that CLT does not emphasize appropriateness contradicts a core principle of the approach and is the incorrect feature."
+  },
+  {
+    "id": 2,
+    "topic": "Language Learning Approaches",
+    "question": "Which approach/method is most based on the way children naturally learn language?",
+    "options": [
+      "Grammar-Translation Method",
+      "Communicative Language Teaching (CLT)",
+      "Structural Approach",
+      "Role Playing Method"
+    ],
+    "correct_option": 2,
+    "answer": "Communicative Language Teaching (CLT)",
+    "explanation": "While the 'Natural Approach' would be the ideal answer if available, among the choices provided, CLT is the most suitable. It focuses on meaningful interaction and communication rather than explicit rules (GTM) or rigid patterns (Structural Approach), thereby mimicking the interaction-heavy process through which children acquire their first language."
+  },
+  {
+    "id": 3,
+    "topic": "Language Teaching Methods",
+    "question": "In which method do students learn language patterns by repeating model sentences, memorize them through drilling practice, use set phrases, and receive positive reinforcement upon correct performance?",
+    "options": [
+      "Grammar-Translation Method",
+      "Audio-Lingual Method (ALM)",
+      "Direct Method",
+      "Communicative Language Teaching (CLT)"
+    ],
+    "correct_option": 2,
+    "answer": "Audio-Lingual Method (ALM)",
+    "explanation": "The key characteristics mentioned—repetition of model sentences, drilling, memorization, use of set phrases, and positive reinforcement—are all foundational elements of the Audio-Lingual Method, which is based on behaviorist principles."
+  },
+  {
+    "id": 4,
+    "topic": "Theory vs. Approach vs. Method vs. Technique",
+    "question": "The term that refers to theories about the nature of language and language learning that serves as a source (or blueprint) for instructional practices is the:",
+    "options": [
+      "Theory",
+      "Approach",
+      "Method",
+      "Technique"
+    ],
+    "correct_option": 2,
+    "answer": "Approach",
+    "explanation": "An Approach is the set of assumptions about what language is and how it is learned, serving as the philosophical blueprint derived from theory. The Method is the specific set of classroom procedures used to implement the Approach, and the Technique is the individual teacher’s way of applying the Method."
+  },
+  {
+    "id": 5,
+    "topic": "Whole Language Approach",
+    "question": "As a teacher, you appreciate the student's overall language use and consciously ignore minor spelling or structural mistakes they made. Which language teaching approach are you employing?",
+    "options": [
+      "Constructivist Approach",
+      "Structural Approach",
+      "Communicative Approach",
+      "Whole Language Approach"
+    ],
+    "correct_option": 4,
+    "answer": "Whole Language Approach",
+    "explanation": "The Whole Language Approach (WLA) views language as a complete, holistic system. It focuses on the overall meaning and function of the student's language use, often overlooking or downplaying minor errors (like spelling or small grammatical mistakes) to encourage fluent expression."
+  },
+  {
+    "id": 6,
+    "topic": "Direct Method",
+    "question": "Which language teaching method emphasizes the explicit exclusion of the mother tongue (L1) in the classroom, teaching directly through the target language (L2)?",
+    "options": [
+      "Audio-Lingual Method",
+      "Bilingual Method",
+      "Direct Method",
+      "Natural Approach"
+    ],
+    "correct_option": 3,
+    "answer": "Direct Method",
+    "explanation": "The Direct Method (DM) mandates that instruction be conducted entirely in the target language, forbidding the use of the learner's mother tongue in the classroom. This is its definitive characteristic, distinguishing it even from methods like ALM where L1 use is discouraged but not strictly prohibited in the foundational definition."
+  },
+  {
+    "id": 7,
+    "topic": "Grammar Teaching Approaches",
+    "question": "The Deductive Approach (Nigman Vidhi) to teaching grammar advocates that we should do what first?",
+    "options": [
+      "Present genuine communication tasks",
+      "Provide practice through drills",
+      "Present examples first",
+      "Present rules first"
+    ],
+    "correct_option": 4,
+    "answer": "Present rules first",
+    "explanation": "The Deductive Approach moves from the general to the specific (Nigman: Ni stands for Niyam, or rule). The teacher provides the grammatical rules first, followed by examples and practice exercises."
+  },
+  {
+    "id": 8,
+    "topic": "Direct Method Characteristics",
+    "question": "Which one of these statements is NOT related to the Direct Method of teaching?",
+    "options": [
+      "It is considered a Natural Method.",
+      "It is also called the Mother’s Method.",
+      "It was approved and spread by the International Phonetic Association of France.",
+      "This method considers visual appeal over oral-oral appeal."
+    ],
+    "correct_option": 4,
+    "answer": "This method considers visual appeal over oral-oral appeal.",
+    "explanation": "The Direct Method emphasizes immediate and direct communication in the target language (L2), focusing heavily on oral (speaking) and aural (listening) skills. It prioritizes sound and speech over written or visual elements. Therefore, the statement that it prioritizes visual appeal over oral appeal is incorrect."
+  }
+]
+```
+
+========== CHUNK 5 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Teaching Approaches (Group Work)",
+    "question": "A teacher promotes group discussion and peer interaction in her classroom. She does not prioritize correcting students' spelling or pronunciation errors frequently during the activity. Which pedagogical approach is she following?",
+    "options": [
+      "Structural Approach",
+      "Constructivist Approach",
+      "Behaviorist Approach",
+      "Grammar-Translation Method (GTM)"
+    ],
+    "correct_option": 2,
+    "answer": "Constructivist Approach",
+    "explanation": "Promoting group discussion and peer interaction, while focusing less on immediate correction of surface errors (spelling/pronunciation), indicates an approach that prioritizes meaning negotiation and communication. Both Communicative Language Teaching (CLT) and the Constructivist Approach emphasize learner interaction, collaborative learning, and the social construction of knowledge. The teacher explicitly suggests 'Constructivist' as the likely answer if only one option is available, emphasizing active learning through interaction rather than mere drilling or structured correction."
+  },
+  {
+    "id": 2,
+    "topic": "Reading/Listening Processing Models",
+    "question": "If a child's textbook is designed to begin with rhymes and picture stories and concludes by introducing the alphabet, which language processing approach does this design follow?",
+    "options": [
+      "Bottom-Up Approach",
+      "Top-Down Approach",
+      "Aesthetic Approach",
+      "Eclectic Approach"
+    ],
+    "correct_option": 2,
+    "answer": "Top-Down Approach",
+    "explanation": "The Top-Down approach begins with holistic meaning (e.g., stories, rhymes, context, overall text) and then moves towards specific linguistic units (e.g., words, letters, alphabets). Starting with engaging content like rhymes and stories (meaning) and ending with the basic building blocks (alphabets) represents processing moving from the 'top' (meaning/whole) to the 'down' (parts/units)."
+  },
+  {
+    "id": 3,
+    "topic": "Language Teaching Approaches",
+    "question": "One of the most important features of which approach is that the learners solve problems collectively, either in pairs or in groups?",
+    "options": [
+      "Whole Language Approach",
+      "Structural Approach",
+      "Communicative Approach",
+      "Behaviorist Approach"
+    ],
+    "correct_option": 3,
+    "answer": "Communicative Approach",
+    "explanation": "Working collectively in pairs or groups is a key feature of approaches that stress interaction and negotiation of meaning. This is centrally linked to the Communicative Approach (CLT) and the Constructivist Approach, where learners use language to achieve shared goals and construct meaning collaboratively."
+  },
+  {
+    "id": 4,
+    "topic": "Language Teaching Methods and Objectives",
+    "question": "Which approach or method is primarily geared towards the learner's main goal of using the language effectively for communication in real-life contexts?",
+    "options": [
+      "Natural Approach",
+      "Communicative Approach",
+      "Grammar-Translation Method",
+      "Bilingual Method"
+    ],
+    "correct_option": 2,
+    "answer": "Communicative Approach",
+    "explanation": "The core objective of the Communicative Approach (CLT) is functional language use, specifically enabling learners to communicate effectively in real-life situations and contexts. The 'real-life context' is considered the 'king word' or primary indicator for this method."
+  },
+  {
+    "id": 5,
+    "topic": "Language Teaching Methods and Mother Tongue Use",
+    "question": "Which approach or method does NOT encourage learners to use their native language (mother tongue) during the language learning process?",
+    "options": [
+      "Direct Method",
+      "Grammar-Translation Method",
+      "Bilingual Method",
+      "Eclectic Approach"
+    ],
+    "correct_option": 1,
+    "answer": "Direct Method",
+    "explanation": "The Direct Method strictly prohibits the use of the native language/mother tongue (L1) in the classroom. Instruction is conducted exclusively in the target language (L2), mimicking natural language acquisition, hence 'ignoring' or 'not encouraging' the use of the mother tongue."
+  },
+  {
+    "id": 6,
+    "topic": "Reading/Listening Processing Models (Top-Down)",
+    "question": "Which of the following statements is NOT true regarding Top-Down processing?",
+    "options": [
+      "Listeners rely on their background knowledge.",
+      "Listeners make guesses about the intended meaning.",
+      "Listeners make use of their knowledge of the world.",
+      "Listeners must understand every single word to comprehend the text."
+    ],
+    "correct_option": 4,
+    "answer": "Listeners must understand every single word to comprehend the text.",
+    "explanation": "Top-Down processing focuses on overall comprehension and meaning using prior knowledge and context, even if not every word is understood. The requirement to understand 'every single word' is characteristic of the Bottom-Up processing model, which starts from the smallest units (letters, words) and builds up to meaning."
+  },
+  {
+    "id": 7,
+    "topic": "Principles of Language Teaching",
+    "question": "The concepts of grouping and sequence are primarily involved in which principle of language teaching?",
+    "options": [
+      "Principle of Habit Formation",
+      "Principle of Following the Natural Way",
+      "Principle of Controlled Vocabulary",
+      "Principle of Selection and Gradation"
+    ],
+    "correct_option": 4,
+    "answer": "Principle of Selection and Gradation",
+    "explanation": "The Principle of Selection and Gradation involves two steps: Selection (choosing appropriate content/vocabulary based on utility, frequency, etc.) and Gradation (arranging the selected content in a systematic sequence based on difficulty or complexity, often referred to as grouping and sequencing). Grouping refers to organizing related items, and sequencing refers to arranging them in an order to be taught."
+  }
+]
+```
+
+========== CHUNK 6 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Teaching Methods",
+    "question": "Dr. Michael West's New Method is based on the principle of priority of which language skill?",
+    "options": [
+      "Reading",
+      "Speaking",
+      "Writing",
+      "Listening"
+    ],
+    "correct_option": 1,
+    "answer": "Reading",
+    "explanation": "Dr. Michael West's New Method is often referred to as the Reading Method. It prioritizes the development of the reading skill, believing that if a student develops strong reading comprehension, other skills will follow."
+  },
+  {
+    "id": 2,
+    "topic": "Communicative Approach (CA)",
+    "question": "Which of the following is NOT an element of the Communicative Approach (CA)?",
+    "options": [
+      "CA is practical in use.",
+      "CA develops speech ability.",
+      "CA is not practical in use.",
+      "CA stresses functional value."
+    ],
+    "correct_option": 3,
+    "answer": "CA is not practical in use.",
+    "explanation": "The Communicative Approach (CA) focuses on real-life communication and utility, making it highly practical in use (Option 1). It inherently develops speaking (speech ability) and focuses on the functional value of language. The statement that 'CA is not practical in use' is factually incorrect regarding CA, and thus serves as the correct answer for the negative question."
+  },
+  {
+    "id": 3,
+    "topic": "Language Teaching Approaches",
+    "question": "Which of the following is considered the latest application in language teaching?",
+    "options": [
+      "Structural Approach",
+      "Project Approach",
+      "Inductive-Deductive Approach",
+      "Communicative Approach"
+    ],
+    "correct_option": 4,
+    "answer": "Communicative Approach",
+    "explanation": "The Communicative Approach (or CLT: Communicative Language Teaching) is one of the most modern and currently favored approaches, often surpassing older methods like Structural Approach. The teacher notes that Constructivist methods are also modern, but among the options provided, the Communicative Approach represents the latest application."
+  },
+  {
+    "id": 4,
+    "topic": "Language Teaching Methods",
+    "question": "Priority of Reading is a key principle of which language teaching method?",
+    "options": [
+      "Dr. West's New Method",
+      "Grammar-Translation Method",
+      "Structural Approach",
+      "Communicative Approach"
+    ],
+    "correct_option": 1,
+    "answer": "Dr. West's New Method",
+    "explanation": "As established earlier, Dr. West's New Method places primary importance on developing the reading skill in students."
+  },
+  {
+    "id": 5,
+    "topic": "Bilingual Method",
+    "question": "The Bilingual Method primarily includes:",
+    "options": [
+      "Translation by the teacher only to explain the matter.",
+      "Insistence upon reading only.",
+      "Exclusive focus on writing skills.",
+      "Optimum exposure for discussion among students."
+    ],
+    "correct_option": 1,
+    "answer": "Translation by the teacher only to explain the matter.",
+    "explanation": "In the Bilingual Method, the teacher uses the mother tongue (L1) selectively and minimally to explain difficult words or concepts, thus saving time and making instruction clear. However, students are expected to use only the target language (L2) to read, speak, and answer questions. Translation is strictly limited to the teacher for explanation purposes."
+  },
+  {
+    "id": 6,
+    "topic": "Language Teaching Methods",
+    "question": "Which language teaching method is considered a 'midway' between the two older methods: the Grammar-Translation Method (GTM) and the Direct Method (DM)?",
+    "options": [
+      "Audio-lingual Method",
+      "Bilingual Method",
+      "Structural Approach",
+      "Communicative Language Teaching"
+    ],
+    "correct_option": 2,
+    "answer": "Bilingual Method",
+    "explanation": "The Bilingual Method (BM) attempts to combine the strengths of both GTM (using L1 for explanation) and DM (maintaining L2 use by students), serving as a compromise or 'midway' approach between these two historical methods."
+  },
+  {
+    "id": 7,
+    "topic": "Communicative Approach (CA)",
+    "question": "Which statement is NOT correct regarding the Communicative Approach (CA)?",
+    "options": [
+      "It is practical in use.",
+      "It is situational and self-rewarding.",
+      "It develops speech ability.",
+      "It is teacher-centered."
+    ],
+    "correct_option": 4,
+    "answer": "It is teacher-centered.",
+    "explanation": "The Communicative Approach (CA) is fundamentally a student-centered approach, focusing on the learner's needs and interaction. It is not teacher-centered. Since the question asks for the incorrect statement, 'It is teacher-centered' is the correct option."
+  },
+  {
+    "id": 8,
+    "topic": "Language Teaching Approaches",
+    "question": "In which language teaching approach is learning made stable and ever-lasting (leading to long retention), often through repetitive practice?",
+    "options": [
+      "Bilingual Method",
+      "Structural Approach",
+      "Direct Method",
+      "Reading Approach (Dr. West's Method)"
+    ],
+    "correct_option": 2,
+    "answer": "Structural Approach",
+    "explanation": "The Structural Approach heavily relies on drills, pattern practice, and repetition (like writing something 10 or 15 times). This method aims to automate language patterns and ensure long retention, thereby making learning stable and everlasting."
+  },
+  {
+    "id": 9,
+    "topic": "Direct Method",
+    "question": "The Direct Method (DM) fundamentally utilizes which two components to teach a language?",
+    "options": [
+      "Audio-lingual Method and Audio-visual Aids",
+      "Audio-lingual Method and Grammar Translation",
+      "Structural Method and Audio-lingual Method",
+      "Audio-lingual Method and Communicative Approach"
+    ],
+    "correct_option": 3,
+    "answer": "Structural Method and Audio-lingual Method",
+    "explanation": "The Direct Method focuses on speaking and listening (similar to the early Audio-lingual focus, ALM) and insists on correct sentence formation. Since every sentence spoken must adhere to a grammatical pattern, the underlying element of structure is inherent in DM, linking it conceptually to the Structural Method. The Communicative Approach (CLT) is excluded as it developed much later chronologically."
+  },
+  {
+    "id": 10,
+    "topic": "Grammar Translation Method (GTM)",
+    "question": "In the Grammar-Translation Method (GTM), how is grammar typically taught?",
+    "options": [
+      "Inductively (moving from examples to rules).",
+      "Deductively (moving from rules to examples).",
+      "Without explicit explanation.",
+      "Covertly (hidden from students)."
+    ],
+    "correct_option": 2,
+    "answer": "Deductively (moving from rules to examples).",
+    "explanation": "GTM is characterized by explicit teaching of grammatical rules, which are then applied by students through translation and practice. This approach—teaching the rule first and then giving examples—is known as the Deductive method."
+  },
+  {
+    "id": 11,
+    "topic": "Grammar Translation Method (GTM)",
+    "question": "Which of the following is NOT a characteristic of the Grammar-Translation Method (GTM)?",
+    "options": [
+      "Vocabulary is taught through bilingual lists.",
+      "Accuracy of language is given great importance.",
+      "Language learning is solely focused on learning words.",
+      "Texts consist of long extracts from works of great authors (literary texts)."
+    ],
+    "correct_option": 3,
+    "answer": "Language learning is solely focused on learning words.",
+    "explanation": "While GTM does use bilingual vocabulary lists, the entire focus of language learning is not solely on vocabulary acquisition. GTM places heavy emphasis on translation, grammatical rules, structure, and the study of literary texts. Therefore, the claim that language learning is *solely* about learning words is inaccurate, making it the correct answer for the 'NOT' question."
+  }
+]
+```
+
+========== CHUNK 7 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Skills Assessment (LSRW)",
+    "question": "In Lata's class, a conversation is taking place between two students, Ajay and Abha. Sunil now needs to carry this conversation forward by participating in it. What skill is Lata testing in Sunil?",
+    "options": [
+      "Listening only",
+      "Listening and Speaking",
+      "Listening and Reading",
+      "Speaking only"
+    ],
+    "correct_option": 2,
+    "answer": "Listening and Speaking",
+    "explanation": "To participate in and continue an ongoing conversation, one must first actively listen to what has been said (Listening) and then formulate and deliver their response (Speaking). Therefore, the ability to carry a conversation forward tests both Listening and Speaking skills."
+  },
+  {
+    "id": 2,
+    "topic": "Language Skills Assessment (Listening)",
+    "question": "Harendra gives his students flashcards depicting different scenes related to a story. He makes a statement, and the student holding the flashcard corresponding to that scene must immediately raise their hand. What skill is Harendra primarily testing?",
+    "options": [
+      "Speaking",
+      "Listening",
+      "Reading",
+      "Writing"
+    ],
+    "correct_option": 2,
+    "answer": "Listening",
+    "explanation": "The activity requires the students to carefully hear and comprehend the spoken statement and match it accurately to the visual scene on their flashcard. The immediate reaction (raising the hand) is dependent solely on successful auditory comprehension. Hence, Harendra is testing the Listening skill."
+  },
+  {
+    "id": 3,
+    "topic": "Vocabulary Assessment",
+    "question": "Neelam plans a test for her students where she gives them a sentence, underlines a word, and asks them to select the correct antonym (opposite word) for the underlined word from the given multiple-choice options. What language component is Neelam primarily testing?",
+    "options": [
+      "Listening",
+      "Reading",
+      "Vocabulary",
+      "Grammar"
+    ],
+    "correct_option": 3,
+    "answer": "Vocabulary",
+    "explanation": "Asking for the antonym or synonym of a specific word, regardless of the context provided by the sentence, is a direct measure of the student's knowledge of word meanings and relationships (Vocabulary). While the student reads the sentence, the core skill being evaluated is not overall reading comprehension but lexical knowledge."
+  },
+  {
+    "id": 4,
+    "topic": "Language Skills (Expressive/Productive)",
+    "question": "Which pair of language skills constitutes the Expressive (or Productive) Language Skills?",
+    "options": [
+      "Listening and Speaking",
+      "Reading and Writing",
+      "Listening and Reading",
+      "Speaking and Writing"
+    ],
+    "correct_option": 4,
+    "answer": "Speaking and Writing",
+    "explanation": "Expressive or Productive skills are those used to produce language or express thoughts and ideas. These include Speaking (verbal expression) and Writing (written expression). Students are active participants when using these skills."
+  },
+  {
+    "id": 5,
+    "topic": "Language Skills (Receptive/Passive)",
+    "question": "Which pair of language skills constitutes the Receptive (or Passive) Language Skills?",
+    "options": [
+      "Speaking and Writing",
+      "Speaking and Reading",
+      "Listening and Reading",
+      "Listening and Writing"
+    ],
+    "correct_option": 3,
+    "answer": "Listening and Reading",
+    "explanation": "Receptive skills are those used to receive and comprehend language or knowledge. These include Listening (receiving auditory information) and Reading (receiving written information). Students are generally passive recipients of information when using these skills."
+  }
+]
+```
+
+========== CHUNK 8 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Listening Stimulus (Shrvan Uddipak)",
+    "question": "Which of the following activities best describes the use of a Listening Stimulus (श्रवण उद्दीपक) in a language classroom?",
+    "options": [
+      "It enables students to discuss a set of criteria which they prioritize to complete a task.",
+      "It presents input to separate groups of students who gather again to share what they listened to.",
+      "It presents an information gap activity, such as giving or following directions.",
+      "It involves listening to a commentary to review and critique its quality."
+    ],
+    "correct_option": 3,
+    "answer": "It presents an information gap activity, such as giving or following directions.",
+    "explanation": "A listening stimulus is input, often auditory, designed to engage students. The most effective use is often through an 'information gap activity,' where the student receives crucial information via listening and must use it to complete a task (e.g., listening to directions to draw a route or identify a location). Options 1 and 2 describe discussion or sharing outcomes, not the fundamental nature of the stimulus itself. Option 4 is critical listening, but an information gap is a more direct and common application of a stimulus."
+  },
+  {
+    "id": 2,
+    "topic": "Interactive Listening",
+    "question": "A teacher of Class V is practicing Interactive Listening with her students. Which activity would best demonstrate this skill?",
+    "options": [
+      "Listening and observing the speaker's attitude and body language.",
+      "Listening intently to identify word stress and intonation patterns.",
+      "Listening only to the correct pronunciation of new words.",
+      "Listening to the speaker and providing an appropriate verbal response or reply."
+    ],
+    "correct_option": 4,
+    "answer": "Listening to the speaker and providing an appropriate verbal response or reply.",
+    "explanation": "Interactive listening requires active engagement, meaning the listener is both receiving information (listening) and contributing to the conversation (responding or replying). It is a two-way process. The other options (A, B, C) primarily describe passive or selective listening, where the child is only receiving or analyzing input without immediate interaction."
+  },
+  {
+    "id": 3,
+    "topic": "Language Skills Classification",
+    "question": "The skills of Comprehension or Receptive Skills primarily include:",
+    "options": [
+      "Listening and Reading",
+      "Speaking and Writing",
+      "Listening and Speaking",
+      "Reading and Writing"
+    ],
+    "correct_option": 1,
+    "answer": "Listening and Reading",
+    "explanation": "Receptive skills (also called passive skills or comprehension skills) are those through which a learner receives and understands language input. These are Listening (understanding spoken language) and Reading (understanding written language). Productive skills are Speaking and Writing."
+  },
+  {
+    "id": 4,
+    "topic": "Language Skills Classification (Primary and Reinforcement)",
+    "question": "Language skills are often categorized into Primary Skills and Reinforcement Skills. Which of the following pairs represents the Reinforcement Skills?",
+    "options": [
+      "Listening and Speaking",
+      "Speaking and Writing",
+      "Listening and Reading",
+      "Reading and Writing"
+    ],
+    "correct_option": 4,
+    "answer": "Reading and Writing",
+    "explanation": "Primary Skills are the initial, natural forms of language acquisition: Listening and Speaking (often acquired orally). Reinforcement Skills are the literacy skills (also referred to as secondary or academic skills) that build upon the primary foundation, reinforcing comprehension and expression through written mediums: Reading and Writing. (Note: Although Speaking and Writing are often grouped as Productive/Expressive skills, they are not typically classified as 'Reinforcement Skills' in the contrast to Primary Skills.)"
+  },
+  {
+    "id": 5,
+    "topic": "Listening Sub-skills",
+    "question": "Under which activity do 'recognizing sounds' and 'deducing meanings' come?",
+    "options": [
+      "Reading",
+      "Speaking",
+      "Listening",
+      "Writing"
+    ],
+    "correct_option": 3,
+    "answer": "Listening",
+    "explanation": "Recognizing (decoding) sounds and deducing (inferring/understanding) meaning from those sounds are core components of the comprehension process within the skill of Listening."
+  },
+  {
+    "id": 6,
+    "topic": "Speaking Skill Practice",
+    "question": "Which activity best supports the practice of the Speaking Skill?",
+    "options": [
+      "Students research a topic and prepare a written report on it.",
+      "The teacher gives a purposeful dictation integrated with a spoken activity.",
+      "Students individually read a case study and create a draft summary.",
+      "Students narrate their own version of a story and apply it to a problem-solving situation."
+    ],
+    "correct_option": 4,
+    "answer": "Students narrate their own version of a story and apply it to a problem-solving situation.",
+    "explanation": "Effective practice of the speaking skill requires students to actively produce language (narrate/speak) in a meaningful context (problem-solving). Options 1 and 3 are focused on writing and reading. Option 2 involves dictation (listening), and the 'spoken activity' component is too vague, making narration/storytelling the superior option for genuine spoken practice."
+  },
+  {
+    "id": 7,
+    "topic": "Reading Fluency",
+    "question": "Sudha wants to model fluent reading to her students. Which reading strategy would be the most suitable for achieving this goal?",
+    "options": [
+      "Skimming and Scanning",
+      "Silent Reading",
+      "Intensive Reading",
+      "Read Aloud (Oral Reading)"
+    ],
+    "correct_option": 4,
+    "answer": "Read Aloud (Oral Reading)",
+    "explanation": "Fluent reading, which includes correct pronunciation, intonation, and rhythm, must be audible to be modeled and assessed. Skimming/Scanning are too rapid and focused on specific information. Silent reading is excellent for comprehension but cannot be used to model or check fluency. Reading Aloud requires the reader to articulate the text, making fluency and pronunciation visible and audible to the students."
+  },
+  {
+    "id": 8,
+    "topic": "Reading Sub-skills",
+    "question": "While waiting for his train, Raman purchased a magazine and quickly glanced through it to see if there was anything of interest to him. What type of reading sub-skill is Raman using?",
+    "options": [
+      "Skimming",
+      "Scanning",
+      "Extensive Reading",
+      "Intensive Reading"
+    ],
+    "correct_option": 1,
+    "answer": "Skimming",
+    "explanation": "Skimming involves reading rapidly to get the general idea, overview, or main subject of the text (the 'gist'). Raman is quickly checking if the magazine's content matches his interest. Scanning is looking for specific details. Extensive reading is reading lengthy texts for pleasure or enjoyment, which Raman has not started yet."
+  },
+  {
+    "id": 9,
+    "topic": "Post-Reading Activity",
+    "question": "Which of the following is an example of a Post-Reading activity?",
+    "options": [
+      "Bringing students' attention to illustrations in the lesson text.",
+      "Asking questions to relate the text with learners' previous experiences.",
+      "Choosing familiar words related to the topic and asking students to guess what they will be reading about.",
+      "Asking learners to change the ending of the story they have just read."
+    ],
+    "correct_option": 4,
+    "answer": "Asking learners to change the ending of the story they have just read.",
+    "explanation": "Post-reading activities occur after the text has been completely read. They often involve summarizing, evaluating, or creatively extending the content. Options 1 is a 'While Reading' activity. Options 2 and 3 are 'Pre-Reading' activities designed to activate prior knowledge or build anticipation. Changing the ending (Option 4) requires comprehension and creative application, making it an excellent post-reading task."
+  },
+  {
+    "id": 10,
+    "topic": "Reading Sub-skills and Skills",
+    "question": "Scanning a text is a useful sub-skill for developing which broader language skill?",
+    "options": [
+      "Listening",
+      "Speaking",
+      "Reading",
+      "Writing"
+    ],
+    "correct_option": 3,
+    "answer": "Reading",
+    "explanation": "Scanning is a method of rapidly searching a text for a specific piece of information or keyword. It is one of the essential techniques used within the macro-skill of Reading."
+  },
+  {
+    "id": 11,
+    "topic": "Language Development in Learners",
+    "question": "Which of the following statements is true regarding the development of language skills in learners within a school environment?",
+    "options": [
+      "Reading develops first, followed by writing.",
+      "Reading and Writing develop concurrently (together).",
+      "Schools should not introduce writing along with reading.",
+      "Writing always comes before reading."
+    ],
+    "correct_option": 2,
+    "answer": "Reading and Writing develop concurrently (together).",
+    "explanation": "While the natural order of acquisition is L-S-R-W (Listening, Speaking, Reading, Writing), in a structured school environment, all four skills, especially the two literacy skills (Reading and Writing), are taught and developed concurrently (simultaneously) to reinforce one another and maximize learning efficiency."
+  },
+  {
+    "id": 12,
+    "topic": "Writing Process",
+    "question": "The steps to the writing process primarily begin with which stage and typically conclude with which final stage?",
+    "options": [
+      "Starts with Publishing and ends with Mind Mapping.",
+      "Begins with Brainstorming and ends with Editing.",
+      "Begins with Brainstorming (Pre-writing) and ends with Publishing.",
+      "Starts with Drafting and ends with Proofreading."
+    ],
+    "correct_option": 3,
+    "answer": "Begins with Brainstorming (Pre-writing) and ends with Publishing.",
+    "explanation": "The standard writing process sequence is: Pre-writing (Brainstorming/Mind Mapping) -> Drafting -> Revising -> Editing -> Publishing. Therefore, the process begins with generating ideas (Brainstorming) and concludes with sharing the final, corrected text (Publishing)."
+  },
+  {
+    "id": 13,
+    "topic": "Types of Writing",
+    "question": "In a language class, students are given an outline containing specific words and pictures to help them structure their composition. What kind of writing technique is being used?",
+    "options": [
+      "Free Writing",
+      "Controlled Writing",
+      "Guided Writing",
+      "Creative Writing"
+    ],
+    "correct_option": 3,
+    "answer": "Guided Writing",
+    "explanation": "Guided writing involves providing structured support, such as outlines, prompts, keywords, or images, to help students organize their thoughts and produce a text. The focus is on providing 'help' (guidance) while allowing for some expression. Controlled writing strictly limits choices (e.g., substitution tables, specific fill-in-the-blanks)."
+  }
+]
+```
+
+========== CHUNK 9 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Teaching Writing Skills",
+    "question": "Free writing is helpful for writers because:",
+    "options": [
+      "It helps in editing.",
+      "It provides ideas and creativity.",
+      "It is beneficial for finalizing the text.",
+      "It provides proofreading practice."
+    ],
+    "correct_option": 2,
+    "answer": "It provides ideas and creativity.",
+    "explanation": "Free writing encourages the generation of a large number of ideas without the burden of focusing on grammatical rules, structure, or perfection (rules ki parwah nahi karte hain). This process facilitates creativity and a rapid flow of thoughts, which is its primary benefit, unlike editing or proofreading, which are later stages."
+  },
+  {
+    "id": 2,
+    "topic": "Grammar Teaching",
+    "question": "Pedagogical Grammar is:",
+    "options": [
+      "Learning of grammar through prose and poetry only.",
+      "Learning of meanings through form/rules.",
+      "Learning of rules first, then meaning.",
+      "Learning of grammar in context."
+    ],
+    "correct_option": 4,
+    "answer": "Learning of grammar in context.",
+    "explanation": "The term 'Pedagogical' implies a child-centric and meaningful approach. Learning grammar 'in context' (in the context of real-life situations, discourse, or communication) is the most meaningful and effective way, aligning with modern pedagogical principles, unlike rote learning of rules or isolating grammar from its application."
+  },
+  {
+    "id": 3,
+    "topic": "Teaching Prose",
+    "question": "While teaching a prose text, which of the following activity should be conducted for children?",
+    "options": [
+      "Transcription (copying the text).",
+      "Paraphrasing (rewriting the text in one's own words).",
+      "Creating a subtext (sequencing the events).",
+      "Consulting a dictionary."
+    ],
+    "correct_option": 2,
+    "answer": "Paraphrasing (rewriting the text in one's own words).",
+    "explanation": "Paraphrasing involves summarizing or rewriting the learned content in one's own words (apne shabdon mein likhna). This activity ensures the child is active, comprehends the material, and applies their language skills, making it the most meaningful and comprehensive activity compared to simple transcription or sequencing."
+  },
+  {
+    "id": 4,
+    "topic": "Teaching Poetry",
+    "question": "What is the major aim of teaching poetry?",
+    "options": [
+      "For enjoyment and delight/pleasure.",
+      "For grammar learning.",
+      "For learning about the poet.",
+      "For vocabulary learning."
+    ],
+    "correct_option": 1,
+    "answer": "For enjoyment and delight/pleasure.",
+    "explanation": "While poetry can help with vocabulary and exposure to different genres, the primary and most important goal (major aim) of teaching poetry is aesthetic appreciation, enjoyment, delight, and imaginative expression, especially for younger learners (to avoid boredom and monotony). (Poetry is for enjoyment and ideas, delight, pleasure - all these words are key.)"
+  },
+  {
+    "id": 5,
+    "topic": "Literary Genres",
+    "question": "Travelogue is a genre of:",
+    "options": [
+      "Criticism",
+      "Bibliography",
+      "Literature",
+      "Prose"
+    ],
+    "correct_option": 3,
+    "answer": "Literature",
+    "explanation": "Travelogue (a log or record of travels, often written during the journey) is a type (genre) of writing that falls under the broad category of Literature (Sahitya). The teacher further clarifies that all stories, chapters, poetry, and prose are part of Literature."
+  },
+  {
+    "id": 6,
+    "topic": "Teaching Poetry Objectives (Negative)",
+    "question": "Which of the following is the LEAST relevant objective for introducing children to poetry?",
+    "options": [
+      "To improve students' ability to memorize and recall.",
+      "To expose students to different forms of writing.",
+      "To build intonation skills in children through an easy format.",
+      "To improve comfort with words and spellings through rhythm."
+    ],
+    "correct_option": 1,
+    "answer": "To improve students' ability to memorize and recall.",
+    "explanation": "Poetry teaching objectives focus on appreciation, intonation, exposure to language, and enjoyment. Focusing on rote memorization (memoryze wala hi tha ganda sa) is generally considered a negative or least relevant objective in modern language pedagogy."
+  },
+  {
+    "id": 7,
+    "topic": "Assessment of Writing Skills",
+    "question": "A teacher of Grade 7 has to evaluate writing. Which of the following should be the objective of the test she designed?",
+    "options": [
+      "The learner is able to take dictation.",
+      "The learner is able to describe a character orally.",
+      "The learner is able to express ideas coherently.",
+      "The learner is able to comprehend the question and write their answers."
+    ],
+    "correct_option": 3,
+    "answer": "The learner is able to express ideas coherently.",
+    "explanation": "Effective writing involves more than just transcription or comprehension; it requires the systematic and logical expression of thoughts. Coherence (samajasya) implies that the ideas are presented in a systematic and logical order, which is the highest objective for evaluating writing skills in terms of expression."
+  },
+  {
+    "id": 8,
+    "topic": "Language Assessment",
+    "question": "Language Assessment aims at measuring:",
+    "options": [
+      "How much each child has achieved in comparison to his/her peers.",
+      "Their overall summative achievement.",
+      "Language achievement of learners.",
+      "Language proficiency of learners."
+    ],
+    "correct_option": 4,
+    "answer": "Language proficiency of learners.",
+    "explanation": "Language assessment focuses on 'Proficiency' (Nipunata), which means the ability of the learner to use the language effectively in real-world situations—understanding what is said and being able to communicate an answer (chahe tooti-footi bol lein). It does not focus on comparing students (which is discouraged) or mere 'achievement' because language learning is a continuous, interconnected process."
+  },
+  {
+    "id": 9,
+    "topic": "Remedial Teaching",
+    "question": "Remedial teaching is for:",
+    "options": [
+      "The learner who lags behind.",
+      "The teacher to improve teaching methodology.",
+      "Both the learner and the teacher.",
+      "Slow learners only."
+    ],
+    "correct_option": 3,
+    "answer": "Both the learner and the teacher.",
+    "explanation": "Remedial teaching follows diagnostic assessment (to find learning gaps). The aim is to help the learner overcome specific difficulties, but it also compels the teacher to reflect on their instructional methods (Ho sakta hai jo teaching method maine apnaya usse bacche ko na aaya ho). Therefore, it is a mutual effort for both the student and the educator (Dono ke liye hai remedial teaching)."
+  }
+]
+```
+
+========== CHUNK 10 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Assessment in Language Learning",
+    "question": "What is the primary purpose of a Diagnostic Test in language learning?",
+    "options": [
+      "To provide comprehensive feedback to parents during parent-teacher meetings.",
+      "To record marks and grades on the child's report card.",
+      "To prepare and plan learners for highly competitive exams.",
+      "To identify gaps, deficiencies, or problems in the learner's understanding and comprehension."
+    ],
+    "correct_option": 4,
+    "answer": "To identify gaps, deficiencies, or problems in the learner's understanding and comprehension.",
+    "explanation": "Diagnostic tests (Nidaanatmak Parikshan) are specifically designed to determine the underlying causes of learning difficulties, deficiencies, or knowledge gaps (lacking or deficiency) that a student is experiencing, allowing the teacher to plan remedial action."
+  },
+  {
+    "id": 2,
+    "topic": "Educational Technology and Pedagogy",
+    "question": "Which of the following is an example of Asynchronous Learning?",
+    "options": [
+      "Instant Messaging (e.g., WhatsApp chat)",
+      "Video Conferencing",
+      "Instant Chat",
+      "Reading a Textbook"
+    ],
+    "correct_option": 4,
+    "answer": "Reading a Textbook",
+    "explanation": "Asynchronous learning refers to learning that does not happen simultaneously or in real-time. Activities like reading a textbook, where feedback or interaction is delayed, are asynchronous. Instant messaging, video conferencing, and instant chat all involve real-time (synchronous) interaction."
+  },
+  {
+    "id": 3,
+    "topic": "Role of Textbook in Language Education",
+    "question": "The formal language employed in textbooks, assessments, and other teaching-learning materials primarily determines the:",
+    "options": [
+      "Content Structure",
+      "Resource Availability",
+      "Medium of Instruction",
+      "Curriculum Design"
+    ],
+    "correct_option": 3,
+    "answer": "Medium of Instruction",
+    "explanation": "The language used formally in a textbook and in subsequent teaching processes establishes the 'Medium of Instruction.' This dictates the appropriate linguistic level and mode of delivery expected for the students of that specific grade."
+  },
+  {
+    "id": 4,
+    "topic": "Language Teaching Methods (Audio-Lingualism)",
+    "question": "Which of the following activities is NOT characteristic of an Audio-Lingual Drill?",
+    "options": [
+      "Students hear and model a standard language form.",
+      "Students are required to repeat every line or sentence model.",
+      "Students consciously focus on and memorize grammatical rules.",
+      "Students practice substitution within prescribed pattern drills."
+    ],
+    "correct_option": 3,
+    "answer": "Students consciously focus on and memorize grammatical rules.",
+    "explanation": "The Audio-Lingual Method (ALM) focuses on repetition, imitation, and drilling to form linguistic habits. It specifically avoids teaching explicit grammatical rules, believing that language learning should mimic natural acquisition through dialogue repetition."
+  },
+  {
+    "id": 5,
+    "topic": "Teaching Learning Materials",
+    "question": "Which of the following is NOT an example of Authentic Learning Material (ALM)?",
+    "options": [
+      "A restaurant menu card",
+      "The lyrics of a popular song",
+      "A newspaper job advertisement",
+      "An English textbook designed for the classroom"
+    ],
+    "correct_option": 4,
+    "answer": "An English textbook designed for the classroom",
+    "explanation": "Authentic Learning Material refers to real-world resources (like menus or advertisements) that were not specifically created for teaching. An English textbook is specifically pedagogical, making it a Teaching Learning Material (TLM)."
+  },
+  {
+    "id": 6,
+    "topic": "Authentic Tasks in Language Education",
+    "question": "Identify the authentic learning task from the options below:",
+    "options": [
+      "Reciting a poem about a rainy day from the prescribed English textbook.",
+      "Writing a formal complaint letter to the Municipal Commissioner regarding monsoon waterlogging in the locality.",
+      "Completing a grammar worksheet provided by the teacher.",
+      "Memorizing definitions of parts of speech."
+    ],
+    "correct_option": 2,
+    "answer": "Writing a formal complaint letter to the Municipal Commissioner regarding monsoon waterlogging in the locality.",
+    "explanation": "An authentic task requires students to use language to fulfill a realistic, real-world communicative purpose, such as writing a formal complaint to a public official."
+  },
+  {
+    "id": 7,
+    "topic": "Language Disabilities",
+    "question": "Dyslexia is a language disorder that primarily affects which skill?",
+    "options": [
+      "Reading",
+      "Writing",
+      "Listening",
+      "Spelling"
+    ],
+    "correct_option": 1,
+    "answer": "Reading",
+    "explanation": "Dyslexia is a learning disability involving difficulty in reading due to problems identifying speech sounds and learning how they relate to letters and words (decoding). Writing difficulties are known as Dysgraphia."
+  },
+  {
+    "id": 8,
+    "topic": "Language Disabilities",
+    "question": "Which language disorder primarily affects communication skills and comprehension abilities, leading to difficulty in choosing the correct words or understanding context?",
+    "options": [
+      "Dysarthria",
+      "Dysphasia / Aphasia",
+      "Dyslexia",
+      "Dyspraxia"
+    ],
+    "correct_option": 2,
+    "answer": "Dysphasia / Aphasia",
+    "explanation": "Dysphasia (or Aphasia) is characterized by difficulty in understanding or expressing spoken language (comprehension and communication). In contrast, Dysarthria is a neurological disorder affecting articulation or the physical mechanics of speech production."
+  },
+  {
+    "id": 9,
+    "topic": "Teaching Speaking Skills",
+    "question": "Learners lack the confidence to speak in the Target Language (TL) because their daily conversations are primarily conducted in their local vernacular. How can a teacher best meet this challenge?",
+    "options": [
+      "Allow students to speak freely, focusing on meaning over grammatical errors initially, while enhancing their vocabulary and providing gradual, constructive feedback.",
+      "Instruct students to watch English films for motivation and rely on pattern drills to teach useful sentence structures.",
+      "Insist that students use only the Target Language, irrespective of their low confidence, while giving regular corrective feedback on their errors.",
+      "Instruct students to speak slowly, self-correct their grammatical errors, and enhance their vocabulary by strictly memorizing provided word lists."
+    ],
+    "correct_option": 1,
+    "answer": "Allow students to speak freely, focusing on meaning over grammatical errors initially, while enhancing their vocabulary and providing gradual, constructive feedback.",
+    "explanation": "When dealing with low confidence, the priority is creating a supportive environment that encourages communication. Allowing students to prioritize meaning over perfect grammar (focusing on fluency first) is key. Immediate, regular correction or insisting on TL use will increase anxiety and demotivate the learner."
+  },
+  {
+    "id": 10,
+    "topic": "Teaching Grammar",
+    "question": "Which of the following is NOT an appropriate method for teaching grammar during the foundational and primary stages of schooling?",
+    "options": [
+      "Introducing the rules of grammatical items before presenting examples.",
+      "Relating grammatical items to real-life concepts (e.g., teaching Nouns as 'Naming Words').",
+      "Introducing grammatical items through a meaningful context.",
+      "Using an inductive approach where rules are inferred by learners after practice."
+    ],
+    "correct_option": 1,
+    "answer": "Introducing the rules of grammatical items before presenting examples.",
+    "explanation": "At the foundational and primary stages, explicit rule-based (deductive) teaching should be avoided. Grammar should be introduced contextually, using functional terms (like 'action words') and following an inductive approach (examples first, rules later)."
+  },
+  {
+    "id": 11,
+    "topic": "Language Skill Integration",
+    "question": "Which of the following activities does NOT primarily fall under Meaning-Based Activities?",
+    "options": [
+      "Summarizing a story after silent reading for comprehension.",
+      "Participating in a group discussion to reach a consensus.",
+      "Repetitively chanting a set of dialogues without understanding their context.",
+      "Writing a letter to a friend describing a recent event."
+    ],
+    "correct_option": 3,
+    "answer": "Repetitively chanting a set of dialogues without understanding their context.",
+    "explanation": "Meaning-based activities focus on extracting or conveying overall meaning (comprehension, communication). Repetitively chanting dialogues or performing mechanical drills focuses purely on structure or form and lacks genuine communicative purpose."
+  }
+]
+```
+
+========== CHUNK 11 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Reading Comprehension and Meaning Making",
+    "question": "Which of the following activities is NOT focused on meaning-making (meaning-based)?",
+    "options": [
+      "Interacting with the text.",
+      "Retelling a story read by them.",
+      "Eliciting relevant rules of grammar in context.",
+      "Asking children to imitate elders (copying)."
+    ],
+    "correct_option": 4,
+    "answer": "Asking children to imitate elders (copying).",
+    "explanation": "Meaning-based activities require students to understand, process, and construct meaning from the language (such as understanding text, summarizing a story, or applying grammar rules contextually). Imitation (copying) is a rote activity that does not involve any active meaning-making process."
+  },
+  {
+    "id": 2,
+    "topic": "Grammar Pedagogy",
+    "question": "Grammar tasks in language teaching should primarily be:",
+    "options": [
+      "Memory-focused (relying on recall).",
+      "Fully form-focused (focused on structure and rules).",
+      "Life-oriented (related to real life).",
+      "Contextualized (taught in meaningful context)."
+    ],
+    "correct_option": 4,
+    "answer": "Contextualized (taught in meaningful context).",
+    "explanation": "Contextualized teaching is considered superior because it integrates real-life situations and meaningful use of language. The instructor emphasizes that 'Contextualized' is the 'king word' in pedagogy as it ensures that grammar is learned and applied within relevant situations."
+  },
+  {
+    "id": 3,
+    "topic": "Grammar Pedagogy Emphasis",
+    "question": "The primary emphasis of teaching grammar in context is on:",
+    "options": [
+      "Over-generalization of rules.",
+      "Translating the content.",
+      "Memorization (rote learning).",
+      "Internalization (deep understanding)."
+    ],
+    "correct_option": 4,
+    "answer": "Internalization (deep understanding).",
+    "explanation": "Teaching grammar in context aims for students to deeply internalize the language structure and rules, making them inherent, rather than just memorizing rules or focusing on translation or the incorrect application of rules (over-generalization)."
+  },
+  {
+    "id": 4,
+    "topic": "BICS and CALP",
+    "question": "Which one of the following is an example of Basic Interpersonal Communicative Skills (BICS)?",
+    "options": [
+      "Explaining a procedure to peers during an experiment.",
+      "Discussing responses to a story in a small group in the classroom.",
+      "Taking notes during a lecture.",
+      "Negotiating turn-taking with a peer during free play."
+    ],
+    "correct_option": 4,
+    "answer": "Negotiating turn-taking with a peer during free play.",
+    "explanation": "BICS refers to basic, informal, everyday, and context-rich communication (day-to-day life, 'here and now'). CALP (Cognitive Academic Language Proficiency) involves formal, academic, context-reduced, and cognitively demanding language (like explaining procedures, discussing formal stories, or taking notes). Negotiating turn-taking during free play is a typical example of informal, social, day-to-day BICS usage."
+  },
+  {
+    "id": 5,
+    "topic": "Multilingualism Promotion",
+    "question": "Multilingualism in the classroom can be promoted by all the following EXCEPT:",
+    "options": [
+      "Citing examples from different languages.",
+      "Giving all languages equal equivalence and respect.",
+      "Promoting cooperative learning among students.",
+      "Prohibiting code-switching and code-mixing."
+    ],
+    "correct_option": 4,
+    "answer": "Prohibiting code-switching and code-mixing.",
+    "explanation": "Multilingualism is supported by integrating various languages (citing examples, ensuring equivalence, cooperative learning). Code-switching (alternating between languages across sentences) and code-mixing (alternating within a single sentence) are natural communicative strategies of multilingual speakers (falling under the umbrella of Translangaging). Prohibiting these practices would suppress the natural expression of multilingualism, hence it is the step that would NOT promote it."
+  }
+]
+```
+
+========== CHUNK 12 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Linguistics: Phonetics",
+    "question": "Which branch of linguistics focuses on the production and perception of sound?",
+    "options": [
+      "Phonology",
+      "Morphology",
+      "Phonetics",
+      "Semantics"
+    ],
+    "correct_option": 3,
+    "answer": "Phonetics",
+    "explanation": "Phonetics deals with the physical production, acoustic transmission, and auditory perception (or reception) of speech sounds. While Phonology is the study of sound structures and patterns (rules), Phonetics involves the actual articulation and perception of sounds."
+  },
+  {
+    "id": 2,
+    "topic": "Reading Comprehension and Clues",
+    "question": "A Class 3 learner, while reading short stories and narratives, does not know some words but is able to figure out the overall meaning of the passage. This indicates the effective use of which type of clue?",
+    "options": [
+      "Syntactic Clues",
+      "Morphological Clues",
+      "Semantic Clues",
+      "Rote Clues"
+    ],
+    "correct_option": 3,
+    "answer": "Semantic Clues",
+    "explanation": "Semantic clues relate to the meaning (sense) of the text. If a child does not know individual words but can grasp the overall meaning, they are successfully using contextual meaning (semantics) to infer the sense of the unknown words or the entire passage. Syntactic clues relate to grammar and sentence structure, and morphological clues relate to word structure."
+  },
+  {
+    "id": 3,
+    "topic": "Linguistics: Phonology",
+    "question": "The smallest unit of sound that distinguishes one word from another in a particular language (e.g., differentiating 'cat' from 'bat') is called a/an:",
+    "options": [
+      "Phoneme",
+      "Morpheme",
+      "Syntax",
+      "Semantics"
+    ],
+    "correct_option": 1,
+    "answer": "Phoneme",
+    "explanation": "A Phoneme is the smallest unit of sound that can convey a difference in meaning. The difference between /k/ in 'cat' and /b/ in 'bat' illustrates how a single change in sound unit leads to a different word. A Morpheme is the smallest unit of meaning in a word."
+  },
+  {
+    "id": 4,
+    "topic": "Vocabulary: Function Words",
+    "question": "_____ words denote grammatical relations and have little semantic content.",
+    "options": [
+      "Content Words",
+      "Lexical Words",
+      "Function Words",
+      "Contextual Words"
+    ],
+    "correct_option": 3,
+    "answer": "Function Words",
+    "explanation": "Function words (or grammatical words) like conjunctions, prepositions, articles, and auxiliary verbs primarily serve to link the sentence structure and denote grammatical relations. They have very little independent meaning (semantic content). Content words (or lexical words like nouns, main verbs, adjectives, adverbs) carry the main meaning of the sentence."
+  },
+  {
+    "id": 5,
+    "topic": "Teaching Learning Material",
+    "question": "A Class 2 teacher asked her students to bring at least one real object from home for a 'Show and Tell' activity. The objects brought by the students are known as:",
+    "options": [
+      "Flashcards",
+      "Models",
+      "Realia",
+      "Charts"
+    ],
+    "correct_option": 3,
+    "answer": "Realia",
+    "explanation": "Realia refers to real-life objects used as teaching aids to make learning more tangible, concrete, and culturally relevant. The objects brought from home for the 'Show and Tell' activity are examples of realia."
+  },
+  {
+    "id": 6,
+    "topic": "Role of English in India",
+    "question": "Which one of the following is NOT correct about the role of the English language in India?",
+    "options": [
+      "English has been the Associate Official Language of the country.",
+      "English is a language of the court and government operations.",
+      "English is a window to the modern world.",
+      "English is a source of Indian languages."
+    ],
+    "correct_option": 4,
+    "answer": "English is a source of Indian languages.",
+    "explanation": "English is not the source from which Indian languages originated; rather, Indian languages have ancient roots, often predating modern English. The other three statements correctly describe the constitutional and cultural status of English in India (Associate Official Language, working language of courts/government, and a link to global knowledge)."
+  },
+  {
+    "id": 7,
+    "topic": "Vocabulary: Active and Passive Vocabulary",
+    "question": "To bring words from a child's passive vocabulary to active vocabulary, a teacher should create opportunities to:",
+    "options": [
+      "Use the words quite often.",
+      "Hear the words quite often.",
+      "Know the meaning of the words.",
+      "Learn antonyms and synonyms."
+    ],
+    "correct_option": 1,
+    "answer": "Use the words quite often.",
+    "explanation": "Active vocabulary (or productive vocabulary) involves the words a person uses in speaking or writing (production). Passive vocabulary (or receptive vocabulary) involves words understood when reading or listening (reception). To move words from passive to active, the learner must be encouraged to use (produce) them actively, through speaking or writing tasks."
+  },
+  {
+    "id": 8,
+    "topic": "Vocabulary: Passive Vocabulary Definition",
+    "question": "Passive vocabulary includes:",
+    "options": [
+      "Words which we use when we listen or read them.",
+      "Words which we frequently use with others.",
+      "Words which we use in speaking.",
+      "Words which we use in writing."
+    ],
+    "correct_option": 1,
+    "answer": "Words which we use when we listen or read them.",
+    "explanation": "Passive vocabulary is associated with receptive skills (listening and reading). Words used in speaking and writing are considered active or productive vocabulary."
+  },
+  {
+    "id": 9,
+    "topic": "Language Across Curriculum (LAC)",
+    "question": "The focus of Language Across Curriculum (LAC) is:",
+    "options": [
+      "Teaching language primarily in all classes.",
+      "Teaching language with the help of all subjects.",
+      "Teaching language in specific periods.",
+      "Teaching language with extra-curricular activities."
+    ],
+    "correct_option": 2,
+    "answer": "Teaching language with the help of all subjects.",
+    "explanation": "Language Across Curriculum (LAC) advocates for the integration of language skills (English, Hindi, etc.) with content subjects (Science, SST, Math). The goal is to show students that language is not confined to the language classroom but is the medium through which all subjects are learned and understood."
+  },
+  {
+    "id": 10,
+    "topic": "Parts of Speech: Noun Identification",
+    "question": "Identify the part of speech of the underlined word in the sentence: 'This is the **product** of hard work.'",
+    "options": [
+      "Adverb",
+      "Verb",
+      "Noun",
+      "Adjective"
+    ],
+    "correct_option": 3,
+    "answer": "Noun",
+    "explanation": "The word 'product' follows the article 'the.' In English grammar, articles (a, an, the) precede nouns. As the single word following the article, 'product' is functioning as a noun."
+  },
+  {
+    "id": 11,
+    "topic": "Parts of Speech: Verb Identification",
+    "question": "Identify the part of speech of the underlined word in the sentence: 'She **puts** the entire responsibility on him.'",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "correct_option": 4,
+    "answer": "Verb",
+    "explanation": "'Puts' is an action word. It follows the subject 'She' and indicates the action being performed, making it the main verb of the sentence."
+  }
+]
+```
+
+========== CHUNK 13 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Parts of Speech (Adjective)",
+    "question": "Identify the Part of Speech of the word 'kindest' in the sentence: “She is the kindest person in the class.”",
+    "options": [
+      "Adverb",
+      "Noun",
+      "Adjective",
+      "Pronoun"
+    ],
+    "correct_option": 3,
+    "answer": "Adjective",
+    "explanation": "The word 'kindest' appears between the article 'the' and the noun 'person'. In a two-word structure following an article, the first word is always the Adjective, modifying the noun. Furthermore, 'kindest' is the superlative degree of the adjective 'kind', confirming its function as an adjective."
+  },
+  {
+    "id": 2,
+    "topic": "Parts of Speech (Conjunction)",
+    "question": "Identify the Part of Speech of the word 'but' in the sentence: “I went to that museum but I didn't enjoy it.”",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Adjective",
+      "Pronoun"
+    ],
+    "correct_option": 2,
+    "answer": "Conjunction",
+    "explanation": "The word 'but' is used to connect two independent clauses or ideas ('I went to that museum' and 'I didn't enjoy it'), indicating a contrast. Therefore, 'but' functions as a Coordinating Conjunction."
+  },
+  {
+    "id": 3,
+    "topic": "Reading Comprehension (True/False - Passage 1)",
+    "question": "Based on the provided passage, determine which of the following statements is TRUE or FALSE:\n\nA. The boys had purchased the tickets in advance.\nB. Mrs. Upadhyay supported the boys in their endeavor.",
+    "options": [
+      "A is True, B is False",
+      "A is False, B is True",
+      "Both A and B are False",
+      "Both A and B are True"
+    ],
+    "correct_option": 4,
+    "answer": "Both A and B are True",
+    "explanation": "Statement A is confirmed by the text indicating they had managed to get the tickets after much effort (meaning they acquired them prior to leaving). Statement B is confirmed when Mrs. Upadhyay intervenes and speaks to the Warden (Mr. Upadhyay) in support of the boys going to watch the play."
+  },
+  {
+    "id": 4,
+    "topic": "Reading Comprehension (True/False - Passage 2)",
+    "question": "Based on the provided passage, determine which of the following statements is TRUE or FALSE:\n\nA. Mr. Upadhyay met the boys inside the hostel.\nB. The boys were already getting late for the play.",
+    "options": [
+      "A is True, B is False",
+      "A is False, B is True",
+      "Both A and B are False",
+      "Both A and B are True"
+    ],
+    "correct_option": 2,
+    "answer": "A is False, B is True",
+    "explanation": "Statement A is False: The boys had sneaked out of the hostel after dinner, and Mr. Upadhyay met them outside. Statement B is True: The play was scheduled for 9:30 PM, and it was already 9:15 PM when the interaction took place, meaning they were late or about to be late."
+  },
+  {
+    "id": 5,
+    "topic": "Tenses (Grammar)",
+    "question": "Identify the tense used in the following verb phrase: 'We had managed'",
+    "options": [
+      "Simple Past",
+      "Past Continuous",
+      "Past Perfect",
+      "Present Perfect"
+    ],
+    "correct_option": 3,
+    "answer": "Past Perfect",
+    "explanation": "The structure 'had + V3 (past participle)' (had managed) is the definition of the Past Perfect Tense."
+  },
+  {
+    "id": 6,
+    "topic": "Reading Comprehension (Specific Detail)",
+    "question": "Mr. Upadhyay’s professional role in the institution was that of a/an:",
+    "options": [
+      "Hostel Warden",
+      "Administrator",
+      "Principal",
+      "Teacher"
+    ],
+    "correct_option": 1,
+    "answer": "Hostel Warden",
+    "explanation": "Mrs. Upadhyay refers to her husband as 'Warden Sahab' (Warden Sir) when confronting him about preventing the boys from leaving, confirming his role as the Hostel Warden."
+  },
+  {
+    "id": 7,
+    "topic": "Reading Comprehension (Action Sequence)",
+    "question": "What did Mr. Upadhyay do after hearing the boys’ excuse for being out late?",
+    "options": [
+      "He scolded them severely.",
+      "He took them home for coffee.",
+      "He allowed them to go see the play immediately.",
+      "He called their parents."
+    ],
+    "correct_option": 2,
+    "answer": "He took them home for coffee.",
+    "explanation": "When the boys claimed they were looking for tea/coffee because of a headache, Mr. Upadhyay told them to accompany him back to his home to have coffee."
+  },
+  {
+    "id": 8,
+    "topic": "Reading Comprehension (Inference)",
+    "question": "How did Mrs. Upadhyay receive the boys at home?",
+    "options": [
+      "She was displeased with her husband.",
+      "She welcomed them.",
+      "She was unhappy about the disturbance.",
+      "She received them coldly."
+    ],
+    "correct_option": 2,
+    "answer": "She welcomed them.",
+    "explanation": "Although the text does not explicitly state she 'welcomed' them, her actions—going to the kitchen to prepare coffee and later supporting them against her husband—imply a supportive and welcoming demeanor. This requires inference based on the provided details."
+  },
+  {
+    "id": 9,
+    "topic": "Reading Comprehension (Motive)",
+    "question": "Why were the boys sneaking away from the hostel?",
+    "options": [
+      "To play football.",
+      "To watch a movie.",
+      "To watch a play.",
+      "To roam around the stalls."
+    ],
+    "correct_option": 3,
+    "answer": "To watch a play.",
+    "explanation": "The passage clearly states that the boys had tickets and were trying to leave the hostel quietly to watch a play scheduled for 9:30 PM."
+  }
+]
+```
+
+========== CHUNK 14 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Poetic Devices / Figure of Speech",
+    "question": "Identify the Literary Device (Figure of Speech) used in the phrase 'Scarlet Soldiers'.",
+    "options": [
+      "Alliteration",
+      "Simile",
+      "Metonymy",
+      "Transferred Epithet"
+    ],
+    "correct_option": 1,
+    "answer": "Alliteration",
+    "explanation": "The speaker points out the repetition of the initial consonant sound 'S' (Scarlet Soldiers), which is the definition of Alliteration. The repetition of the same first letter or sound in closely connected words constitutes this figure of speech."
+  },
+  {
+    "id": 2,
+    "topic": "Reading Comprehension (Poetry)",
+    "question": "According to the context of the poem, where is the thrilling sound coming from?",
+    "options": [
+      "Commoners",
+      "Soldiers",
+      "Market Place",
+      "Crowded Street"
+    ],
+    "correct_option": 2,
+    "answer": "Soldiers",
+    "explanation": "The text analysis suggests the sound is either coming from the Valley or related to the 'Scarlet Soldiers' who are 'drumming'. Given the options, 'Soldiers' is the direct source of the drumming sound that thrills the ear."
+  },
+  {
+    "id": 3,
+    "topic": "Reading Comprehension / Inference",
+    "question": "What emotional state does 'kneeling' typically reflect in a dramatic context?",
+    "options": [
+      "Indifference",
+      "Happiness",
+      "Nervousness/Anxiety",
+      "Anger"
+    ],
+    "correct_option": 3,
+    "answer": "Nervousness/Anxiety",
+    "explanation": "Kneeling (घुटने टेकना) is generally done in situations of submission, fear, or anxiety (घबराहट), especially when seeking mercy or when overwhelmed by a stressful or fearful situation. It is not typically associated with indifference, happiness, or anger."
+  },
+  {
+    "id": 4,
+    "topic": "Poetic Devices / Rhyme Scheme",
+    "question": "If the last words of the four consecutive lines of a stanza rhyme as follows: Line 1 (Ear), Line 2 (Drumming), Line 3 (Dear), Line 4 (Coming), identify the correct rhyme scheme.",
+    "options": [
+      "AABB",
+      "ABBC",
+      "ABAB",
+      "ABCB"
+    ],
+    "correct_option": 3,
+    "answer": "ABAB",
+    "explanation": "The speaker analyzes the end sounds:\nLine 1: Ear (A)\nLine 2: Drumming (B, distinct from A)\nLine 3: Dear (A, rhymes with Ear)\nLine 4: Coming (B, rhymes with Drumming)\nThis sequential pattern results in the Rhyme Scheme ABAB."
+  }
+]
+```

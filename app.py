@@ -1,12 +1,28 @@
 import streamlit as st
+import time
 import json
 import re
+import os
 
 st.set_page_config(page_title="MCQ Exam App", layout="centered")
 
 # ----------------------------------------------------
 # PARSER FOR MIXED questions.txt
 # ----------------------------------------------------
+QUESTIONS_DIR = "questions"
+def load_subjects():
+    subjects = {}
+    if not os.path.exists(QUESTIONS_DIR):
+        return subjects
+
+    for file in os.listdir(QUESTIONS_DIR):
+        if file.endswith(".json") or file.endswith(".txt"):
+            name = file.replace(".json", "").replace(".txt", "")
+            name = name.replace("_", " ").title()
+            subjects[name] = os.path.join(QUESTIONS_DIR, file)
+    return subjects
+
+SUBJECTS = load_subjects()
 def extract_questions(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         text = f.read()
@@ -34,38 +50,95 @@ def extract_questions(file_path):
 # ----------------------------------------------------
 # LOAD QUESTIONS
 # ----------------------------------------------------
-FILE =r"question.txt"
-questions = extract_questions(FILE)
+# file_path = SUBJECTS[subject]
+# questions = extract_questions(file_path)
 
-if not questions:
-    st.error("❌ No valid questions found.")
-    st.stop()
+# if not questions:
+#     st.error("❌ No valid questions found.")
+#     st.stop()
 
-TOTAL = len(questions)
+# TOTAL = len(questions)
 
-# ----------------------------------------------------
+# ====================================================
 # SESSION STATE INIT
-# ----------------------------------------------------
-if "index" not in st.session_state:
-    st.session_state.index = 0
+# ====================================================
+def init_session():
+    defaults = {
+        "subject": None,
+        "questions": None,
+        "index": 0,
+        "responses": {},
+        "reveal": {},
+        "show_review": False,
+        "mode": "Practice",
+        "start_time": None
+    }
+    for k, v in defaults.items():
+        if k not in st.session_state:
+            st.session_state[k] = v
 
-if "responses" not in st.session_state:
-    st.session_state.responses = {}  # {q_index: option}
-
-if "reveal" not in st.session_state:
-    st.session_state.reveal = {}  # {q_index: True}
-
-if "show_review" not in st.session_state:
-    st.session_state.show_review = False
+init_session()
 
 # ----------------------------------------------------
 # HEADER
 # ----------------------------------------------------
 st.title("📘 MCQ Practice & Exam Mode")
 
-# ----------------------------------------------------
-# LIVE SCORE PANEL
-# ----------------------------------------------------
+
+if not SUBJECTS:
+    st.error("❌ No question files found in /questions folder")
+    st.stop()
+
+if st.session_state.subject is None:
+    subject = st.selectbox(
+        "📚 Select Subject",
+        ["-- Select Subject --"] + list(SUBJECTS.keys())
+    )
+
+    if subject == "-- Select Subject --":
+        st.info("Please select a subject to continue")
+        st.stop()
+
+    file_path = SUBJECTS[subject]
+    questions = extract_questions(file_path)
+
+    if not questions:
+        st.error("❌ No valid MCQs found in this file")
+        st.stop()
+
+    st.session_state.subject = subject
+    st.session_state.questions = questions
+    st.session_state.start_time = time.time()
+    st.rerun()
+
+
+# ====================================================
+# HEADER + MODE
+# ====================================================
+st.success(f"📘 Subject: **{st.session_state.subject}**")
+
+st.session_state.mode = st.radio(
+    "Mode",
+    ["Practice", "Exam"],
+    horizontal=True
+)
+
+if st.button("🔄 Change Subject"):
+    st.session_state.clear()
+    st.rerun()
+
+questions = st.session_state.questions
+TOTAL = len(questions)
+# ====================================================
+# TIMER (EXAM MODE)
+# ====================================================
+if st.session_state.mode == "Exam":
+    elapsed = int(time.time() - st.session_state.start_time)
+    st.info(f"⏱ Time Elapsed: {elapsed//60}:{elapsed%60:02d}")
+
+# ====================================================
+# PERFORMANCE SUMMARY
+# ====================================================
 attempted = len(st.session_state.responses)
 correct = sum(
     1 for i, ans in st.session_state.responses.items()
@@ -73,7 +146,7 @@ correct = sum(
 )
 accuracy = (correct / attempted * 100) if attempted else 0
 
-with st.expander("📊 Performance Summary", expanded=False):
+with st.expander("📊 Performance Summary"):
     st.write(f"**Attempted:** {attempted} / {TOTAL}")
     st.write(f"**Correct:** {correct}")
     st.write(f"**Accuracy:** {accuracy:.2f}%")
@@ -110,7 +183,7 @@ selected = st.radio(
         else None
     ),
     format_func=lambda x: options[x - 1],
-    key="answer_radio"
+    key=f"answer_radio_{st.session_state.index}"
 )
 
 if selected is not None:
