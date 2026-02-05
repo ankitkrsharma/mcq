@@ -1,0 +1,702 @@
+
+========== CHUNK 1 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Nature of Mathematics (Ganit ki Prakriti)",
+    "question": "Which of the following statements is the most appropriate regarding the nature of mathematics?",
+    "options": [
+      "A. It helps the child become creative.",
+      "B. It helps nurture the child's imagination and hypothesis formation.",
+      "C. It is based on deductive reasoning.",
+      "D. It is always convergent."
+    ],
+    "correct_option": "A, B, and C",
+    "answer": "A, B, and C",
+    "explanation": "Mathematics is inherently logical, creative, and imaginative. It encourages children to analyze problems (analytical), form hypotheses, and use creativity. It is primarily based on deductive reasoning (applying general rules/formulas to specific problems). Since mathematics promotes creativity and new solutions, it fosters divergent thinking (Ap-sari Chintan), meaning it is not always convergent. Therefore, A, B, and C are the most appropriate characteristics."
+  },
+  {
+    "id": 2,
+    "topic": "Hierarchical Nature of Mathematics (Padanukramik Prakriti)",
+    "question": "The hierarchical nature of mathematics dictates that its concepts are logically structured. Which of the following statements is the most appropriate explanation for this nature?",
+    "options": [
+      "Multiplication follows the formation of the concept of addition.",
+      "Addition and multiplication are separate concepts.",
+      "The assessment of concepts in mathematics should only be summative assessment.",
+      "The development of number knowledge (1, 2, 3...) precedes the concepts of addition and subtraction."
+    ],
+    "correct_option": 4,
+    "answer": "The development of number knowledge (1, 2, 3...) precedes the concepts of addition and subtraction.",
+    "explanation": "The hierarchical nature (Padanukramik) implies that mathematical concepts must be learned sequentially, building complex skills upon simpler foundational skills. Before a child can perform operations like addition or subtraction, they must first master pre-number concepts (like small/big, fat/thin) and then basic number knowledge (counting and recognizing numbers). This sequence demonstrates the structured, hierarchical nature of mathematics. Although Statement 1 (Addition precedes Multiplication) is also a valid example of hierarchy, Statement 4 describes the most fundamental building block of mathematical learning."
+  }
+]
+```
+
+========== CHUNK 2 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Mathematical Language (Primary Level)",
+    "question": "Which of the following are characteristics of mathematical language at the primary level?",
+    "sub_options": {
+      "A": "It should be accurate/precise.",
+      "B": "It should be ambiguous/unclear.",
+      "C": "It should be reinforced through the language used in children's daily life.",
+      "D": "It should be highly technical."
+    },
+    "options": [
+      "A and B",
+      "B and D",
+      "A and C",
+      "C and D"
+    ],
+    "correct_option": 3,
+    "answer": "A and C",
+    "explanation": "Mathematical language must be precise (A) to ensure accurate conclusions. It should also be connected to the child's daily life and natural language (C) to enhance understanding. Ambiguity (B) and excessive technicality (D) are unsuitable for primary level learning."
+  },
+  {
+    "id": 2,
+    "topic": "Nature of Mathematics (Thinking)",
+    "question": "Mathematics is considered a 'way of thinking'. Which of the following statements supports this idea?",
+    "sub_options": {
+      "A": "It engages students in observing evidence/proofs and patterns.",
+      "B": "During problem-solving, students repeat formulas and symbols.",
+      "C": "Students use appropriate strategies to solve various new problems."
+    },
+    "options": [
+      "A and B",
+      "Only B",
+      "A and C",
+      "B and C"
+    ],
+    "correct_option": 3,
+    "answer": "A and C",
+    "explanation": "Mathematical thinking involves logical reasoning, observation of patterns and proofs (A), and generating multiple strategies to solve problems (C). Simply repeating or reproducing formulas (B) promotes rote learning, which is contrary to mathematical thinking."
+  },
+  {
+    "id": 3,
+    "topic": "Error Analysis and Remedial Teaching",
+    "question": "Based on the information given in the statement, which suggested course(s) of action logically follow? \n\n**Statement:** While solving Mensuration problems, Anamika makes conceptual errors.",
+    "sub_options": {
+      "A": "The teacher provides Anamika with numerous practical (hands-on) and visual practice exercises.",
+      "B": "The teacher provides opportunities for discussion by giving open-ended questions."
+    },
+    "options": [
+      "Only Action A follows",
+      "Both Action A and Action B follow",
+      "Only Action B follows",
+      "Neither Action A nor Action B follows"
+    ],
+    "correct_option": 2,
+    "answer": "Both Action A and Action B follow",
+    "explanation": "Since Anamika is making conceptual errors, providing practical/hands-on (behavioral) and visual activities (A) helps build concrete understanding of abstract concepts like Mensuration. Similarly, using open-ended questions (B) encourages creative thinking and diverse viewpoints, which can help diagnose and address conceptual gaps."
+  },
+  {
+    "id": 4,
+    "topic": "Mathematical Learning and Pedagogy",
+    "question": "Which of the following statements is the LEAST appropriate for encouraging mathematical learning?",
+    "options": [
+      "Failure does not mean that the student cannot do mathematics.",
+      "Everyone can learn mathematics.",
+      "Mathematical learning is not gender-specific.",
+      "Intuition should be discouraged because it hinders the development of mathematical ideas."
+    ],
+    "correct_option": 4,
+    "answer": "Intuition should be discouraged because it hinders the development of mathematical ideas.",
+    "explanation": "Intuition (Antar-gyan) should be encouraged, especially in early mathematical development, as it allows students to make predictions and develop an internal understanding. Discouraging intuition (Option 4) is counterproductive to learning and is therefore the least appropriate statement."
+  }
+]
+```
+
+========== CHUNK 3 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Mathematical Theorems and Proofs",
+    "question": "Which of the following statements is NOT correct in the context of a Mathematical Theorem?",
+    "options": [
+      "These are generalized statements of truth about certain definite mathematical facts.",
+      "They can be mathematically proven.",
+      "There is only one way to prove any theorem.",
+      "Unproven theorems are called conjectures."
+    ],
+    "correct_option": 3,
+    "answer": "There is only one way to prove any theorem.",
+    "explanation": "Mathematical theorems are generalized true statements that can be mathematically proven (Options 1 and 2). An unproven or attempted theorem is known as a conjecture (Option 4). The statement that there is only one way to prove any theorem (Option 3) is incorrect; theorems can often be proven using multiple different methods or proofs."
+  },
+  {
+    "id": 2,
+    "topic": "Nature of Mathematical Proofs",
+    "question": "Which of the following statements is the LEAST appropriate regarding mathematical proofs?",
+    "options": [
+      "It explains why a specific mathematical result must be true.",
+      "It helps reveal relationships and provides insight into the inherent structure of mathematics.",
+      "It helps students validate their own reasoning.",
+      "Proofs are constructed based on intuitive knowledge rather than logic/reasoning."
+    ],
+    "correct_option": 4,
+    "answer": "Proofs are constructed based on intuitive knowledge rather than logic/reasoning.",
+    "explanation": "Mathematical proofs rely primarily on logic, systematic reasoning, and established rules (tarkikta) to verify mathematical results and validate arguments. While intuition (intuitive knowledge/अंतर्देशीय ज्ञान) can guide the discovery process, the construction and acceptance of a proof are fundamentally based on rigorous logic and reasoning. Therefore, the statement claiming proofs are based on intuition rather than logic is the least appropriate."
+  },
+  {
+    "id": 3,
+    "topic": "Van Hiele's Theory of Geometric Thinking (Visualization)",
+    "question": "According to Van Hiele’s theory of geometric thinking, which statement is true regarding the foundational concept of Visualization (Level 0) in primary classes?",
+    "options": [
+      "Children are able to recognize geometrical figures based on their properties.",
+      "At this level, geometric thinking is related to the deduction of theorems.",
+      "Children are able to recognize geometrical figures based on their overall form and appearance.",
+      "Children can formally prove geometric relationships."
+    ],
+    "correct_option": 3,
+    "answer": "Children are able to recognize geometrical figures based on their overall form and appearance.",
+    "explanation": "Visualization (Level 0) is the foundational level where students recognize shapes based on their physical appearance, look, or comparison to real-world objects (e.g., a circle looks like a 'roti' or a ball; a triangle looks like a 'samosa'). They cannot yet identify shapes based on their specific properties (Analysis, Level 1) or engage in formal deduction (Deduction, Level 3)."
+  },
+  {
+    "id": 4,
+    "topic": "Van Hiele's Theory of Geometric Thinking (Informal Deduction)",
+    "question": "A student understands that all rectangles are parallelograms, but not all parallelograms are rectangles. According to Van Hiele’s theory of geometric thinking, at which stage of geometric thinking is that student?",
+    "options": [
+      "Analysis (Level 1)",
+      "Abstraction/Formalization (Level 4)",
+      "Deduction (Level 3)",
+      "Relationship / Informal Deduction (Level 2)"
+    ],
+    "correct_option": 4,
+    "answer": "Relationship / Informal Deduction (Level 2)",
+    "explanation": "The ability to understand hierarchical relationships between shapes (e.g., classifying all squares as rectangles, or all rectangles as parallelograms, but understanding the inverse is not true) is the hallmark of the Informal Deduction level (Level 2). At this stage, students start relating properties and forming definitions, though they cannot yet perform rigorous formal proofs."
+  }
+]
+```
+
+========== CHUNK 4 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "George Polya's Problem Solving Approach",
+    "question": "Which principle best aligns with George Polya's approach regarding teaching problem-solving skills in mathematics?",
+    "options": [
+      "Problem-solving is best learned through the repetition of similar problems.",
+      "Teachers should focus on guiding students to think critically and create their own strategies.",
+      "Problem-solving can only be taught by showing students the correct answers.",
+      "Mathematical problems are best solved by applying fixed formulas without any creative thinking."
+    ],
+    "correct_option": 2,
+    "answer": "Teachers should focus on guiding students to think critically and create their own strategies.",
+    "explanation": "George Polya's heuristic approach to problem-solving emphasizes understanding the problem, devising a plan, carrying out the plan, and looking back. This process encourages students to think deeply, explore different methods, and develop their own strategies, fostering independent and critical mathematical thinking, rather than relying on rote repetition or fixed formulas."
+  },
+  {
+    "id": 2,
+    "topic": "Zoltan Dienes' Principles of Mathematical Learning",
+    "question": "A teacher uses various materials (Abacus, Dienes blocks, dummy currency notes of ₹1, ₹10, ₹100) to teach the concept of Place Value. In this situation, which of Dienes' principles is the teacher utilizing?",
+    "options": [
+      "Dynamic Principle",
+      "Variability Principle",
+      "Perceptual Variability Principle",
+      "Constructivity Principle"
+    ],
+    "correct_option": 3,
+    "answer": "Perceptual Variability Principle",
+    "explanation": "The Perceptual Variability Principle (or Multiple Embodiment Principle) suggests that a mathematical concept should be presented using a variety of perceptually different concrete materials (like Abacus, blocks, and money). This ensures that the concept is generalized and not tied to any single physical representation, aiding deeper understanding. The use of multiple TLMs to teach Place Value perfectly exemplifies this principle."
+  },
+  {
+    "id": 3,
+    "topic": "Characteristics of Mathematics Textbooks",
+    "question": "Which of the following characteristics is the most appropriate feature for Mathematics textbooks at the Elementary Level (Classes 1-8)?",
+    "options": [
+      "Concepts should be presented from complex to simple.",
+      "Concepts should be presented from concrete to abstract.",
+      "The language of the book should be highly precise and technical.",
+      "Books should provide many similar practice problems for exercises."
+    ],
+    "correct_option": 2,
+    "answer": "Concepts should be presented from concrete to abstract.",
+    "explanation": "Effective mathematics teaching follows the maxim of moving from concrete (things children can touch and experience) to abstract (symbols and formal rules). Presenting concepts from complex to simple is pedagogically incorrect (it should be simple to complex). Highly technical language is inappropriate for elementary levels, and providing too many similar practice problems promotes rote learning rather than conceptual understanding."
+  },
+  {
+    "id": 4,
+    "topic": "Mathematics Teaching Methods",
+    "question": "A teacher distributes triangular paper cutouts (pieces of paper shaped like triangles) to students. The teacher asks them to measure the angles, tabulate the results, and find the sum of the angles in each case, noting the outcome for every situation. This teaching method is an example of which method?",
+    "options": [
+      "Discovery Method (Heuristic Method)",
+      "Deductive Method",
+      "Synthesis Method",
+      "Lecture Method"
+    ],
+    "correct_option": 1,
+    "answer": "Discovery Method (Heuristic Method)",
+    "explanation": "In the Discovery Method, the learner actively engages in finding relationships, patterns, and principles based on observations and activities provided by the teacher. Here, students are actively measuring, tabulating data, and concluding the rule (the sum of angles in a triangle is $180^\circ$) by themselves, making it a clear example of a child-centered, discovery-based learning approach."
+  }
+]
+```
+
+========== CHUNK 5 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Constructivist Teaching and Problem Solving",
+    "question": "As a constructivist teacher, what should be your reaction to a child who uses a unique, non-standard method to successfully solve a multiplication problem (e.g., calculating $12 \\times 25$)?",
+    "options": [
+      "Do not accept the answer.",
+      "Accept the answer, but tell the child that this is not the standard or correct method of multiplication.",
+      "Appreciate the child's approach and encourage other students to find different ways to solve problems.",
+      "Appreciate the child's answer but advise them not to use this method for solving questions in the examination."
+    ],
+    "correct_option": 3,
+    "answer": "Appreciate the child's approach and encourage other students to find different ways to solve problems.",
+    "explanation": "A constructivist approach values children's independent thinking, exploration, and the methods they invent to solve problems. By appreciating the child's innovative method (which shows deep understanding and creativity) and encouraging peers to also find multiple approaches, the teacher fosters mathematical thinking and creativity, rather than strict adherence to a single, prescribed algorithm. Options 2 and 4 discourage creativity and prioritize rote or standardized methods."
+  },
+  {
+    "id": 2,
+    "topic": "Concept Maps in Mathematics",
+    "question": "Which of the following statements is/are characteristic(s) of a concept map in Mathematics?",
+    "options": [
+      "A. It represents the conceptual analysis of a concept using contributing sub-concepts.",
+      "B. They are directional (using symbols/signs) and show which concepts are prerequisites for others.",
+      "C. They are not used for diagnostic purposes to identify learning gaps in a specific concept.",
+      "D. They cannot be used frequently because they are highly time-consuming."
+    ],
+    "correct_option": 4,
+    "answer": "A and B only",
+    "explanation": "Concept maps (or mind maps) are powerful tools in mathematics: \n- A is correct: They break down major concepts into smaller, interconnected sub-concepts (sub-concepts) to provide a holistic conceptual structure.\n- B is correct: They are directional (often using arrows and symbols) to show relationships and prerequisites between concepts.\n- C is incorrect: Concept maps are effective diagnostic tools; by analyzing a student’s map, a teacher can easily identify missing concepts or misunderstandings (learning gaps).\n- D is incorrect: Concept maps are mental models that can be used repeatedly for review, organization, and problem-solving. Thus, only A and B are correct characteristics.",
+    "options_formatted": [
+      "A and C only",
+      "B and D only",
+      "A, B, and C only",
+      "A and B only"
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Error Analysis and Overgeneralization",
+    "question": "A student is asked to find the value of $x$ in the equation $x - 4 = 3$. The student completes the task by subtracting 3 from 4, concluding that $x = 1$. Which of the following statements most appropriately describes this situation?",
+    "options": [
+      "The student solved the problem correctly.",
+      "The student committed an algorithmic error based on overgeneralization.",
+      "The student has a conceptual misunderstanding of algebraic transposition.",
+      "The student is careless in numerical calculation."
+    ],
+    "correct_option": 2,
+    "answer": "The student committed an algorithmic error based on overgeneralization.",
+    "explanation": "The correct solution is $x = 3 + 4$, so $x = 7$. The student calculated $4 - 3 = 1$. This error occurs because the student is applying a rigid, overgeneralized rule derived from basic arithmetic (i.e., 'when you see two numbers and a subtraction sign, subtract the smaller number from the larger number') rather than understanding the concept of solving an equation. This is a classic example of an algorithmic error coupled with overgeneralization."
+  }
+]
+```
+
+========== CHUNK 6 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Use of Teaching Learning Material (TLM) in Mathematics",
+    "question": "If teaching learning aids like the Geo Board, grid paper (dot paper), cut-outs, and Tangrams are used in a mathematics classroom, the various concepts children learn through them are related to the development of which of the following areas?",
+    "options": [
+      "Shapes (Figures/Geometry)",
+      "Algebra",
+      "Measurement",
+      "Data Handling"
+    ],
+    "correct_option": 1,
+    "answer": "Shapes (Figures/Geometry)",
+    "explanation": "Teaching aids like the Geo Board, grid paper, and Tangrams are primarily used to teach spatial understanding and concepts related to 2D and 3D shapes (Geometry) to children."
+  },
+  {
+    "id": 2,
+    "topic": "Use of Teaching Learning Material (TLM) in Geometry",
+    "question": "Which of the following teaching-learning materials can be used to demonstrate changes in the shape (transformation) of a quadrilateral (a four-sided polygon)?\n(A) Graph paper\n(B) Geo Board\n(C) Calculator\n(D) Scale (Ruler)",
+    "options": [
+      "A and B only",
+      "A, C and D only",
+      "B, C and D only",
+      "A, B and D only"
+    ],
+    "correct_option": 4,
+    "answer": "A, B and D only",
+    "explanation": "A polygon (like a quadrilateral) is a 2D shape. Graph paper, Geo Board (used for 2D shapes), and a Scale (for drawing/measuring sides) can all be used to construct and demonstrate changes in the shape of a polygon. A calculator is not relevant for demonstrating shape changes."
+  },
+  {
+    "id": 3,
+    "topic": "Role of Mathematical Learning Material (MLM)",
+    "question": "Which of the following statements correctly describe the purpose of Mathematical Learning Material (MLM)?\n(A) They help teachers demonstrate formulas.\n(B) They help students learn spontaneously (self-learning).\n(C) They help teachers give instructions.\n(D) They create a favorable learning environment in the classroom.",
+    "options": [
+      "A and D only",
+      "B and D only",
+      "A and C only",
+      "B and C only"
+    ],
+    "correct_option": 2,
+    "answer": "B and D only",
+    "explanation": "The primary objective of using MLM is to facilitate student learning (spontaneously, B) and make the classroom experience engaging and exciting, thus building a positive learning environment (D). MLM should focus on the learner, not primarily on assisting the teacher in instruction or formula presentation (A and C are rejected)."
+  },
+  {
+    "id": 4,
+    "topic": "Pattern Recognition Development",
+    "question": "Mr. Govind wants to develop pattern recognition skills in his students. Which of the following activities will be most helpful for this purpose?",
+    "options": [
+      "Asking students to create their family tree (pedigree chart) and compare it with a friend's family tree.",
+      "Asking students to look carefully at the night sky and describe what they saw in the classroom the next day.",
+      "Asking students to search for all the national symbols of India in their textbooks.",
+      "Asking students to arrange building blocks in increasing order of height."
+    ],
+    "correct_option": 4,
+    "answer": "Asking students to arrange building blocks in increasing order of height.",
+    "explanation": "Arranging blocks in increasing order of height creates a visual, tangible, and sequential pattern (a small block followed by a slightly larger one, and so on). This is the most direct and effective activity among the options for developing the skill of recognizing patterns and sequences."
+  },
+  {
+    "id": 5,
+    "topic": "Formative Assessment (FA) in Mathematics",
+    "question": "Which of the following statements is LEAST appropriate regarding Formative Assessment (FA) in mathematics classrooms?",
+    "options": [
+      "It provides cumulative evaluation which helps in grading/categorizing children.",
+      "It assesses the progress of students during instructional activities.",
+      "It helps in identifying students' conceptual understanding.",
+      "It helps in identifying students' misconceptions and helps to resolve them."
+    ],
+    "correct_option": 1,
+    "answer": "It provides cumulative evaluation which helps in grading/categorizing children.",
+    "explanation": "Formative Assessment (FA) is assessment *for* learning, focused on providing feedback and improving instruction during the learning process (Statements 2, 3, 4 are correct features of FA). Categorizing or grading children based on cumulative evaluation is the primary characteristic of Summative Assessment (SA). Hence, statement 1 is the least appropriate description of FA."
+  },
+  {
+    "id": 6,
+    "topic": "Assessment Principles in Mathematics",
+    "question": "Which of the following is the LEAST relevant aspect for assessment in mathematics?",
+    "options": [
+      "Testing the separate components of mathematical competency rather than focusing on its valuable and important aspects.",
+      "Measuring what is important, not just what is easy to measure.",
+      "Open-ended questions are important in assessing mathematical understanding.",
+      "Assessment provides feedback to teachers and learners."
+    ],
+    "correct_option": 1,
+    "answer": "Testing the separate components of mathematical competency rather than focusing on its valuable and important aspects.",
+    "explanation": "Effective assessment in mathematics should focus on the holistic, valuable aspects of mathematical thinking (like problem-solving, reasoning, conceptual understanding) rather than isolating only separate, easily testable components (like basic arithmetic scores). Therefore, advocating for testing only separate components (Option 1) is the least relevant/appropriate principle for quality assessment."
+  }
+]
+```
+
+========== CHUNK 7 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "NCF 2005 - Mathematics Teaching",
+    "question": "According to the National Curriculum Framework (NCF) 2005, mathematics teachers should focus on which of the following aspects in their teaching?",
+    "options": [
+      "Promoting deep memorization and rigorous algorithms.",
+      "Developing mathematical reasoning and logical thinking.",
+      "Being the sole authority for providing correct answers."
+    ],
+    "correct_option": 2,
+    "answer": "Developing mathematical reasoning and logical thinking.",
+    "explanation": "NCF 2005 emphasizes that mathematical education should promote abstract thinking, reasoning, and problem-solving abilities. Focusing on rote memorization (Option 1) or algorithms alone is discouraged. Teachers should act as facilitators, not sole authorities (Option 3). Therefore, focusing on mathematical reasoning is the correct emphasis."
+  },
+  {
+    "id": 2,
+    "topic": "NCF 2005 - School Mathematics Environment",
+    "question": "According to NCF 2005, school mathematics should be situated in a context where:\n(A) A teacher engages every child in presenting and solving meaningful problems in mathematics.\n(B) Children view mathematics as a part of their daily life and discuss it.\n(C) Every child has the ability to solve all textbook problems without the assistance of a teacher.\n(D) Emphasis is solely placed on creating great mathematicians for the nation.\n\nChoose the correct combination:",
+    "options": [
+      "Only (A) and (B)",
+      "Only (B) and (C)",
+      "(A), (B), and (C)",
+      "Only (D)"
+    ],
+    "correct_option": 1,
+    "answer": "Only (A) and (B)",
+    "explanation": "NCF 2005 advocates for meaningful learning and connecting mathematics to real-life experiences (A and B are correct). Children still require teacher guidance and facilitation (C is incorrect, as teachers are facilitators). Mathematics education should aim for broad development, not just creating 'great' mathematicians (D is incorrect)."
+  },
+  {
+    "id": 3,
+    "topic": "Mathematics Pedagogy - ELPS Theory/Foundational Stage NCF",
+    "question": "The NCF for the Foundational Stage highlights the importance of the following components (based on ELPS Theory) while teaching abstract mathematical concepts:\n(A) Written Symbols\n(B) Experiences\n(C) Conversational Language\n(D) Pictures/Diagrams\n\nWhich of the following represents the most appropriate hierarchical sequence for using these components during mathematical instruction?",
+    "options": [
+      "(A), (B), (C), (D)",
+      "(B), (C), (D), (A)",
+      "(B), (A), (C), (D)",
+      "(C), (B), (D), (A)"
+    ],
+    "correct_option": 2,
+    "answer": "(B), (C), (D), (A)",
+    "explanation": "This sequence follows the ELPS (Experience, Language, Pictures, Symbols) theory proposed by Pamela Liebeck, which is foundational to teaching mathematics. Learners progress from concrete experiences (E or B) to linguistic expression (L or C), visual representations (P or D), and finally abstract written symbols (S or A)."
+  },
+  {
+    "id": 4,
+    "topic": "Mathematical Concepts in Real Life / Mental Math",
+    "question": "A customer buys 650 grams of spinach at ₹800 per kilogram. The vegetable vendor mentally calculates the cost by breaking 650 grams into 500 + 100 + 50, and then calculates the total cost as 40 + 8 + 4 = 52. Which mathematical concept(s) did the vendor utilize during this calculation?\n(A) Addition\n(B) Ratio and Proportion\n(C) Subtraction\n(D) Division",
+    "options": [
+      "Only (A) and (B)",
+      "(A), (B), and (D)",
+      "(B), (C), and (D)",
+      "(A), (B), (C), and (D)"
+    ],
+    "correct_option": 2,
+    "answer": "(A), (B), and (D)",
+    "explanation": "The vendor explicitly used Addition (40 + 8 + 4) and implicitly used Ratio and Proportion to calculate the price for a specific weight. Division is used in determining the cost per gram or per unit weight. Subtraction was not part of this specific calculation."
+  },
+  {
+    "id": 5,
+    "topic": "Mathematics Pedagogy - Fractions/C-P-S Sequence",
+    "question": "Ms. Samina is introducing the concept of fractions. She plans the following three learning activities:\n(1) Representing fractions symbolically on the blackboard.\n(2) Representing various fractions using diagrams.\n(3) Engaging students in representing various fractions using Concrete Material (Murt Samagri).\n\nTo clearly explain the concept, assist Ms. Samina in arranging these activities in the most appropriate pedagogical sequence.",
+    "options": [
+      "(3), (2), (1)",
+      "(1), (2), (3)",
+      "(2), (3), (1)",
+      "(3), (1), (2)"
+    ],
+    "correct_option": 1,
+    "answer": "(3), (2), (1)",
+    "explanation": "Effective mathematics teaching follows the Concrete-Pictorial-Symbolic (C-P-S) sequence. Conceptual understanding is built first using concrete material (3), followed by pictorial or diagrammatic representations (2), and finally formalized using abstract symbols (1)."
+  },
+  {
+    "id": 6,
+    "topic": "Mathematical Operations - Division Prerequisites",
+    "question": "Students frequently face difficulty solving division problems. Which of the following statements provides the most valid reason or pedagogical prerequisite regarding the learning of division?",
+    "options": [
+      "There are no informal algorithms (methods) for solving division problems.",
+      "It is essential for students to master addition, subtraction, and multiplication well to solve division problems.",
+      "Students simply do not like the division symbol.",
+      "Division problems have no utility in daily life."
+    ],
+    "correct_option": 2,
+    "answer": "It is essential for students to master addition, subtraction, and multiplication well to solve division problems.",
+    "explanation": "Mathematics learning is hierarchical (sequential). Division is fundamentally related to multiplication (the inverse operation) and repeated subtraction. Therefore, a student's difficulty in division often stems from insufficient mastery of prerequisite operations like addition, subtraction, and multiplication."
+  }
+]
+```
+
+========== CHUNK 8 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Error Analysis in Fraction Addition",
+    "question": "A student solved the addition problem as follows: $\\frac{1}{2} + \\frac{1}{3} = \\frac{1}{5}$. Which of the following is the most appropriate conclusion that can be drawn from this error?",
+    "options": [
+      "The child extended the example of addition of natural numbers to the addition of fractions (Overgeneralization).",
+      "The child does not know how to add numbers.",
+      "The child does not know how to find the Least Common Multiple (LCM).",
+      "The child does not know how to represent fractions on a number line."
+    ],
+    "correct_option": 1,
+    "answer": "The child extended the example of addition of natural numbers to the addition of fractions (Overgeneralization).",
+    "explanation": "The error $\\frac{1}{2} + \\frac{1}{3} = \\frac{1}{5}$ suggests the child applied a flawed rule, possibly adding the numerators and denominators (1+1 and 2+3, although this would result in $2/5$, the cognitive error identified by the speaker is the extension of rules from simpler contexts). This misapplication of prior knowledge (addition of natural numbers) to a new context (addition of fractions) is known as Overgeneralization."
+  },
+  {
+    "id": 2,
+    "topic": "Number Sense",
+    "question": "The ability to immediately state the correct number of a small collection of objects without counting them is referred to as:",
+    "options": [
+      "Counting",
+      "Conservation",
+      "Transitivity",
+      "Subitizing"
+    ],
+    "correct_option": 4,
+    "answer": "Subitizing",
+    "explanation": "Subitizing is the rapid, accurate, and confident judgment of the number of items in a small collection (typically 1 to 4 or 5) without resorting to counting. The example provided (immediately knowing the number of fingers/toes without counting) is the definition of subitizing."
+  },
+  {
+    "id": 3,
+    "topic": "Mathematics Laboratory",
+    "question": "Which of the following statements correctly describe the characteristics of a Mathematics Laboratory?",
+    "options": [
+      "A. It is a place for enjoying mathematics through informal investigation.",
+      "B. It provides opportunities to prove mathematical theorems through experiments.",
+      "C. It provides opportunities to make conjectures, test them, and generalize observed patterns.",
+      "D. It is used for assessing students' mathematical knowledge and assigning grades accordingly."
+    ],
+    "correct_option": 4,
+    "answer": "A and C",
+    "explanation": "A Maths Laboratory should promote learning through informal investigation and discovery (A) and encourage high-level thinking skills such as making conjectures, testing them, and generalizing patterns (C). It is generally not intended primarily for formal theorem proving (B, which is advanced for primary levels) or formal grading (D)."
+  },
+  {
+    "id": 4,
+    "topic": "Effective Mathematics Classroom",
+    "question": "Which of the following is considered a key characteristic of an effective mathematics classroom?",
+    "options": [
+      "Providing opportunities for students to solve only the same types of problems that the teacher has already solved.",
+      "Making students sensitive through various examples that mathematics is an abstract subject.",
+      "Encouraging individual problem-solving tasks over collaborative group work.",
+      "Providing opportunities for children to solve problems using many different methods."
+    ],
+    "correct_option": 4,
+    "answer": "Providing opportunities for children to solve problems using many different methods.",
+    "explanation": "An effective mathematics classroom encourages flexibility in thinking. Providing multiple opportunities and encouraging various solution strategies (including those proposed by students) allows for deep conceptual understanding and flexibility. Options 1, 2, and 3 describe ineffective or restrictive practices."
+  },
+  {
+    "id": 5,
+    "topic": "Properties of Natural Numbers",
+    "question": "If the sum of any two natural numbers results in a natural number, this property of natural numbers is known as what?",
+    "options": [
+      "Closure Property",
+      "Commutative Property",
+      "Associative Property",
+      "Distributive Property"
+    ],
+    "correct_option": 1,
+    "answer": "Closure Property",
+    "explanation": "The Closure Property states that if an operation (like addition or multiplication) is performed on any two elements of a set, the result is also an element of that set. For natural numbers (N), addition and multiplication obey closure: if $a, b \\in N$, then $a+b \\in N$ and $a \\times b \\in N$."
+  },
+  {
+    "id": 6,
+    "topic": "Place Value Error",
+    "question": "A child was asked to write the number '567' but wrote '5067'. What is the most appropriate reason for this error?",
+    "options": [
+      "The child is inattentive and a careless listener.",
+      "The child is a careful listener but has not established the concept of place value.",
+      "The child lacks the ability to use the counting principle.",
+      "The child is confusing natural numbers with whole numbers."
+    ],
+    "correct_option": 2,
+    "answer": "The child is a careful listener but has not established the concept of place value.",
+    "explanation": "The error suggests the child heard 'five hundred' and 'sixty-seven' and wrote 5 and 67, placing a zero between them (5067). This indicates an understanding of the individual number names but a conceptual difficulty in integrating these parts into the correct positional representation (Hundreds, Tens, Units), highlighting a lack of mastery of the place value concept."
+  },
+  {
+    "id": 7,
+    "topic": "Developing Number Concept",
+    "question": "A primary level mathematics teacher develops the concept of number and number sense using sets of familiar objects (e.g., 2 pens, 3 fruits, 5 boys, 7 girls). This approach is primarily focused on helping children understand that:",
+    "options": [
+      "Numbers are merely labels used for identification.",
+      "The concept of counting is only sequential.",
+      "The total number (cardinality) of a set is independent of the nature of the objects.",
+      "Objects should always be grouped based on their physical properties."
+    ],
+    "correct_option": 3,
+    "answer": "The total number (cardinality) of a set is independent of the nature of the objects.",
+    "explanation": "By using varied sets of familiar objects (pens, fruits, boys, girls) to represent different quantities, the teacher is reinforcing the concept of cardinality—that the numerical value represents the total quantity of the set, abstracting the number from the specific physical objects used to count them. This is crucial for developing robust number sense."
+  }
+]
+```
+
+========== CHUNK 9 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Cardinal and Ordinal Numbers",
+    "question": "A teacher introduces the concept of numbers using a set description: 'Two pens, three fruits, five boys, and seven girls.' The teacher is focusing on which aspect of numbers?",
+    "options": [
+      "Ordinal numbers",
+      "Cardinal numbers",
+      "Nominal numbers",
+      "Natural Aspect numbers"
+    ],
+    "correct_option": 2,
+    "answer": "Cardinal numbers",
+    "explanation": "Cardinal numbers refer to the quantity or count of objects in a set (e.g., how many pens, how many boys). They answer the question 'How many?'. Ordinal numbers relate to position or order (e.g., 1st, 2nd, 3rd)."
+  },
+  {
+    "id": 2,
+    "topic": "Role of Counter Examples in Mathematics",
+    "question": "Counter-examples are useful in mathematics classes for which of the following purposes? Choose the correct combination:",
+    "options": [
+      "A, B, and C",
+      "B, and D",
+      "A, C, and D",
+      "A, B, and D"
+    ],
+    "sub_options": [
+      "A: To remove misconceptions.",
+      "B: To refute conjectures.",
+      "C: To prove an axiom.",
+      "D: To show the falsity of a generalization."
+    ],
+    "correct_option": 4,
+    "answer": "A, B, and D",
+    "explanation": "Counter-examples are vital tools that challenge assumptions. They help remove misconceptions (A), refute conjectures (B), and demonstrate that a generalized statement is false (D). They are not typically used to prove an established axiom (C)."
+  },
+  {
+    "id": 3,
+    "topic": "Correction of Multiplication Errors (Place Value)",
+    "question": "A Class III student solved the multiplication problem $26 \times 5$ by writing $6 \times 5 = 30$ and $5 \times 2 = 10$ (resulting in $10+30=40$, ignoring place value). Which of the following concepts is most appropriate to reiterate to rectify this misconception?",
+    "options": [
+      "Single-digit multiplication",
+      "The concept of Regrouping (Re-bundling)",
+      "The concept of Fractions",
+      "The concept of multiplication as repeated addition"
+    ],
+    "correct_option": 2,
+    "answer": "The concept of Regrouping (Re-bundling)",
+    "explanation": "The student's error indicates a fundamental lack of understanding of place value in multi-digit multiplication. When multiplying $26 \times 5$, the '2' represents 20, not 2. The concept of regrouping (which involves understanding that 10 ones make 1 ten, etc.) is the most suitable strategy to teach place value and correctly carry over numbers, addressing this specific error effectively."
+  },
+  {
+    "id": 4,
+    "topic": "Word Problems in Mathematics",
+    "question": "Which of the following statements is TRUE regarding word problems (Ibarati Sawal) in school mathematics?",
+    "options": [
+      "Word problems refer to exercises where the child gives a formal structure to a situation so that mathematical techniques can be applied.",
+      "Word problems are not examples of mathematical instruction/modeling.",
+      "Word problems are only important in secondary classes.",
+      "Word problems focus more on procedural knowledge in mathematics."
+    ],
+    "correct_option": 1,
+    "answer": "Word problems refer to exercises where the child gives a formal structure to a situation so that mathematical techniques can be applied.",
+    "explanation": "Word problems are crucial for applying mathematical knowledge to real or structured contexts. They help children translate a situation into a mathematical model (formal or informal) where appropriate techniques can be utilized. They are examples of mathematical instruction (rejecting B), are important across primary and secondary levels (rejecting C), and focus more on conceptual understanding and problem-solving than purely procedural knowledge (rejecting D)."
+  },
+  {
+    "id": 5,
+    "topic": "Data Handling at Primary Level",
+    "question": "Which of the following is the MOST appropriate method for introducing Data Collection and Management (Data Handling) at the primary stage?",
+    "options": [
+      "Asking students to read bus and train timetables.",
+      "Collecting data on students' height, favorite food, color, cartoons, etc., and asking questions based on this data.",
+      "Showing students a city's population count for 5 years and asking them to compare population growth.",
+      "Drawing a bar graph on the blackboard and asking students to read the data from it."
+    ],
+    "correct_option": 2,
+    "answer": "Collecting data on students' height, favorite food, color, cartoons, etc., and asking questions based on this data.",
+    "explanation": "At the primary level, data handling should be introduced using concrete, real-life examples relevant to the students' immediate environment (like their classmates' characteristics or preferences). Collecting and discussing this personal data makes the concept engaging, activity-based, and meaningful, which is far superior to rote reading of charts (A, D) or abstract comparisons (C)."
+  },
+  {
+    "id": 6,
+    "topic": "Teaching Geometry and Patterns using Real Objects",
+    "question": "Mr. Hari brought printed dupattas (scarves) featuring various Rangoli designs to his class. Which mathematical topic(s) would this resource be most appropriate for teaching?",
+    "options": [
+      "Factors and Multiples",
+      "Shapes and Patterns",
+      "Place Value",
+      "Geometrical Shapes and Fractions"
+    ],
+    "correct_option": 2,
+    "answer": "Shapes and Patterns",
+    "explanation": "Rangoli designs are typically constructed using geometric figures (shapes) that repeat or tessellate in a predictable manner (patterns). Therefore, this material is highly effective for teaching the concepts of shapes and visual patterns."
+  },
+  {
+    "id": 7,
+    "topic": "Cognitive Skills in Geometry",
+    "question": "Which is the most appropriate cognitive skill that helps students identify shapes and create groups based on their characteristics and properties?",
+    "options": [
+      "Decomposition",
+      "Classification",
+      "Seriation (Ordering)",
+      "Conservation"
+    ],
+    "correct_option": 2,
+    "answer": "Classification",
+    "explanation": "Classification (वर्गीकरण) is the process of sorting objects or ideas into groups based on common attributes or features (like color, size, or type of geometric property). Seriation involves ordering, and Conservation relates to understanding that quantity remains the same despite changes in appearance. Classification directly addresses the requirement of grouping based on characteristics and properties."
+  }
+]
+```
+
+========== CHUNK 10 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "NEP 2020: Knowledge of India and Assessment",
+    "question": "The National Education Policy 2020 (NEP 2020) emphasizes the inclusion of 'Knowledge of India.' Which of the following statements regarding the implementation of this concept or its related pedagogical principles is NOT included or aligned with NEP 2020?",
+    "options": [
+      "Integrating the knowledge and contribution of Ancient India into the understanding of modern India.",
+      "Imparting tribal (Adivasi) knowledge as part of various subjects like Mathematics, Astronomy, Medicine, and Agriculture.",
+      "Adopting indigenous and traditional methods of learning alongside contemporary methodologies.",
+      "Formal examinations must not be conducted for assessing the increase in students' knowledge; emphasis should be placed only on Formative Assessment (FA)."
+    ],
+    "correct_option": 4,
+    "answer": "Formal examinations must not be conducted for assessing the increase in students' knowledge; emphasis should be placed only on Formative Assessment (FA).",
+    "explanation": "NEP 2020 promotes the 'Knowledge of India' by integrating ancient Indian contributions (Option 1), promoting traditional and indigenous knowledge (Option 2 and 3), and incorporating cultural exchange programs (like visits to different states). However, NEP 2020 does not mandate the outright rejection or prohibition of all formal examinations. While NEP 2020 strongly advocates for continuous and comprehensive assessment (including Formative Assessment (FA)) and shifting away from high-stakes summative exams, it does not state that formal examinations must not be conducted at all. Therefore, the statement promoting the elimination of formal exams and focusing *only* on FA is an oversimplification and is considered the statement not included/aligned with the policy's assessment reforms, making it the correct negative answer."
+  }
+]
+```

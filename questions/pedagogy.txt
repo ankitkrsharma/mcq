@@ -1,0 +1,1846 @@
+
+========== CHUNK 1 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Acquisition (First Language)",
+    "question": "You were born and raised in a village where every person speaks the Hindi language. When you went to school, you learned English, Sanskrit, Hindi, and Urdu. Now you speak English fluently. Which is your first language?",
+    "options": [
+      "Urdu Language (उर्दू भाषा)",
+      "Sanskrit Language (संस्कृत भाषा)",
+      "English Language (आंग्ल भाषा)",
+      "Hindi Language (हिंदी भाषा)"
+    ],
+    "correct_option": 4,
+    "answer": "Hindi Language (हिंदी भाषा)",
+    "explanation": "The first language (L1) or Mother Tongue is the language acquired by a child in the environment where they are born and raised, usually before starting formal schooling. Since the individual was raised in a village where 'every person speaks Hindi language,' Hindi is established as the primary acquired language, regardless of subsequent fluency in other languages like English, Sanskrit, or Urdu."
+  },
+  {
+    "id": 2,
+    "topic": "Language Objectives and Knowledge Types",
+    "question": "Which of the following indicates the knowledge activity goal of language?",
+    "options": [
+      "Towards Grammatical Knowledge (व्याकरणात्मक ज्ञान की ओर)",
+      "Towards Technical Competence (प्रविधिगत सामर्थ्यम की ओर)",
+      "Towards Declarative Knowledge (निर्णयात्मक ज्ञान की ओर)",
+      "Towards Procedural Knowledge (प्रक्रियात्मक ज्ञान की ओर)"
+    ],
+    "correct_option": 3,
+    "answer": "Towards Declarative Knowledge (निर्णयात्मक ज्ञान की ओर)",
+    "explanation": "Declarative knowledge (declarative/propositional/conceptual knowledge) refers to knowing 'what'—facts, concepts, and principles. In the context of language objectives and knowledge activity (ज्ञान क्रिया), it refers to the conceptual and objective understanding of the language system, structure, and rules. It is often contrasted with procedural knowledge, which is knowing 'how' to use the language. The specific goal or objective related to fundamental knowledge acquisition is linked to declarative knowledge."
+  },
+  {
+    "id": 3,
+    "topic": "Language Register (Language Use)",
+    "question": "A passage is cited here: 'According to the Indian Constitution, every person is equal. This means that every person in the country—male or female, of all castes, religions, tribes, and diverse educational and economic backgrounds—is considered equal. However, this does not mean that inequality has been eliminated. Nevertheless, in democratic India, the principle of equality is accepted by all people.' Which language register is this passage related to?",
+    "options": [
+      "Legal Register (विधिक प्रयुक्ति)",
+      "Scientific Register (वैज्ञानिक प्रयुक्ति)",
+      "Political Register (राजनीतिक प्रयुक्ति)",
+      "Social Science Register (समाज विज्ञान प्रयुक्ति)"
+    ],
+    "correct_option": 4,
+    "answer": "Social Science Register (समाज विज्ञान प्रयुक्ति)",
+    "explanation": "A language register refers to the style of language used in a specific social context or field. The passage discusses concepts of equality, constitutional provisions, social inclusion across castes and economic backgrounds, and democratic principles. These themes belong fundamentally to the domain of sociology, political science, and history, which are collectively categorized as Social Sciences. While the Constitution is legal, the interpretation and societal application of equality across diverse groups is a core subject of Social Science."
+  }
+]
+```
+
+========== CHUNK 2 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Classical Languages",
+    "question": "Which of the following languages is NOT recognized as a Classical Language (Shastriya Bhasha) in India?",
+    "options": [
+      "Telugu",
+      "Tamil",
+      "Sanskrit",
+      "Hindi"
+    ],
+    "correct_option": 4,
+    "answer": "Hindi",
+    "explanation": "Classical Language status (Shastriya Bhasha) has been granted to Sanskrit, Tamil, Telugu, Kannada, Malayalam, and Odia. Hindi, while being the official language (Rajbhasha) of the Union, does not hold the status of a Classical Language."
+  },
+  {
+    "id": 2,
+    "topic": "Characteristics of Language",
+    "question": "Which of the following is NOT considered a characteristic (Visheshata) of language?",
+    "options": [
+      "It is symbolic (Sanketik)",
+      "It is stable (Sthira)",
+      "It is social (Samajik)",
+      "It is systematic (Vyavasthita)"
+    ],
+    "correct_option": 2,
+    "answer": "It is stable (Sthira)",
+    "explanation": "Language is inherently dynamic and constantly changing (Asthira or Parivartanasheela), often changing significantly every few kilometers. It is symbolic (communicated through signs and symbols), social (facilitates interaction), and systematic (following rules of grammar). Since the question asks for the characteristic that is NOT true, 'stable' is the correct answer."
+  },
+  {
+    "id": 3,
+    "topic": "Sanskrit Grammar: Sandhi (Conjunction)",
+    "question": "Analyze the word 'Yathochitam' (यथोचितम्). Choose the option that correctly provides its Sandhi split (Vichheda) and the name of the conjunction (Sandhi). (Based on a previous year question discussed in the lecture)",
+    "options": [
+      "Yathā + Aucitam; Vṛddhi Sandhi",
+      "Yathā + Ucītam; Guṇa Sandhi",
+      "Yath + Ōcitam; Vṛddhi Sandhi",
+      "Yathā + Ucītam; Dīrgha Sandhi"
+    ],
+    "correct_option": 2,
+    "answer": "Yathā + Ucītam; Guṇa Sandhi",
+    "explanation": "The word 'Yathochitam' is formed by the combination of 'Yathā' (ending in 'ā') and 'Ucītam' (starting with 'u'). According to the rules of Guṇa Sandhi (Ād Guṇaḥ), when 'a' or 'ā' is followed by 'u' or 'ū', the resulting vowel is 'o'. Thus, ā + u = o, forming 'Yathochitam', which is an example of Guṇa Sandhi."
+  }
+]
+```
+
+========== CHUNK 3 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Sanskrit Sandhi (Vriddhi Sandhi)",
+    "question": "Identify the type of Sandhi (Compound) present in the Sanskrit word 'Dharmasva' (धर्मसव), based on the rule that produces the 'ai' sound (ऐ)?",
+    "options": [
+      "Hal Sandhi (Consonant Sandhi)",
+      "Dirgha Sandhi (Long Vowel Sandhi)",
+      "Guna Sandhi (Qualitative Vowel Sandhi)",
+      "Vriddhi Sandhi (Quantitative Vowel Sandhi)"
+    ],
+    "correct_option": 4,
+    "answer": "Vriddhi Sandhi (Quantitative Vowel Sandhi)",
+    "explanation": "Vriddhi Sandhi occurs when 'a' or 'ā' is followed by 'e' or 'ai', resulting in 'ai'; or when 'a' or 'ā' is followed by 'o' or 'au', resulting in 'au'. The presence of the 'ai' sound (ऐ) in 'Dharmasva' is the defining characteristic of Vriddhi Sandhi."
+  },
+  {
+    "id": 2,
+    "topic": "Sanskrit Sandhi (Yan Sandhi)",
+    "question": "Which type of Sandhi is utilized in the formation of the word 'Vāhamyaham' (बहाम्यहम)?",
+    "options": [
+      "Ayadi Sandhi",
+      "Yan Sandhi",
+      "Purva Rupa Sandhi",
+      "Para Rupa Sandhi"
+    ],
+    "correct_option": 2,
+    "answer": "Yan Sandhi",
+    "explanation": "Yan Sandhi (इको यणचि) replaces the vowel 'i', 'u', 'r̥', or 'l̥' with 'y', 'v', 'r', or 'l' respectively, when followed by a dissimilar vowel. The word 'Vāhamyaham' breaks down as 'Vāhami (इ) + Aham (अ)', where 'i' followed by the dissimilar vowel 'a' transforms into 'y'. A common short trick for identifying Yan Sandhi is the presence of a half consonant immediately preceding 'y', 'v', 'r', or 'l'."
+  },
+  {
+    "id": 3,
+    "topic": "Language Pedagogy (BICS vs CALP)",
+    "question": "According to language acquisition theory, which linguistic skill category characterizes a student’s current activity when they are involved in studying rigorously for an exam, requiring deep thought, analysis, complex vocabulary, and critical thinking?",
+    "options": [
+      "Basic Interpersonal Communication Skills (BICS)",
+      "Cognitive Academic Language Proficiency (CALP)",
+      "L1 (First Language Proficiency)",
+      "Communicative Language Teaching (CLT)"
+    ],
+    "correct_option": 2,
+    "answer": "Cognitive Academic Language Proficiency (CALP)",
+    "explanation": "CALP refers to the formal academic language needed to succeed in school and involves high-level cognitive processes like analysis, synthesis, evaluation, and use of subject-specific or difficult vocabulary. This contrasts with BICS, which refers to the basic, everyday language used in social, natural contexts (like talking about daily routine) and is typically developed quickly."
+  }
+]
+```
+
+========== CHUNK 4 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Proficiency (BICS vs CALP)",
+    "question": "Which type of language proficiency is demonstrated when we engage in daily, face-to-face interactions and mutual routine behaviors with others?",
+    "options": [
+      "Interpersonal Proficiency (Antar Vaiyaktikata)",
+      "Language Proficiency (Bhasha Pravinyam)",
+      "Cognitive Academic Language Proficiency (CALP)",
+      "Basic Interpersonal Communication Skills (BICS)"
+    ],
+    "correct_option": 4,
+    "answer": "Basic Interpersonal Communication Skills (BICS)",
+    "explanation": "Basic Interpersonal Communication Skills (BICS) refers to the conversational fluency used in everyday, social interactions, typically face-to-face. This proficiency is natural, context-embedded, and used for daily routine communication."
+  },
+  {
+    "id": 2,
+    "topic": "Language Proficiency (BICS vs CALP)",
+    "question": "This skill indicates proficiency in academic language or various subject-matter languages. Identify the skill.",
+    "options": [
+      "Cognitive Academic Language Proficiency (CALP)",
+      "Trans-language Proficiency (Antar Bhasha Pravinyam)",
+      "Basic Interpersonal Communication Skills (BICS)",
+      "Communicative Language Proficiency (Sampreshanatmak Bhasha Pravinyam)"
+    ],
+    "correct_option": 1,
+    "answer": "Cognitive Academic Language Proficiency (CALP)",
+    "explanation": "Cognitive Academic Language Proficiency (CALP) refers to the formal, academic language proficiency required to understand and use complex language in school subjects, textbooks, and academic settings (शैक्षणिक भाषायाम अथवा विविध पाठ्य विषयक भाषायाम)."
+  },
+  {
+    "id": 3,
+    "topic": "Language Units (Phonemic Approach)",
+    "question": "A teacher first introduces the learners to letters (Aksharas) and then gradually establishes a co-relation of those letters with their respective sounds (Dhvani). Which approach is she following?",
+    "options": [
+      "Ecological Approach (Paristitikī Parak Upāgam)",
+      "Structural Approach (Sanrachanatmak Upāgam)",
+      "Phonemic Approach (Svanimik Upāgam)",
+      "Problem Solving Approach (Samsya Samadhan Upāgam)"
+    ],
+    "correct_option": 3,
+    "answer": "Phonemic Approach (Svanimik Upāgam)",
+    "explanation": "The Phonemic approach (Svanimik Upagam) focuses on the smallest units of sound (phonemes/dhvani) in a language. Since the teacher is focusing on associating letters with their sounds, she is employing the Phonemic Approach."
+  },
+  {
+    "id": 4,
+    "topic": "Language Acquisition Stages",
+    "question": "Vira is a seven-month-old infant. She now produces pronunciations consisting of vowels and consonants. Which of the following communication stages does she employ?",
+    "options": [
+      "Cooing (Avyakta Vakya)",
+      "Linguistic Speech (Bhashik Vak)",
+      "Phoneme (Svanim)",
+      "Babbling (Trutita Vak)"
+    ],
+    "correct_option": 4,
+    "answer": "Babbling (Trutita Vak)",
+    "explanation": "Babbling typically occurs around 6–9 months of age when infants start producing combinations of vowels and consonants (like ba-ba, ma-ma, pa-pa). Cooing precedes babbling and consists mostly of vowel sounds."
+  },
+  {
+    "id": 5,
+    "topic": "NEP 2020 and Three-Language Formula (TLF)",
+    "question": "Regarding the study of foreign languages, which of the following statements about the National Education Policy (NEP) 2020 is NOT TRUE?",
+    "options": [
+      "No foreign language is mandated to be included among the languages to be studied within the Three-Language Formula.",
+      "The French language is counted among the recommended languages available as an additional option.",
+      "The study of a foreign language is offered as an additional optional choice at the Secondary Stage.",
+      "Studying a foreign language as one of the three compulsory languages within the Three-Language Formula."
+    ],
+    "correct_option": 4,
+    "answer": "Studying a foreign language as one of the three compulsory languages within the Three-Language Formula.",
+    "explanation": "NEP 2020 emphasizes the Three-Language Formula but does not mandate the study of a foreign language as one of the three core languages. Foreign languages are offered as optional choices, particularly at the secondary stage, or as part of a list of recommended elective languages."
+  },
+  {
+    "id": 6,
+    "topic": "Three-Language Formula (TLF)",
+    "question": "Regarding the Three-Language Formula, which of the following statements is TRUE?",
+    "options": [
+      "All children begin their school education in their mother tongue/home language, and subsequently learn two other languages until the completion of secondary school.",
+      "All children begin their school education through the medium of English, and subsequently learn two other languages until the completion of secondary school.",
+      "All children begin their school education in their state language, and subsequently learn two other languages until the completion of secondary school.",
+      "All children begin their school education through the medium of the official language Hindi, and subsequently learn two other languages until the completion of secondary school."
+    ],
+    "correct_option": 1,
+    "answer": "All children begin their school education in their mother tongue/home language, and subsequently learn two other languages until the completion of secondary school.",
+    "explanation": "The fundamental principle of the Three-Language Formula, supported by NEP 2020, is that school education should ideally commence in the Mother Tongue or Home Language (or Regional Language) before proceeding to learn two other languages (the second and third languages) up to the secondary level."
+  },
+  {
+    "id": 7,
+    "topic": "Three-Language Formula (TLF)",
+    "question": "Regarding the Three-Language Formula, which of the following sequences is TRUE for the first language?",
+    "options": [
+      "Mother tongue / Home language as the first language, followed by English language.",
+      "Mother tongue / Home language as the first language, followed by Regional language.",
+      "English / Hindi / Home language as the first language, followed by Local language.",
+      "Mother tongue / Home language as the first language, followed by Hindi language."
+    ],
+    "correct_option": 2,
+    "answer": "Mother tongue / Home language as the first language, followed by Regional language.",
+    "explanation": "The first language (L1) in the TLF structure must be the Mother Tongue or Home Language. The structure typically includes Mother Tongue/Home Language (L1), Regional Language/Modern Indian Language (L2), and a third language (L3). Option 2 correctly identifies the priority given to Mother Tongue/Home Language as the first language, often alongside the regional language context."
+  },
+  {
+    "id": 8,
+    "topic": "Language Mixing and Switching",
+    "question": "When a speaker shifts from one linguistic code (or style/register) to another (e.g., from formal Sanskrit to informal Hindi, or one language to another), what is this action called?",
+    "options": [
+      "Dialect (Upabhasha)",
+      "Sociolinguistics (Samaj Bhasha Vigyan)",
+      "Code Switching (Kūta Parivartan)",
+      "Code Mixing (Kūta Mishran)"
+    ],
+    "correct_option": 3,
+    "answer": "Code Switching (Kūta Parivartan)",
+    "explanation": "Code Switching (Kūta Parivartan) involves shifting entirely from using one language or linguistic style/register to another language or register within a single conversation or communicative act. For example, switching from speaking in English to speaking entirely in Hindi."
+  }
+]
+```
+
+========== CHUNK 5 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Sanskrit Word Forms (Shabd Roop) - Akārānta",
+    "question": "In the word form 'स्वातंत्रता' (Svātantratā), which case (Vibhakti) and number is represented?",
+    "options": [
+      "Panchami Vibhakti (Fifth Case)",
+      "Shashthi Vibhakti (Sixth Case)",
+      "Tritiya Vibhakti (Third Case)",
+      "Prathama Vibhakti (First Case)"
+    ],
+    "correct_option": 4,
+    "answer": "Prathama Vibhakti (First Case)",
+    "explanation": "The word 'स्वातंत्रता' (Svātantratā) is an Ãkārānta (ending in 'ā') feminine noun, similar to 'लता' (Latā) or 'विद्या' (Vidyā). The form 'स्वातंत्रता' corresponds to the Prathama Vibhakti, Bahuvachan (Plural), similar to 'विद्याः' (Vidyāḥ). Since the options only list the case, Prathama Vibhakti is the correct identification, as discussed by the instructor."
+  },
+  {
+    "id": 2,
+    "topic": "Sanskrit Word Forms (Shabd Roop) - Ukarānta",
+    "question": "The word form 'साधुभिः' (Sādhubhiḥ) belongs to which case (Vibhakti)?",
+    "options": [
+      "Shashthi Vibhakti (Sixth Case)",
+      "Tritiya Vibhakti (Third Case)",
+      "Saptami Vibhakti (Seventh Case)",
+      "Dvitiya Vibhakti (Second Case)"
+    ],
+    "correct_option": 2,
+    "answer": "Tritiya Vibhakti (Third Case)",
+    "explanation": "The instructor provides a general trick for identifying cases in Sanskrit word forms (Shabd Roop). If a form ends with the suffix 'भिः' (bhiḥ) or 'ऐः' (aiḥ), it invariably belongs to the Tritiya Vibhakti (Third Case), Bahuvachan (Plural). Hence, 'साधुभिः' is Tritiya Vibhakti."
+  },
+  {
+    "id": 3,
+    "topic": "Sanskrit Word Forms (Shabd Roop) - Ākārānta",
+    "question": "In the word form 'शिक्षायै' (Śikṣāyai), which case (Vibhakti) and number (Vachanam) is present?",
+    "options": [
+      "Dvitiya Vibhakti, Bahuvachan",
+      "Panchami Vibhakti, Ekavachan",
+      "Saptami Vibhakti, Dvivachan",
+      "Chaturthi Vibhakti, Ekavachan"
+    ],
+    "correct_option": 4,
+    "answer": "Chaturthi Vibhakti, Ekavachan",
+    "explanation": "The word 'शिक्षा' (Śikṣā) is an Ākārānta feminine noun (ending in 'ā'), similar to Latā or Ramā. The specific ending 'यै' (yai) is characteristic of the Chaturthi Vibhakti (Dative Case), Ekavachan (Singular), used to mean 'for the purpose of teaching/education'."
+  },
+  {
+    "id": 4,
+    "topic": "Sanskrit Word Forms (Shabd Roop) - Ākārānta",
+    "question": "In the word form 'विद्यासु' (Vidyāsu), which case (Vibhakti) is present?",
+    "options": [
+      "Prathama Vibhakti (First Case)",
+      "Chaturthi Vibhakti (Fourth Case)",
+      "Saptami Vibhakti (Seventh Case)",
+      "Sambodhana (Vocative Case)"
+    ],
+    "correct_option": 3,
+    "answer": "Saptami Vibhakti (Seventh Case)",
+    "explanation": "The instructor taught the trick that if a word form ends in 'सु' (either dental 'स' or retroflex 'ष'), it always represents the Saptami Vibhakti (Locative Case), Bahuvachan (Plural). Therefore, 'विद्यासु' is Saptami Vibhakti."
+  },
+  {
+    "id": 5,
+    "topic": "Sanskrit Word Forms (Shabd Roop) - Ikārānta",
+    "question": "The word form 'अञ्जलौ' (Añjalau) belongs to which case (Vibhakti) and number (Vachanam)?",
+    "options": [
+      "Prathama Vibhakti, Dvivachan",
+      "Shashthi Vibhakti, Bahuvachan",
+      "Saptami Vibhakti, Ekavachan",
+      "Tritiya Vibhakti, Ekavachan"
+    ],
+    "correct_option": 3,
+    "answer": "Saptami Vibhakti, Ekavachan",
+    "explanation": "The root word 'अञ्जलि' (Añjali) is an Ikārānta masculine noun, following the pattern of 'मति' (Mati) or 'हरि' (Hari). The form 'अञ्जलौ' (Añjalau) is parallel to 'मतौ' (Matau) or 'हरौ' (Harau), which represents the Saptami Vibhakti (Locative Case), Ekavachan (Singular)."
+  },
+  {
+    "id": 6,
+    "topic": "Sanskrit Word Forms (Shabd Roop) - Ukārānta",
+    "question": "In the word form 'धेनोः' (Dhenoḥ), which case (Vibhakti) is represented?",
+    "options": [
+      "Dvitiya Vibhakti (Second Case)",
+      "Tritiya Vibhakti (Third Case)",
+      "Shashthi Vibhakti (Sixth Case)",
+      "Saptami Vibhakti (Seventh Case)"
+    ],
+    "correct_option": 3,
+    "answer": "Shashthi Vibhakti (Sixth Case)",
+    "explanation": "The word 'धेनु' (Dhenu, meaning cow) is a Ukārānta feminine noun. The form 'धेनोः' (Dhenoḥ) is identical for both Panchami Vibhakti (Ablative Case) Ekavachan and Shashthi Vibhakti (Genitive Case) Ekavachan. Since Shashthi is presented as an option and confirmed by the teacher, it is the correct answer."
+  },
+  {
+    "id": 7,
+    "topic": "Pronoun Word Forms (Asmad and Yuṣmad)",
+    "question": "The word form 'युष्माकम्' (Yuṣmākam) is derived from which root word and represents which case and number?",
+    "options": [
+      "Etad, Shashthi Bahuvachan",
+      "Asmad, Shashthi Bahuvachan",
+      "Tvat, Shashthi Bahuvachan",
+      "Yuṣmad, Shashthi Bahuvachan"
+    ],
+    "correct_option": 4,
+    "answer": "Yuṣmad, Shashthi Bahuvachan",
+    "explanation": "The form 'युष्माकम्' (Yuṣmākam) means 'of you all'. It is derived from the root pronoun 'युष्मद्' (Yuṣmad, meaning 'you' plural) and represents the Shashthi Vibhakti (Genitive Case), Bahuvachan (Plural). The ending '-ākam' is characteristic of the Shashthi Bahuvachan in both Asmad and Yuṣmad pronouns (Asmākam, Yuṣmākam)."
+  },
+  {
+    "id": 8,
+    "topic": "Language Pedagogy (Antarbhāṣikatā / Trans-languaging)",
+    "question": "What is meant by Antarbhāṣikatā (Trans-languaging)?",
+    "options": [
+      "It is a language policy in education regarding how many languages must be studied in school.",
+      "It is the process of recalling one language based on another language during language study or teaching.",
+      "It is the process used to determine how language changes over time.",
+      "It is a pedagogical process of using multiple languages as a resource in the classroom."
+    ],
+    "correct_option": 4,
+    "answer": "It is a pedagogical process of using multiple languages as a resource in the classroom.",
+    "explanation": "Trans-languaging (Antarbhāṣikatā) refers to the flexible and dynamic use of multiple languages by a speaker or student. In pedagogy, it is recognized as a strategic resource in the classroom, where the teacher encourages the use of all known languages (L1, L2, etc.) to facilitate understanding, communication, and complex thought processes, thereby treating all languages as assets."
+  }
+]
+```
+
+========== CHUNK 6 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Pedagogical Method/Trans-languaging",
+    "question": "A teacher asks students to work in groups and instructs them to narrate a story in any language they know. Subsequently, the teacher instructs them to narrate the same story in the general classroom language. This pedagogical method is called:",
+    "options": [
+      "Interlinguism (Trans-languaging)",
+      "Multilingual Policy",
+      "Multilingual Teaching",
+      "Language Acquisition"
+    ],
+    "correct_option": 1,
+    "answer": "Interlinguism (Trans-languaging)",
+    "explanation": "The process where learners initially use all the linguistic resources (including their known languages) available to them to understand or express a concept, and then transition to using the common or target language, is defined as Trans-languaging (or Interlinguism/Antar-bhashikta). This acknowledges and utilizes the student's full linguistic repertoire."
+  },
+  {
+    "id": 2,
+    "topic": "Remedial Teaching",
+    "question": "What is the primary objective of Remedial Teaching (Upcharatmak Shikshan)?",
+    "options": [
+      "To provide learners with the standard curriculum level.",
+      "To increase motivation and positive attitude among learners.",
+      "To encourage sufficient interaction among peers in the classroom.",
+      "To provide additional assistance to learners who are lagging behind in learning."
+    ],
+    "correct_option": 4,
+    "answer": "To provide additional assistance to learners who are lagging behind in learning.",
+    "explanation": "Remedial teaching is implemented after a diagnostic assessment (Nidan) has identified specific learning gaps or weaknesses. Its sole purpose is to address those identified deficiencies and provide supplementary help to bring the lagging students up to the expected learning level."
+  },
+  {
+    "id": 3,
+    "topic": "Assessment and Evaluation",
+    "question": "A test that attempts to understand the specific areas of strengths and weaknesses (sublavali kshetra) of a particular student is called a:",
+    "options": [
+      "Validity Test",
+      "Diagnostic Test",
+      "Formative Test",
+      "Objective Test"
+    ],
+    "correct_option": 2,
+    "answer": "Diagnostic Test",
+    "explanation": "A Diagnostic Test (Naidanik Pariksha) is specifically designed to pinpoint the precise nature of learning difficulties, knowledge gaps, and areas where the student excels or struggles. This is the first step (Nidan) before Remedial Teaching (Upchar) can be provided."
+  },
+  {
+    "id": 4,
+    "topic": "Multilingualism and Culture",
+    "question": "Which category of stories is most suitable for promoting multilingualism and multiculturalism?",
+    "options": [
+      "Scientific fiction stories",
+      "Long stories",
+      "Folk tales",
+      "Autobiographies"
+    ],
+    "correct_option": 3,
+    "answer": "Folk tales",
+    "explanation": "Folk tales (Lok Katha) often originate from diverse geographical regions, incorporate varied linguistic usages, and reflect different cultural values, customs, and traditions. Therefore, they are highly effective resources for enhancing understanding of both multilingualism and multiculturalism among students."
+  },
+  {
+    "id": 5,
+    "topic": "Mother-Tongue Based Multilingualism (MTBM)",
+    "question": "Mother-Tongue Based Multilingualism (MTBM) supports that:",
+    "options": [
+      "All children start their school education through English medium and home language.",
+      "All children study Hindi as the first language.",
+      "All children start their school education in their mother tongue, followed by two or more additional languages.",
+      "All children start their school education in the official state language (Rajbhasha)."
+    ],
+    "correct_option": 3,
+    "answer": "All children start their school education in their mother tongue, followed by two or more additional languages.",
+    "explanation": "MTBM is a pedagogical approach that mandates that children begin their formal education using their mother tongue (L1) as the medium of instruction. Only after developing foundational literacy and comprehension skills in L1 do they transition to learning additional languages (L2, L3, etc.)."
+  },
+  {
+    "id": 6,
+    "topic": "Multilingualism as a Resource",
+    "question": "A teacher accepts students' answers in their mother tongue and attempts to understand the students' language during the teaching of the target language. She believes that:",
+    "options": [
+      "Every student learns at the same pace.",
+      "By this method, she can promote multilingualism in the class.",
+      "Students' language deficiencies should be neglected/ignored.",
+      "Through this, students will remain silent in the class."
+    ],
+    "correct_option": 2,
+    "answer": "By this method, she can promote multilingualism in the class.",
+    "explanation": "By accepting the mother tongue (L1) and using it as a scaffold while teaching the target language (L2), the teacher validates the students' linguistic knowledge. This strategy utilizes the student's existing linguistic repertoire as a resource, thereby fostering and promoting multilingualism within the classroom environment."
+  },
+  {
+    "id": 7,
+    "topic": "Multilingualism in the Indian Context",
+    "question": "In India, what does multilingualism expect teachers to understand?",
+    "options": [
+      "A language policy must be formulated for the fulfillment of duties in a diverse society.",
+      "Language uniformity and culture are separate entities.",
+      "Communication occurs, and socio-cultural cohesion (Samshakti) is promoted.",
+      "Less prominent languages must be combined with major languages."
+    ],
+    "correct_option": 3,
+    "answer": "Communication occurs, and socio-cultural cohesion (Samshakti) is promoted.",
+    "explanation": "Multilingualism in a diverse country like India serves as a crucial tool for communication across different linguistic groups, ensuring mutual understanding. Crucially, it also strengthens social cohesion and cultural integration by acknowledging and respecting linguistic diversity."
+  },
+  {
+    "id": 8,
+    "topic": "Language Skills (Receptive Skills)",
+    "question": "A teacher expresses regret that in language assessment, adequate importance is generally not given to 'Receptive Skills' (Grahan Kaushalan). What does Receptive Skill primarily involve?",
+    "options": [
+      "Listening and Speaking",
+      "Listening and Reading",
+      "Speaking and Writing",
+      "Reading and Speaking"
+    ],
+    "correct_option": 2,
+    "answer": "Listening and Reading",
+    "explanation": "Receptive skills are those through which a learner receives and processes information. These are passive skills involving understanding. Listening (receiving spoken input) and Reading (receiving written input) are the two primary receptive skills."
+  },
+  {
+    "id": 9,
+    "topic": "Language Skills (Receptive Skills)",
+    "question": "Which of the following are known as Receptive Skills?",
+    "options": [
+      "Speaking and Writing",
+      "Listening and Reading",
+      "Listening and Writing",
+      "Reading and Speaking"
+    ],
+    "correct_option": 2,
+    "answer": "Listening and Reading",
+    "explanation": "This question reiterates the identification of the two receptive skills. Listening and reading are skills where information is taken in or 'received' (Grahanatmak Kaushal), while speaking and writing are productive or expressive skills (Abhivyakta Kaushal)."
+  }
+]
+```
+
+========== CHUNK 7 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Skills",
+    "question": "Which of the following pair of skills is considered a receptive skill (Grahan Kaushal)?",
+    "options": [
+      "Speaking and Writing",
+      "Listening and Reading",
+      "Reading and Speaking",
+      "Writing and Listening"
+    ],
+    "correct_option": 2,
+    "answer": "Listening and Reading",
+    "explanation": "Receptive skills are those through which a learner receives or grasps information. These include Listening (receiving auditory information) and Reading (receiving visual/written information). The transcript explicitly states: 'you receive by listening and by reading.'"
+  },
+  {
+    "id": 2,
+    "topic": "Language Assessment and Pedagogy (Q34)",
+    "question": "A teacher narrates a story to second-grade students using facial expressions (mukha bhangimā) and gestures (mudrā prayogeṇa). Subsequently, she instructs the students to retell the story in their respective mother tongues. What skill is the teacher assessing in the students?",
+    "options": [
+      "Thinking skill (Chintana Kaushalam)",
+      "Listening skill (Shravana Kaushalam)",
+      "Reading skill (Paṭhana Kaushalam)",
+      "Creative skill (Rachanātmaka Kaushalam)"
+    ],
+    "correct_option": 2,
+    "answer": "Listening skill (Shravana Kaushalam)",
+    "explanation": "For a student to successfully retell a story in their own language after hearing it, they must have comprehended the content effectively. This comprehension relies fundamentally on strong listening skills. The ability to retell demonstrates successful processing and retention of the auditory input."
+  },
+  {
+    "id": 3,
+    "topic": "Reading Comprehension",
+    "question": "Among the following reading skills, which one is NOT considered an indicator of 'reading with comprehension' (sā-avabodha paṭhanasya sūcakaḥ na manyate)?",
+    "options": [
+      "Assessment of the organization of ideas and event sequences.",
+      "Mental summarization of the text read so far.",
+      "Concentration on every letter and the alphabet.",
+      "Prediction of the upcoming subject matter."
+    ],
+    "correct_option": 3,
+    "answer": "Concentration on every letter and the alphabet.",
+    "explanation": "Indicators of reading comprehension involve higher-order thinking skills like organizing ideas, summarizing, and predicting content. Concentrating merely on every letter and the alphabet (Option 3) represents basic decoding or phonetic recognition, not necessarily comprehension of the meaning or content."
+  },
+  {
+    "id": 4,
+    "topic": "Types of Reading (Q36)",
+    "question": "A seventh-grade teacher provides students with reading materials other than the prescribed textbooks. What type of reading is she promoting?",
+    "options": [
+      "Extensive reading (Vistṛta Paṭhanam)",
+      "Directed reading (Nirdiṣṭa Paṭhanam)",
+      "Shared reading (Saha Paṭhanam)",
+      "Intensive study (Gahana Adhyayanam)"
+    ],
+    "correct_option": 1,
+    "answer": "Extensive reading (Vistṛta Paṭhanam)",
+    "explanation": "Extensive reading (or Wide Reading) involves reading large amounts of material, often for pleasure and general understanding, beyond the set curriculum. Providing supplementary books promotes this broad, wide-ranging approach to reading."
+  },
+  {
+    "id": 5,
+    "topic": "Types of Reading (Q37)",
+    "question": "A student reads a newspaper in its entirety (samagra rūpeṇa paṭhati) specifically to find a particular piece of information (viśiṣṭa sūcanārtham). What is this type of reading called?",
+    "options": [
+      "Study Skill (Adhyayana Kaushalam)",
+      "Critical Reading (Samālocanātmaka Paṭhanam)",
+      "Skimming (Druta Paṭhanam)",
+      "Scanning (Kramavīkṣaṇa Paṭhanam)"
+    ],
+    "correct_option": 4,
+    "answer": "Scanning (Kramavīkṣaṇa Paṭhanam)",
+    "explanation": "Scanning involves quickly looking through a large amount of text to locate a specific fact, piece of information, or detail. Since the student is looking for 'specific information,' Scanning is the appropriate term. Skimming (Druta Paṭhanam) is rapid reading for general gist."
+  },
+  {
+    "id": 6,
+    "topic": "Types of Reading (Q38)",
+    "question": "A fifth-grade teacher instructs her students to read the entire text completely (pāṭhyaṁ saṁpūrṇatayā paṭhitum) and then answer questions with reference to the context (sa-prasaṅga praśnān uttaritum). To what process is this procedure encouraging the students?",
+    "options": [
+      "Skimming/Gist reading (Vihaṅgama Dṛṣṭipātāya)",
+      "Intensive reading (Gahana Paṭhanāya)",
+      "Extensive reading (Vistṛta Paṭhanāya)",
+      "Scanning (Kramavīkṣaṇāya)"
+    ],
+    "correct_option": 2,
+    "answer": "Intensive reading (Gahana Paṭhanāya)",
+    "explanation": "Intensive reading requires a deep, careful, and focused reading of the entire text to understand all details and nuances. Since the student is required to answer questions 'with reference to context,' demanding deep textual understanding, Intensive reading is being promoted."
+  },
+  {
+    "id": 7,
+    "topic": "Reading Methods (Q39)",
+    "question": "Regarding the methods of text comprehension, select the INCORRECT (aśuddha kathanaṁ) statement:",
+    "options": [
+      "Skimming (Druta Paṭhanam) is suitable for review, and Scanning (Kramavīkṣaṇam) is helpful for answering questions.",
+      "Skimming and Scanning both require rapid eye movement during the reading time.",
+      "Skimming is the rapid reading of the text, while Scanning is the investigation of specific facts.",
+      "Skimming is mostly related to Intensive Reading, and Scanning happens through rapid reading."
+    ],
+    "correct_option": 4,
+    "answer": "Skimming is mostly related to Intensive Reading, and Scanning happens through rapid reading.",
+    "explanation": "This statement is incorrect because it swaps the characteristics of the two methods. Skimming (Druta Paṭhanam) is rapid reading for general gist (not intensive). Scanning (Kramavīkṣaṇam) is detailed, focused reading to find specific facts, which requires concentration (and is thus closer to intensive reading in focus), not merely rapid reading."
+  },
+  {
+    "id": 8,
+    "topic": "Question Types (Q40)",
+    "question": "This is a question where a student reads the story of a young girl and, upon encountering her struggles and courage, experiences deep emotional empathy. The student is then asked to write a letter of appreciation to the girl (in 100-120 words). What kind of question is this?",
+    "options": [
+      "Multi-subject question (Bahuvishaya Praśnaḥ)",
+      "Expressive question (Avyakti pūrṇa Praśnaḥ)",
+      "Long answer question (Dīrgha Uttarīya Praśnaḥ)",
+      "Extrapolative question (Bahirveśita Praśnaḥ)"
+    ],
+    "correct_option": 4,
+    "answer": "Extrapolative question (Bahirveśita Praśnaḥ)",
+    "explanation": "An extrapolative question requires the student to go beyond the literal text, using the information and context learned to imagine future events, hypothesize, or, as in this case, apply empathy and respond emotionally/personally to the scenario described in the text (writing a letter based on the reading experience)."
+  },
+  {
+    "id": 9,
+    "topic": "Sanskrit Grammar (Dhatu Rupa)",
+    "question": "Identify the correct Tense/Mood (Lakāra) of the verb form 'abhavat' (अभवत्):",
+    "options": [
+      "Present Tense (Laṭ Lakāraḥ)",
+      "Potential Mood (Vidhi-liṅ Lakāraḥ)",
+      "Future Tense (Lṛṭ Lakāraḥ)",
+      "Imperfect/Past Tense (Laṅ Lakāraḥ)"
+    ],
+    "correct_option": 4,
+    "answer": "Imperfect/Past Tense (Laṅ Lakāraḥ)",
+    "explanation": "In Sanskrit verb conjugations, the prefix 'अ' (a) before the verb root (e.g., abhavat, agacchat) is the identifying marker for the Imperfect Tense (Laṅ Lakāraḥ), which denotes past action."
+  },
+  {
+    "id": 10,
+    "topic": "Sanskrit Grammar (Dhatu Rupa)",
+    "question": "Identify the Root (Dhātu), Tense/Mood (Lakāra), Person (Puruṣa), and Number (Vacana) of the word 'gaccha' (गच्छ):",
+    "options": [
+      "Gam Dhātu, Imperative Mood (Loṭ Lakāraḥ), Middle Person (Madhyama Puruṣaḥ), Singular (Ekavacanam)",
+      "Gam Dhātu, Imperative Mood (Loṭ Lakāraḥ), Middle Person (Madhyama Puruṣaḥ), Plural (Bahuvacanam)",
+      "Gam Dhātu, Imperative Mood (Loṭ Lakāraḥ), Excellent Person (Uttama Puruṣaḥ), Singular (Ekavacanam)",
+      "Gam Dhātu, Potential Mood (Vidhi-liṅ Lakāraḥ), Middle Person (Madhyama Puruṣaḥ), Singular (Ekavacanam)"
+    ],
+    "correct_option": 1,
+    "answer": "Gam Dhātu, Imperative Mood (Loṭ Lakāraḥ), Middle Person (Madhyama Puruṣaḥ), Singular (Ekavacanam)",
+    "explanation": "The form 'gaccha' derives from the root 'Gam' (to go) and is conjugated in the Imperative Mood (Loṭ Lakāraḥ), which is used for commands or requests. It corresponds to the Middle Person (Madhyama Puruṣaḥ) Singular (Ekavacanam) form (e.g., 'You go')."
+  }
+]
+```
+
+========== CHUNK 8 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Sanskrit Grammar: Gaṇa (Root Class) Identification",
+    "question": "Identify the root (dhātu) and the root class (gaṇa) present in the word 'आयाति' (āyāti).",
+    "options": [
+      "इ धातु (I Dhātu) and भवादिगण (Bhvādi Gaṇa)",
+      "या धातु (Yā Dhātu) and भवादिगण (Bhvādi Gaṇa)",
+      "या धातु (Yā Dhātu) and अदादिगण (Adādi Gaṇa)",
+      "अ धातु (A Dhātu) and भवादिगण (Bhvādi Gaṇa)"
+    ],
+    "correct_option": 3,
+    "answer": "या धातु (Yā Dhātu) and अदादिगण (Adādi Gaṇa)",
+    "explanation": "The word 'आयाति' (āyāti) is derived from the root 'या' (Yā), meaning 'to go/to move.' By checking the classification of roots (Gaṇas), the root 'या' is listed under the Adādi Gaṇa."
+  },
+  {
+    "id": 2,
+    "topic": "Sanskrit Grammar: Gaṇa (Root Class) Identification",
+    "question": "The verb form 'अचिंतयत' (acintayat) belongs to the root (dhātu) of which Gaṇa (Root Class)?",
+    "options": [
+      "तनादि गण (Tanādi Gaṇa)",
+      "भवादि गण (Bhvādi Gaṇa)",
+      "चुरादि गण (Curādi Gaṇa)",
+      "दिवादि गण (Divādi Gaṇa)"
+    ],
+    "correct_option": 3,
+    "answer": "चुरादि गण (Curādi Gaṇa)",
+    "explanation": "The root used is 'चिन्त' (cint), meaning 'to think.' This root is specifically classified under the Curādi Gaṇa (the 10th Gaṇa) in Sanskrit grammar."
+  },
+  {
+    "id": 3,
+    "topic": "Language Learning: Types of Knowledge",
+    "question": "What is meant by 'Declarative Knowledge' (व्यापक ज्ञानम्)?",
+    "options": [
+      "Knowledge of how grammatical topics should be done/applied.",
+      "Knowledge of words and pronunciation of a language.",
+      "Knowledge about grammatical subjects/topics.",
+      "Knowledge of how to identify and rectify errors in grammatical subjects."
+    ],
+    "correct_option": 3,
+    "answer": "Knowledge about grammatical subjects/topics (व्याकरणात्मक विषय नाम ज्ञानम्)",
+    "explanation": "Declarative Knowledge (also known as 'knowing that') is factual knowledge. In the context of grammar, it refers to knowing the rules, concepts, and facts *about* the subject, rather than knowing *how* to use them effectively (which would be Procedural Knowledge)."
+  },
+  {
+    "id": 4,
+    "topic": "Language Learning: Types of Knowledge",
+    "question": "Aditi knows the rules of the Liṭ Lakāra (Future Tense), but she is unable to use them effectively in context. What kind of knowledge does she possess?",
+    "options": [
+      "Procedural Knowledge (प्रक्रियात्मक ज्ञान)",
+      "Declarative Knowledge (निर्णयात्मक ज्ञान)",
+      "Knowledge Application (ज्ञान अनुप्रयोग)",
+      "Language Acquisition Strategy (भाषा अधिग्रहण युक्ति)"
+    ],
+    "correct_option": 2,
+    "answer": "Declarative Knowledge (निर्णयात्मक ज्ञान)",
+    "explanation": "Declarative knowledge involves knowing the facts (the rules of Liṭ Lakāra). If she cannot use those rules effectively in context, she lacks Procedural Knowledge ('knowing how'). Therefore, she possesses only Declarative Knowledge."
+  },
+  {
+    "id": 5,
+    "topic": "Communicative Language Teaching (CLT)",
+    "question": "What is meant by Basic Interpersonal Communicative Skills (आधारभूत अंतर वैयक्तिक संप्रेषण कौशलता)?",
+    "options": [
+      "Language used for daily communication.",
+      "Interlanguage.",
+      "Higher-order language skills.",
+      "Abstract language."
+    ],
+    "correct_option": 1,
+    "answer": "Language used for daily communication (दैनिक संप्रेषण के लिए प्रयुक्त भाषा)",
+    "explanation": "Basic Interpersonal Communicative Skills (BICS) refers to the language skills necessary for daily, routine social interactions, often contrasted with Cognitive Academic Language Proficiency (CALP)."
+  },
+  {
+    "id": 6,
+    "topic": "Communicative Language Teaching (CLT)",
+    "question": "Which of the following is NOT a characteristic of the Communicative Approach (Sampreṣaṇātmaka Upāgama)?",
+    "options": [
+      "Acquiring knowledge of grammatical rules in place of teaching clarity.",
+      "Developing communicative competence in the classroom.",
+      "Centering more on the form/structure rather than the task/function.",
+      "Functional use of language."
+    ],
+    "correct_option": 3,
+    "answer": "Centering more on the form/structure rather than the task/function (कार्यात कार्य से अधिकतर स्वरूप में केंद्रीकरण)",
+    "explanation": "The Communicative Approach prioritizes effective communication (task/function) and meaning over strict adherence to grammatical structure (form). Therefore, centering on form over function is contrary to CLT principles."
+  },
+  {
+    "id": 7,
+    "topic": "Language Teaching Methods",
+    "question": "A teacher teaches English to Hindi speakers without explicitly stating rules. She provides small conversation contexts and examples, encouraging students to use them in dialogue. Gradually, students formulate the rules themselves. Which instructional approach is the teacher using?",
+    "options": [
+      "Communicative Approach (संप्रेषणात्मक उपागम)",
+      "Direct Method (प्रत्यक्ष विधि)",
+      "Grammar-Translation Method (व्याकरण अनुवाद विधि)",
+      "Audio-Lingual Method (श्रव्य भाषिक विधि)"
+    ],
+    "correct_option": 1,
+    "answer": "Communicative Approach (संप्रेषणात्मक उपागम)",
+    "explanation": "This scenario demonstrates the use of the Communicative Approach. Key features include providing opportunities for dialogue (vārtālāpa), focusing on context and function over explicit rules, and encouraging students to inductively discover the rules through active use."
+  },
+  {
+    "id": 8,
+    "topic": "Language Acquisition vs. Learning (Chomsky's Theory)",
+    "question": "Which statement is correct regarding language acquisition (Bhāṣā Adhigrahaṇa)?",
+    "options": [
+      "Every child has an innate capacity for language acquisition.",
+      "Children learn language from various sources.",
+      "Children do not have an innate capacity for language acquisition.",
+      "Children learn language only when they come to school."
+    ],
+    "correct_option": 1,
+    "answer": "Every child has an innate capacity for language acquisition (प्रत्येक वालस्य भाषा अधिग्रह जन्मजात शक्ति अस्ति)",
+    "explanation": "According to Noam Chomsky's theory, language acquisition is an innate (जन्मजात) or inherent capacity in humans, facilitated by the Language Acquisition Device (LAD)."
+  },
+  {
+    "id": 9,
+    "topic": "Language Acquisition vs. Learning",
+    "question": "What is 'Systematic Competence' (तंत्रबद्ध सामर्थ्य) in the context of language learning (Adhigama)?",
+    "options": [
+      "Understanding that a common structural arrangement is found across all languages.",
+      "Achieving a multilingual arrangement among all human beings.",
+      "Understanding that language is a system, achieved through comprehension and behavior/practice.",
+      "Understanding that grammar exists in language structure due to behavior."
+    ],
+    "correct_option": 3,
+    "answer": "Understanding that language is a system, achieved through comprehension and behavior/practice (भाषा एकम् तंत्रवत वर्तते इति अबबोधा व्यवहारस्य)",
+    "explanation": "Language learning (Adhigama) is defined as a systematic, rule-governed process that requires conscious effort, comprehension (अवबोध), and practice (व्यवहार)."
+  },
+  {
+    "id": 10,
+    "topic": "Language Acquisition vs. Learning",
+    "question": "Ashwin knows the Odia language from birth. He studies English and Hindi. Based on this, which of the following statements is INCORRECT (asamicīnam)?",
+    "options": [
+      "His English language is a learned language (Adhigama).",
+      "His language is acquired (Adhigrahaṇa).",
+      "His Odia language is a learned language (Adhigama).",
+      "His Hindi language is a learned language (Adhigama)."
+    ],
+    "correct_option": 3,
+    "answer": "His Odia language is a learned language (तस्य उड़िया अधिगम भाषा अधिगम अस्ति)",
+    "explanation": "Since Ashwin knows Odia from birth, it is his mother tongue, acquired naturally (acquisition/Arjan). English and Hindi are studied languages (learning/Adhigama). Therefore, stating that Odia is a learned language is incorrect."
+  }
+]
+```
+
+========== CHUNK 9 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Language Acquisition vs. Learning (Assertion and Reason)",
+    "question": "Read the statements below and choose the correct option:\n\nStatement A: Students acquire language, being intrinsically prepared for acquisition since birth. The environment plays NO contribution to this task.\n\nStatement R: A child-centered classroom environment provides a significant impact on language acquisition.",
+    "options": [
+      "A is false, but R is true.",
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false."
+    ],
+    "correct_option": 1,
+    "answer": "A is false, but R is true.",
+    "explanation": "Statement A argues that the environment (Perivesh/परिवेशस्य) has NO contribution to language acquisition. This is false, as a stimulating environment is absolutely necessary for language acquisition to occur, even if the capacity is innate. Statement R asserts that a child-centered classroom environment significantly impacts acquisition, which is true. Therefore, A is false and R is true."
+  },
+  {
+    "id": 2,
+    "topic": "Language Acquisition Device (LAD)",
+    "question": "Which of the following statements is NOT explained by the concept of the Language Acquisition Device (LAD)?",
+    "options": [
+      "How children learn symbolic language.",
+      "The reason why children's linguistic output (output) is often greater than the linguistic input (input) they receive.",
+      "How a child learns their first language.",
+      "How children become capable of language learning within a short span of four or five years."
+    ],
+    "correct_option": 1,
+    "answer": "How children learn symbolic language.",
+    "explanation": "The Language Acquisition Device (LAD), proposed by Chomsky, primarily explains the innate capacity for grammar/syntax (universal grammar), the rapid pace of first language acquisition (Option 4), and the ability to produce novel utterances far exceeding the input received (Option 2 - Poverty of Stimulus argument). The learning of symbolic or abstract language (like metaphors, literary devices, or non-linguistic signs) is typically attributed to cognitive development and teaching, not the specific function of the LAD."
+  },
+  {
+    "id": 3,
+    "topic": "Teaching Materials (Authentic Materials)",
+    "question": "A language teacher brings daily objects like newspapers, menus (व्यंजन सूची पत्राण), and train tickets (रेल पत्रकाणि) to teach students in the fifth grade. What approach to learning is she attempting to utilize?",
+    "options": [
+      "She wishes her students to learn English through situations similar to real life.",
+      "She intends to generate awareness among students.",
+      "She uses authentic materials to make her teaching more realistic and beneficial.",
+      "She helps her students learn multilingualism."
+    ],
+    "correct_option": 3,
+    "answer": "She uses authentic materials to make her teaching more realistic and beneficial.",
+    "explanation": "The teacher is using real-world, non-modified materials (newspapers, menus, tickets), which are defined as 'Authentic Materials' (प्रमाणिक सामग्री). The primary purpose of using such materials is to connect classroom learning with reality (यथार्थ रूपेण) and make the learning beneficial and practical."
+  },
+  {
+    "id": 4,
+    "topic": "Vocabulary Development Aids",
+    "question": "Which of the following is NOT helpful for comprehending the core text (मूल पाठावबोधन) and for vocabulary development?",
+    "options": [
+      "Theme Map (विषय मानचित्र)",
+      "Picture Dictionary (चित्र शब्दकोश)",
+      "Word Map (शब्दमानचित्र)",
+      "Alphabet Chart (वर्णमाला चाट)"
+    ],
+    "correct_option": 4,
+    "answer": "Alphabet Chart (वर्णमाला चाट)",
+    "explanation": "Theme maps, picture dictionaries, and word maps are all effective aids for understanding complex text concepts and developing related vocabulary. An Alphabet Chart is fundamental for learning letters and sounds (phonics) but does not directly aid in advanced vocabulary development or the comprehension of a complete, complex text."
+  },
+  {
+    "id": 5,
+    "topic": "Teaching Materials (Authenticity)",
+    "question": "What is meant by the authenticity (प्रमाणिकता) of materials?",
+    "options": [
+      "Written material developed based on real-world objects and situations.",
+      "Material brought by the child from home.",
+      "Material written by the teacher for classroom use.",
+      "Material developed and written by authorized persons/officials."
+    ],
+    "correct_option": 1,
+    "answer": "Written material developed based on real-world objects and situations.",
+    "explanation": "In language pedagogy, authentic materials are those that are produced for real-world purposes rather than for teaching purposes. Therefore, materials derived from or based on real-world objects (यथार्थ लोक वस्तु) and developed for practical use are considered authentic."
+  },
+  {
+    "id": 6,
+    "topic": "Teaching Methodology (Realia/Resource Person)",
+    "question": "A teacher wants students in Class 7 to write a detailed description of a person. She leaves the classroom and returns with a vendor (आपणिका) and a bag of goods. She asks the vendor to stay for 7 minutes, after which students work in pairs to write a description of him. In the context of this activity, what is the vendor considered?",
+    "options": [
+      "An activity participant.",
+      "A collaborator in the teaching process.",
+      "A Teaching Aid/Material (सामग्री).",
+      "A shopkeeper."
+    ],
+    "correct_option": 3,
+    "answer": "A Teaching Aid/Material (सामग्री).",
+    "explanation": "In this scenario, the vendor is used as a real-life resource (known as Realia or a Resource Person) to facilitate learning and description writing. Although he is a participant and a shopkeeper, pedagogically, his function in the classroom is that of a concrete, real-life teaching aid (सामग्री) for the students to observe and describe."
+  },
+  {
+    "id": 7,
+    "topic": "Inclusive Teaching/Learning Styles",
+    "question": "A Class 7 teacher uses audio-visual materials like YouTube for visual learners, recorded audio for auditory learners, and interactive games for kinesthetic learners. The teacher uses all these resources to promote which of the following?",
+    "options": [
+      "Inclusion of individual learning styles.",
+      "Inclusion of individual learning disabilities.",
+      "Inclusion of individual reliable materials.",
+      "Inclusion of students’ individual linguistic variations."
+    ],
+    "correct_option": 1,
+    "answer": "Inclusion of individual learning styles.",
+    "explanation": "The teacher is differentiating instruction by selecting specific material types (visual, auditory, kinesthetic/movement-based) to match the unique ways students prefer to process and retain information. This practice is aimed at accommodating and including diverse individual learning styles (व्यक्ति नाम अधिगम शैली नाम समावेशार्थम)."
+  },
+  {
+    "id": 8,
+    "topic": "Principles of Language Teaching",
+    "question": "Rita, a government school teacher, uses visual aids and language games (भाषा क्रीडा) to teach English to Class 7 students. Which principle of teaching is she employing?",
+    "options": [
+      "Principle of Motivation and Interest.",
+      "Principle of Correlation with Life.",
+      "Principle of Natural Process.",
+      "Principle of Behavior/Practice and Habit."
+    ],
+    "correct_option": 4,
+    "answer": "Principle of Behavior/Practice and Habit.",
+    "explanation": "Using games (क्रीडा) and visual aids (दृश्य यंत्रों) repeatedly encourages active engagement, repetitive use of language patterns, and memorization, which are cornerstones of the Principle of Practice and Habit (व्यवहार या अभ्यास का सिद्धांत). This constant engagement helps in forming correct linguistic habits."
+  }
+]
+```
+
+========== CHUNK 10 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Principles of Sanskrit Teaching (Pedagogy)",
+    "question": "Which principle emphasizes that students must be trained in reading/recitation (vachana) by paying attention to punctuation marks (virama chinhanam) and ensuring correct tone (svara) and emotional expression (bhava)?",
+    "options": [
+      "Principle of Integration (Samvaya)",
+      "Principle of Individual Differences (Vaiyaktikta)",
+      "Principle of Oral Work (Maukhik Karya)",
+      "Principle of Proportion and Sequence (Anupat Krama)"
+    ],
+    "correct_option": 4,
+    "answer": "Principle of Proportion and Sequence (Anupat Krama)",
+    "explanation": "The Principle of Proportion and Sequence (Anupat Krama) stresses that instruction should be systematic, hierarchical, and sequenced (Krambaddha). In the context of recitation, this means ensuring that rhythm, pace, pause (yati), pitch (gati), and intonation (aaroh-avroh) are followed correctly, reflecting a systematic order and proportion in delivery. It dictates that learning, whether grammatical (like starting with varnmala before sandhi) or recital, must follow a set, systematic order."
+  },
+  {
+    "id": 2,
+    "topic": "Principles of Sanskrit Teaching (Pedagogy)",
+    "question": "According to which teaching principle should a Sanskrit teacher select lessons from the prescribed curriculum to coincide with specific festivals (parva), major national days (mukhya divaseshu), or seasons (ritu)?",
+    "options": [
+      "Principle of Integration (Samvaya)",
+      "Principle of Selection and Division (Chayan evam Vibhajan)",
+      "Principle of Oral Work (Maukhik Karya)",
+      "Principle of Proportion and Sequence (Anupat Krama)"
+    ],
+    "correct_option": 2,
+    "answer": "Principle of Selection and Division (Chayan evam Vibhajan)",
+    "explanation": "The Principle of Selection and Division (Chayan evam Vibhajan) requires the teacher to judiciously select and categorize curriculum content. This includes deciding which topics (like lessons on Diwali, Republic Day, or specific seasons) should be taught at the most appropriate and relevant time during the academic year, thereby making the learning more contextually effective."
+  },
+  {
+    "id": 3,
+    "topic": "Learning Disabilities (Adhigam Akshamata)",
+    "question": "Regarding specific learning disabilities, identify the pair of statements that correctly defines the disorders (Vaikalya): \n\nI. Dyslexia (पठन वैकल्य) is a reading disability.\nII. Dysgraphia (लेखन वैकल्य) is a writing disability.\nIII. Dysgraphia is a reading disability.\nIV. Dyslexia is a writing disability.",
+    "options": [
+      "Only I is correct.",
+      "Only II is correct.",
+      "I and II are correct.",
+      "III and IV are correct."
+    ],
+    "correct_option": 3,
+    "answer": "I and II are correct.",
+    "explanation": "Dyslexia (Pathan Vaikalya) is fundamentally characterized by difficulty in reading, decoding, and recognizing words. Dysgraphia (Lekhan Vaikalya) is characterized by difficulty in writing, spelling, and forming legible letters (related to motor skills and graph formation). Therefore, statements I and II are the correct definitions."
+  },
+  {
+    "id": 4,
+    "topic": "Learning Disabilities (Dyslexia)",
+    "question": "Which of the following is NOT a symptom (lakshanam) of Reading Disability (Pathan Vaikalya)?",
+    "options": [
+      "Difficulty recognizing letters and words.",
+      "Difficulty comprehending words and concepts.",
+      "Difficulty in general vocabulary skills.",
+      "Difficulty writing letters and words correctly in copied form (transcription)."
+    ],
+    "correct_option": 4,
+    "answer": "Difficulty writing letters and words correctly in copied form (transcription).",
+    "explanation": "Reading disability (Dyslexia) primarily involves difficulty in reading, decoding, and processing auditory/visual input related to reading. Difficulty in the mechanical act of writing, transcribing, or forming letters correctly (Option 4) is categorized as a Writing Disability (Dysgraphia) or Lekhan Vikar, not a symptom of Padhana Vaikalya."
+  },
+  {
+    "id": 5,
+    "topic": "Learning Disabilities (Dyslexia)",
+    "question": "The common error observed in problem-afflicted children where the letter 'P' is written or read as 'B', or the number '6' is written or read as '9', indicates which type of learning difficulty?",
+    "options": [
+      "Anomia",
+      "Dyslexia",
+      "Stuttering",
+      "Aphasia"
+    ],
+    "correct_option": 2,
+    "answer": "Dyslexia",
+    "explanation": "This specific type of error—reversing or transposing visually similar characters (like P/B or 6/9)—is a classic symptom of visual perception deficit common in Dyslexia (Reading Disorder). While it affects both reading and writing (as poor reading often leads to poor writing), the root cause related to visual decoding and character recognition falls under Dyslexia."
+  },
+  {
+    "id": 6,
+    "topic": "Sanskrit Grammar (Samasa)",
+    "question": "Identify the compound (samasa) and its dissolution (vigraha) for the word 'Gaurava Gatha' (Tale of Glory).",
+    "options": [
+      "Dvigu Samasa (Gauravam Gatham)",
+      "Avyayibhava Samasa (Gaurave Gatham)",
+      "Shashti Tatpurusha Samasa (Gauravasya Gatha)",
+      "Dvandva Samasa (Gauravam cha Gatha cha)"
+    ],
+    "correct_option": 3,
+    "answer": "Shashti Tatpurusha Samasa (Gauravasya Gatha)",
+    "explanation": "Tatpurusha compounds are those where the second (or 'later') word is predominant (Uttara Pada Pradhanah Tatpurushah) and the relation between the two words is defined by a case ending (Vibhakti). 'Gaurava Gatha' means 'Tale *of* Glory' (गौरव की गाथा). The relation 'of' signifies the Genitive case (Shashti Vibhakti), hence it is a Shashti Tatpurusha Samasa, with the dissolution 'Gauravasya Gatha'."
+  },
+  {
+    "id": 7,
+    "topic": "Sanskrit Grammar (Samasa)",
+    "question": "Which compound (samasa) is present in the word 'Vidya Hina'?",
+    "options": [
+      "Avyayibhava",
+      "Karmadharaya",
+      "Dvandva",
+      "Tatpurusha"
+    ],
+    "correct_option": 4,
+    "answer": "Tatpurusha",
+    "explanation": "The term 'Vidya Hina' means 'deprived *by* knowledge' or 'lacking knowledge' (विद्या से हीन). The relation 'by/with' corresponds to the Instrumental case (Tritiya Vibhakti). Since a case relationship governs the compound, it is a Tatpurusha Samasa (specifically Tritiya Tatpurusha)."
+  }
+]
+```
+
+========== CHUNK 11 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Sanskrit Grammar - Tatpuruṣa Samas",
+    "question": "Which of the following correctly analyzes the compound word derived from the meaning 'filtered by cloth' (Vastra se chana hua)?",
+    "options": [
+      "Vastrāṇi Pūtam - Chaturthī Tatpuruṣa Samas (Filtered for cloth)",
+      "Vastram Cha Pūtam - Dvandva Samas (Cloth and filtered object)",
+      "Vastreṇa Pūtam - Tṛtīyā Tatpuruṣa Samas (Filtered by cloth)",
+      "Vastre Pūtam - Saptamī Tatpuruṣa Samas (Filtered in cloth)"
+    ],
+    "correct_option": 3,
+    "answer": "Vastreṇa Pūtam - Tṛtīyā Tatpuruṣa Samas (Filtered by cloth)",
+    "explanation": "The phrase 'Vastra se chana hua' (filtered by cloth) requires the instrumental case (Tṛtīyā Vibhakti) to denote the means of filtering. Therefore, the analysis is 'Vastreṇa Pūtam', forming a Tṛtīyā Tatpuruṣa Samas."
+  },
+  {
+    "id": 2,
+    "topic": "Sanskrit Grammar - Tatpuruṣa Samas",
+    "question": "Identify the correct compound analysis (Vigraha) and Samas name for the word Tṛṣārta (तृषार्ता), meaning 'distressed by thirst'.",
+    "options": [
+      "Tṛṣāyai Ārtā - Chaturthī Tatpuruṣa Samas (Distressed for thirst)",
+      "Tṛṣāyā Ārtā - Pañcamī Tatpuruṣa Samas (Distressed separated from thirst)",
+      "Tṛṣā Ārtā Yasyā Sā - Bahuvrīhi Samas (She whose distress is thirst)",
+      "Tṛṣayā Ārtaḥ - Tṛtīyā Tatpuruṣa Samas (Distressed by thirst)"
+    ],
+    "correct_option": 4,
+    "answer": "Tṛṣayā Ārtaḥ - Tṛtīyā Tatpuruṣa Samas (Distressed by thirst)",
+    "explanation": "Tṛṣārta means 'distressed by thirst'. Since the distress is caused by (or associated with) thirst, the Instrumental case (Tṛtīyā Vibhakti) is used, making it 'Tṛṣayā Ārtaḥ' (distressed by thirst), which is a Tṛtīyā Tatpuruṣa Samas."
+  },
+  {
+    "id": 3,
+    "topic": "Sanskrit Grammar - Dvandva Samas",
+    "question": "Identify the correct Samas analysis and name for the compound word Candra-candana-yoḥ (चन्द्रचन्दनयोः), meaning 'of the Moon and Sandalwood'.",
+    "options": [
+      "Candranandanayoḥ Bhāvā - Ṣaṣṭhī Tatpuruṣa",
+      "Candrāya Cha Cadanāya Cha Pradhānam - Chaturthī Tatpuruṣa",
+      "Candrasya Chandanasya Tayo Tulanā - Dvandva Tatpuruṣa",
+      "Candras Cha Chandanas Cha Tayo Samāhāra - Itaretara Dvandva Samas"
+    ],
+    "correct_option": 4,
+    "answer": "Candras Cha Chandanas Cha Tayo Samāhāra - Itaretara Dvandva Samas",
+    "explanation": "Candra-candana-yoḥ denotes the combination of two distinct entities, the Moon and Sandalwood, where both are equally prominent. This indicates an Itaretara Dvandva Samas (Coordinative Compound), where the analysis is 'Candras cha Chandanas cha'."
+  },
+  {
+    "id": 4,
+    "topic": "Language Pedagogy - Reading Approaches",
+    "question": "Yadā Eka Ārambhika Pāṭhakaḥ... When a beginning reader uses their general knowledge about the cultural aspects of the text subject to understand the purpose (Abhiprāyam) of a specific textual item, what is this approach called?",
+    "options": [
+      "Adho-Ūrdhva Upāgama (Bottom-Up Approach)",
+      "Top-Bottom Down Approach",
+      "Ūrdhvā-Adhogāmī Upāgama (Top-Down Approach)",
+      "Top-Up Approach"
+    ],
+    "correct_option": 3,
+    "answer": "Ūrdhvā-Adhogāmī Upāgama (Top-Down Approach)",
+    "explanation": "The use of general knowledge, cultural context, and subject matter understanding (the 'big picture' or complex aspects) to interpret the text indicates movement from top (concept/meaning) to bottom (details/words). This is the Top-Down Approach (Ūrdhvā-Adhogāmī Upāgama)."
+  },
+  {
+    "id": 5,
+    "topic": "Language Pedagogy - Reading Approaches",
+    "question": "Aparna, a fifth-grade student, knows that sound, word, and sentence specific units are necessary for understanding meaning. Which strategy does she adopt for listening comprehension (Śravaṇa Adhigama Hetu) when proceeding through Dhvani (Sound) $\rightarrow$ Pada (Word) $\rightarrow$ Vākya (Sentence) stages?",
+    "options": [
+      "Ubhava Adhogāmī Uparagāmī Upāgama (Both Bottom-Up and Top-Down)",
+      "Nā Khalu Adhogāmī Na Uparagāmī (Neither Bottom-Up nor Top-Down)",
+      "Adhogāmī Upāgama (Top-Down Approach)",
+      "Uparagāmī Upāgama (Bottom-Up Approach)"
+    ],
+    "correct_option": 4,
+    "answer": "Uparagāmī Upāgama (Bottom-Up Approach)",
+    "explanation": "Starting the comprehension process from the smallest units like sound (Dhvani), progressing to words (Pada), and then sentences (Vākya) before reaching the overall meaning is characteristic of moving from the bottom (basic units) to the top (meaning/comprehension). This is the Bottom-Up Approach (Uparagāmī Upāgama, also known as Adho-Ūrdhvagāmī)."
+  },
+  {
+    "id": 6,
+    "topic": "Language Pedagogy - Reading Approaches",
+    "question": "Which teaching method starts instruction from the basic elements of reading, such as letters (Akṣarebhyaḥ) and phonemes (Dhvani grāmeṣu), proceeding towards the overall text (Samagra Pāṭha), thereby emphasizing the gradual synthesis of smaller units into larger meaningful units?",
+    "options": [
+      "Structural Method (Sanracanātmak Padhdhati)",
+      "Ūrdhvā Adha Padhdhati (Top-Down Method)",
+      "Adho Ūrdhvā Padhdhati (Bottom-Up Method)",
+      "Holistic Language Method (Samagra Bhāṣā Padhdhati)"
+    ],
+    "correct_option": 3,
+    "answer": "Adho Ūrdhvā Padhdhati (Bottom-Up Method)",
+    "explanation": "Starting instruction from small, discrete units like letters (Akṣara) and phonemes (Dhvani grāmeṣu) and building up to the comprehensive text (Samagra Pāṭha) is the definition of the Bottom-Up Approach (Adho Ūrdhvā Padhdhati)."
+  },
+  {
+    "id": 7,
+    "topic": "Language Pedagogy - Learning Support (Scaffolding)",
+    "question": "A pre-primary school student is familiar with language and letters/sounds but experiences difficulty reading small words. The teacher assists the student in reading these words. Which teaching method is the teacher using?",
+    "options": [
+      "Rote Memorization (Kaṇṭhasthīkaraṇam)",
+      "Hand Holding (Hasta Grahaṇam)",
+      "Peer Teaching (Sahapāṭhī Śikṣaṇam)",
+      "Scaffolding (Sopānīkaraṇam)"
+    ],
+    "correct_option": 4,
+    "answer": "Scaffolding (Sopānīkaraṇam)",
+    "explanation": "Scaffolding (Sopānīkaraṇam) refers to the temporary support or assistance provided by a teacher or more knowledgeable peer to help a learner master a task they are currently unable to complete independently. Since the teacher is helping the student overcome a temporary difficulty in reading small words, this aligns with the concept of scaffolding (pāḍ or machān)."
+  }
+]
+```
+
+========== CHUNK 11 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Sanskrit Grammar (Samas)",
+    "question": "Identify the correct Vigraha (dissolution) and Samas (compound) for the phrase 'वस्त्रेण पूतम' (Vastrena Pootam), which means 'filtered through cloth'.",
+    "options": [
+      "वस्त्राण पूतान यश्च समास (Vastraani Pootaan Yascha Samasa)",
+      "वस्त्राएय पूतम चतुर्थी तत्पुरुष समास (Vastraaya Pootam Chaturthi Tatpurusha Samasa)",
+      "वस्त्रम चा पूतम द्वंद समास (Vastram Cha Pootam Dvandva Samasa)",
+      "वस्त्रेण पूतम तृतीया तत्पुरुष समास (Vastrena Pootam Tritiya Tatpurusha Samasa)"
+    ],
+    "correct_option": 4,
+    "answer": "वस्त्रेण पूतम तृतीया तत्पुरुष समास",
+    "explanation": "The phrase 'वस्त्रेण पूतम' means 'filtered by means of the cloth.' The usage of the instrumental case (तृतीय विभक्ति, ending in -ena/ -en) indicates the means or instrument used, which is characteristic of the Tritiya Tatpurusha Samasa. Options 1 and 2 (Chaturthi Tatpurusha) suggest 'for the cloth,' and Option 3 (Dvandva Samasa) suggests 'cloth and filtered thing,' which do not fit the meaning."
+  },
+  {
+    "id": 2,
+    "topic": "Sanskrit Grammar (Samas)",
+    "question": "Analyze the word 'तृषार्ता' (Trisharta) and identify the correct dissolution (Vigraha) and compound name (Samas).",
+    "options": [
+      "तृषाया आर्ता (Trishaya Aarta) - चतुर्थी तत्पुरुष समास (Chaturthi Tatpurusha Samasa)",
+      "तृष्या यात्रिश्या आर्ता ये सा तृषार्ता (Trishya Yaatrishya Aarta Ye Sa Trisharta) - बहुव्रीहि समास (Bahuvrihi Samasa)",
+      "तृषाया आर्ता (Trishaya Aarta) - अपादान तत्पुरुष समास (Apadana Tatpurusha Samasa)",
+      "तृष्या अर्थतः (Trishya Artatah) - तृतीया तत्पुरुष समास (Tritiya Tatpurusha Samasa)"
+    ],
+    "correct_option": 4,
+    "answer": "तृष्या अर्थतः - तृतीया तत्पुरुष समास",
+    "explanation": "The word 'तृषार्ता' (Trisharta) means 'afflicted or distressed by thirst' (प्यास से व्याकुल). When something is afflicted or characterized by a certain state (like thirst), the instrumental case (तृतीय विभक्ति) is used. The correct dissolution is 'तृष्या अर्थतः' leading to Tritiya Tatpurusha Samasa, signifying affliction 'by means of' thirst."
+  },
+  {
+    "id": 3,
+    "topic": "Language Pedagogy (Reading Approaches)",
+    "question": "When a beginning reader uses their general knowledge about the subject matter and the cultural context of the text to understand the overall meaning, what is this approach called?",
+    "options": [
+      "Bottom-Up Approach (अधोगामी उपागम)",
+      "Top-Down Approach (ऊर्ध्वा अधोगामी उपागम)",
+      "Interactive Approach (परस्पर क्रियात्मक उपागम)",
+      "Structural Approach (संरचनात्मक पद्धति)"
+    ],
+    "correct_option": 2,
+    "answer": "Top-Down Approach (ऊर्ध्वा अधोगामी उपागम)",
+    "explanation": "The Top-Down approach (ऊर्ध्वा अधोगामी उपागम) begins with the larger context—meaning, general knowledge (स्वसामान्य ज्ञान), and cultural aspects—and then moves down to the specific linguistic elements (words, sounds) only when necessary. This contrasts with the Bottom-Up approach, which starts with small units like phonemes and builds up to meaning."
+  },
+  {
+    "id": 4,
+    "topic": "Language Pedagogy (Reading Approaches)",
+    "question": "A fifth-grade student, Aparna, knows that characters (वर्ण) are organized within sounds (ध्वनि), words (पद), and sentences (वाक्य), and she uses this knowledge to acquire listening comprehension. Which learning strategy is she adopting?",
+    "options": [
+      "Interactive Approach (उभव अधोगामी उपरगामी उपागम)",
+      "Neither Bottom-Up nor Top-Down Approach (ना खलु अधोगामी और ना उपपरगामी)",
+      "Top-Down Approach (अधोगामी उपागम)",
+      "Bottom-Up Approach (उपरगामी उपागम)"
+    ],
+    "correct_option": 4,
+    "answer": "Bottom-Up Approach (उपरगामी उपागम)",
+    "explanation": "The student is focusing on the hierarchical structure starting from the smallest units (sounds/phonemes) and progressing through words and sentences to construct meaning. This movement from component parts (ध्वनि, पद) to the whole (वाक्य, अर्थ) is the fundamental definition of the Bottom-Up or Ascending Approach (उपरगामी उपागम)."
+  },
+  {
+    "id": 5,
+    "topic": "Language Pedagogy (Reading Approaches)",
+    "question": "Identify the teaching method where reading commences from fundamental elements like letters (अक्षरेभ्या) and phonemes (ध्वनि ग्रामेश), enabling the use of phonemes in words before the overall text (समग्र पाठ).",
+    "options": [
+      "Structural Approach (संरचनात्मक पद्धति)",
+      "Top-Down Approach (ऊर्ध्वाधा पद्धति)",
+      "Bottom-Up Approach (आधा उर्ध्वा पद्धति)",
+      "Whole Language Approach (समग्र भाषा पद्धति)"
+    ],
+    "correct_option": 3,
+    "answer": "Bottom-Up Approach (आधा उर्ध्वा पद्धति)",
+    "explanation": "This method explicitly defines the progression from the smallest units (letters, phonemes/ध्वनि ग्रामेश) upwards toward the comprehensive text (समग्र पाठ). Starting from the foundational linguistic units and building comprehension step-by-step is the characteristic of the Bottom-Up Approach (आधा उर्ध्वा पद्धति)."
+  },
+  {
+    "id": 6,
+    "topic": "Language Pedagogy (Scaffolding)",
+    "question": "A pre-school student is familiar with language, letters, and sounds, but struggles to read small words. The teacher assists her in reading these words temporarily. Which teaching technique is the teacher utilizing?",
+    "options": [
+      "Rote Memorization (कंठस्थीकरण)",
+      "Hand Holding (हस्त ग्रहणम)",
+      "Peer Teaching (सहपाठी शिक्षण)",
+      "Scaffolding (सोपानीकरण)"
+    ],
+    "correct_option": 4,
+    "answer": "Scaffolding (सोपानीकरण)",
+    "explanation": "Scaffolding (सोपानीकरण/पाड़) refers to providing temporary support (assistance for 'कुछ समय के लिए') to a learner who is otherwise capable but is facing a temporary obstacle or difficulty. The teacher's help in reading the specific struggling words is a classic example of Scaffolding, allowing the child to eventually perform the task independently."
+  }
+]
+```
+
+========== CHUNK 12 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Assessment - Portfolio",
+    "question": "A continuous record of learning activities performed by students, along with examples, is maintained. What is this type of continuous documentation called?",
+    "options": [
+      "Proficiency Assessment",
+      "Diagnostic Test",
+      "Continuous Comprehension Assessment",
+      "Portfolio (Pattradhan)"
+    ],
+    "correct_option": 4,
+    "answer": "Portfolio (Pattradhan)",
+    "explanation": "Pattradhan (Portfolio) is a structured collection of a student's work over time, providing a continuous record of their learning, including examples, which is used for ongoing evaluation."
+  },
+  {
+    "id": 2,
+    "topic": "Assessment - Portfolio Example",
+    "question": "A Class VIII teacher collects detailed records of students' learning throughout the year, observing each student session by session, to compile a comprehensive report for evaluation. What is this evaluation method called?",
+    "options": [
+      "Traditional Assessment (Paramparāpādi Mūlyānkana)",
+      "Purposeful Assessment (Uddeśyapūrṇa Mūlyānkana)",
+      "Continuous Assessment (Satat Mūlyānkana)",
+      "Portfolio Assessment (Pattradhan Portfolio)"
+    ],
+    "correct_option": 4,
+    "answer": "Portfolio Assessment (Pattradhan Portfolio)",
+    "explanation": "Collecting and compiling detailed, session-by-session records of a student's performance, behavior, and progress across the entire academic year points directly to Portfolio Assessment."
+  },
+  {
+    "id": 3,
+    "topic": "Formative Assessment (Rachanātmaka Mūlyānkana)",
+    "question": "What is the nature of Formative Assessment (Rachanātmaka Mūlyānkana)?",
+    "options": [
+      "Unchangeable/Irreversible",
+      "Relates to the teaching-learning process",
+      "Related to continuous development and progress",
+      "Related to the implementation of pre-determined or special stages"
+    ],
+    "correct_option": 3,
+    "answer": "Related to continuous development and progress",
+    "explanation": "Formative assessment is characterized by its continuous nature ('nirantar') and its focus on promoting the development and progress of the student throughout the session."
+  },
+  {
+    "id": 4,
+    "topic": "Summative vs Formative Assessment",
+    "question": "Which of the following is NOT an example of Formative Assessment?",
+    "options": [
+      "Incorporation of some other tasks during a comprehensive written exam.",
+      "Assessment methods throughout the entire session, starting from small tests and including peer review.",
+      "Organizing oral and written exams sequentially throughout the entire session, including role-playing, etc.",
+      "A single term-end examination at the end of the session (Sattrāntē ēka satra parīkṣā ādi)."
+    ],
+    "correct_option": 4,
+    "answer": "A single term-end examination at the end of the session (Sattrāntē ēka satra parīkṣā ādi).",
+    "explanation": "An examination conducted only at the end of the session (sattrāntē) is characteristic of Summative Assessment (Yōgātmaka), not Formative Assessment."
+  },
+  {
+    "id": 5,
+    "topic": "Formative vs Summative Assessment Comparison",
+    "question": "Which statement is TRUE regarding the two main types of assessment (Formative and Summative)?",
+    "options": [
+      "Formative assessment is continuously performed throughout the entire learning process (Adhigamasya sampūrṇa avasthā nirantaram kriyatē).",
+      "Summative assessment is done before and after the learning stage.",
+      "Formative assessment is mainly focused on the form of learning.",
+      "Summative assessment summarizes all aspects of evaluation throughout the entire academic year."
+    ],
+    "correct_option": 1,
+    "answer": "Formative assessment is continuously performed throughout the entire learning process (Adhigamasya sampūrṇa avasthā nirantaram kriyatē).",
+    "explanation": "The defining feature of Formative Assessment (Rachanātmaka Ākalanam) is its continuous implementation throughout the learning process."
+  },
+  {
+    "id": 6,
+    "topic": "Sanskrit Pratyaya (Suffix) - Tavyat",
+    "question": "Which suffix (Pratyaya) is present in the word 'Hātavyā' (हा तव्या)?",
+    "options": [
+      "Shatri Pratyaya",
+      "Tavatu Pratyaya",
+      "Tavyat Pratyaya",
+      "Ktva Pratyaya"
+    ],
+    "correct_option": 3,
+    "answer": "Tavyat Pratyaya",
+    "explanation": "The 'tavya' ending indicates the use of the Tavyat (तव्यत्) Pratyaya, which denotes the sense of 'should' or 'ought to be done'."
+  },
+  {
+    "id": 7,
+    "topic": "Sanskrit Pratyaya (Suffix) - Kta",
+    "question": "How is the word 'Samāyātā' (समायाता) derived?",
+    "options": [
+      "Sam (सम) [Prefix] + Ā (आ) [Prefix] + Yā (या) [Dhatu] + Kta (क्त) [Pratyaya]",
+      "Samā (समा) [Prefix] + Yā (या) [Dhatu] + Su (सु) [Pratyaya]",
+      "Sam + Āgama (सपागमा) [Dhatu] + Kta (क्त) [Pratyaya]",
+      "Sam + Āy (आय) [Dhatu] + Ktvā (त्वा) [Pratyaya]"
+    ],
+    "correct_option": 1,
+    "answer": "Sam (सम) [Prefix] + Ā (आ) [Prefix] + Yā (या) [Dhatu] + Kta (क्त) [Pratyaya]",
+    "explanation": "The word is formed by the two prefixes (Sam and Ā), the root Yā, and the Kta Pratyaya, which results in the past passive participle form."
+  },
+  {
+    "id": 8,
+    "topic": "Sanskrit Pratyaya (Suffix) - Ktatavatu",
+    "question": "Which suffix (Pratyaya) is present in the word 'Upadiṣṭavān' (उपदिष्टवान)?",
+    "options": [
+      "Ktvatī (form of Ktatavatu)",
+      "Tavya Pratyaya",
+      "Ktatavatu (तवतु) Pratyaya",
+      "Kta Pratyaya"
+    ],
+    "correct_option": 3,
+    "answer": "Ktatavatu (तवतु) Pratyaya",
+    "explanation": "The ending 'tvān' (तवान्) is the masculine singular form derived from the Ktatavatu Pratyaya (तवतु), denoting an agent in the past tense ('one who has done')."
+  },
+  {
+    "id": 9,
+    "topic": "Sanskrit Pratyaya (Suffix) - Tumun",
+    "question": "How is the word 'Bhakṣitum' (भक्षितुम्) derived?",
+    "options": [
+      "Bhakṣ (भक्ष) [Dhatu] + Tumun (तुमुन्) [Pratyaya]",
+      "Bhakṣ (भक्ष) [Dhatu] + Kta (क्त) [Pratyaya]",
+      "Bhakṣ (भक्ष) [Dhatu] + Ktvā (त्वा) [Pratyaya]",
+      "Bhakṣ (भक्ष) [Dhatu] + Tavyat (तव्यत्) [Pratyaya]"
+    ],
+    "correct_option": 1,
+    "answer": "Bhakṣ (भक्ष) [Dhatu] + Tumun (तुमुन्) [Pratyaya]",
+    "explanation": "The 'tum' ending indicates the use of the Tumun Pratyaya, meaning 'in order to' or 'to'."
+  },
+  {
+    "id": 10,
+    "topic": "Sanskrit Pratyaya (Suffix) - Shatri",
+    "question": "Which suffix (Pratyaya) is present in the word 'Paryatan' (पर्यटन्)?",
+    "options": [
+      "Sānac Pratyaya",
+      "Vunap Pratyaya",
+      "An Pratyaya",
+      "Shatri Pratyaya"
+    ],
+    "correct_option": 4,
+    "answer": "Shatri Pratyaya",
+    "explanation": "The Shatri Pratyaya (क्षत्रिय) is used for 'Parasmaipada' roots in the present tense and results in an 'at' or 'an' ending. Although it appears as 'an' in the masculine form (Paryaṭan), it is derived from Shatri."
+  },
+  {
+    "id": 11,
+    "topic": "Sanskrit Pratyaya (Suffix) - Sānac",
+    "question": "Which Dhatu (Root) and Pratyaya (Suffix) combination is used in the word 'Modamānā' (मोदमाना)?",
+    "options": [
+      "Mud (मुद्) Dhātu + Tumun (तुमुन्) Pratyaya",
+      "Mud (मुद्) Dhātu + Shatri (शत्री) Pratyaya",
+      "Mud (मुद्) Dhātu + Kāmach Pratyaya",
+      "Mud (मुद्) Dhātu + Sānac (सानच) Pratyaya"
+    ],
+    "correct_option": 4,
+    "answer": "Mud (मुद्) Dhātu + Sānac (सानच) Pratyaya",
+    "explanation": "The 'māna' ending is characteristic of the Sānac Pratyaya (सानच), which is used with Ātmanepada roots (like Mud) in the present participle form."
+  },
+  {
+    "id": 12,
+    "topic": "Sanskrit Pratyaya (Suffix) - Ghañ",
+    "question": "Which Dhatu (Root) and Pratyaya (Suffix) combination is used in the word 'Yogāḥ' (योगाः)?",
+    "options": [
+      "Yuj (युज्) Dhātu + Ghañ (घ) Pratyaya",
+      "Yuj (युज्) Dhātu + Aṇ (अण) Pratyaya",
+      "Yuj (युज्) Dhātu + Gha (घ) Pratyaya",
+      "Yug (युग) Dhātu + Ac (अच्) Pratyaya"
+    ],
+    "correct_option": 1,
+    "answer": "Yuj (युज्) Dhātu + Ghañ (घ) Pratyaya",
+    "explanation": "The Ghañ Pratyaya (घञ्) typically results in a noun ending in 'ā' in the masculine gender, often involving *vṛddhi* (strengthening) of the root vowel (Yuj -> Yoga). The correct derivation is Yuj Dhātu + Ghañ Pratyaya."
+  },
+  {
+    "id": 13,
+    "topic": "Sanskrit Pratyaya (Suffix) - Ktvā",
+    "question": "Which suffix (Pratyaya) is present in the word 'Labdhvā' (लब्ध्वा)?",
+    "options": [
+      "Ktvā (त्वा) Pratyaya",
+      "Tumun (तुमुन्) Pratyaya",
+      "Shatri (शत्रि) Pratyaya",
+      "Sānac (सानच) Pratyaya"
+    ],
+    "correct_option": 1,
+    "answer": "Ktvā (त्वा) Pratyaya",
+    "explanation": "While the form 'dhvā' appears due to sandhi (change of 't' to 'dh' before a voiced consonant), the underlying suffix is Ktvā (त्वा), which denotes completion of an action before another action takes place."
+  },
+  {
+    "id": 14,
+    "topic": "Sanskrit Pratyaya (Suffix) - Lyap",
+    "question": "Which combination of prefix (Upasarga), Dhātu (Root), and Pratyaya (Suffix) is used in the word 'Nirākṛtya' (निराकृत्य)?",
+    "options": [
+      "Nir (निर) [Prefix] + Kṛ (कृ) [Dhatu] + Lyap (ल्यप्) [Pratyaya]",
+      "Ni (नि) [Prefix] + Kṛ (कृ) [Dhatu] + Ktvā (त्वा) [Pratyaya]",
+      "Nir (निर) [Prefix] + Kṛ (कृ) [Dhatu] + Tumun (तुमुन्) [Pratyaya]",
+      "Ni (नि) [Prefix] + Kṛ (कृ) [Dhatu] + Ṅīp (ङीप्) [Pratyaya]"
+    ],
+    "correct_option": 1,
+    "answer": "Nir (निर) [Prefix] + Kṛ (कृ) [Dhatu] + Lyap (ल्यप्) [Pratyaya]",
+    "explanation": "The Lyap Pratyaya (ल्यप्) is used instead of Ktvā when the verb root is preceded by an Upasarga (prefix). The ending 'ya' (य) combined with the prefix Nir and the root Kr forms Nirākṛtya."
+  }
+]
+```
+
+========== CHUNK 13 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Sanskrit Grammar (Pratyaya)",
+    "question": "Which suffix (Pratyaya) is generally used to form the noun 'विकृति' (Vikṛti) in Sanskrit?",
+    "options": [
+      "Tabatu (तवत्)",
+      "Kta (त)",
+      "Shatri (शतृ)",
+      "Tin (क्तिन्)"
+    ],
+    "correct_option": 4,
+    "answer": "Tin (क्तिन्)",
+    "explanation": "The word 'विकृति' ends with the sound 'ti' (ति). In Sanskrit grammar, the suffix 'Tin' (क्तिन्) is used to form feminine nouns, and its remainder is 'ti' (ति). Other options like Tabatu (तवत), Kta (त), and Shatri (शतृ/अत्) leave different remainders."
+  },
+  {
+    "id": 2,
+    "topic": "Bilingualism and Language Loss",
+    "question": "Chetan's first language is Bhojpuri. After moving to Tamil Nadu, he starts using English because it is the language spoken by his peers. Over time, his fluency in Bhojpuri naturally decreases. This phenomenon is an example of which of the following concepts?",
+    "options": [
+      "Code-Switching",
+      "Bilingualism",
+      "Code-Mixing",
+      "Diminished Bilingualism (न्यूनीकरणी द्विभाषिता)"
+    ],
+    "correct_option": 4,
+    "answer": "Diminished Bilingualism (न्यूनीकरणी द्विभाषिता)",
+    "explanation": "Diminished Bilingualism occurs when an individual knows two languages but, due to a change in environment or lack of practice, experiences a decline or reduction in proficiency in one of those languages, often the mother tongue, while the other language (the socially dominant one) becomes more prominent."
+  },
+  {
+    "id": 3,
+    "topic": "Language Teaching Methods",
+    "question": "A teacher provides students with ideal sentences (Adarsha Vākya) and instructs them to pronounce them repeatedly. The students memorize these sentences (Kaṇṭhastham Kurvanti) and practice them properly. The teacher encourages this repetitive practice. Which method is the teacher employing?",
+    "options": [
+      "Structural Approach (संरचनात्मक उपागम)",
+      "Audio-lingual Method (श्रव्य भाषिक विधि)",
+      "Communicative Approach (संप्रेषणात्मक)",
+      "Total Physical Response (समग्र भौतिक प्रक्रिया)"
+    ],
+    "correct_option": 2,
+    "answer": "Audio-lingual Method (श्रव्य भाषिक विधि)",
+    "explanation": "The Audio-lingual Method (ALM) relies heavily on listening, repetition, memorization, and pattern practice (drills). The focus is on ideal model sentences and rote learning (Kaṇṭhastham), fitting the description perfectly. The Structural Approach focuses on teaching language structures in sequence, while the Communicative Approach focuses on meaningful interaction."
+  },
+  {
+    "id": 4,
+    "topic": "Reading and Writing Skills",
+    "question": "A 7th-grade teacher organizes a pair-work activity. A 10-sentence story is provided. In the pair, one student reads the first sentence, and the other writes it down. They then switch roles for the second sentence, continuing until the story is complete. Finally, they compare their written text with the original. This activity is called:",
+    "options": [
+      "Reciprocal Dictation (पारस्परिक श्रुतलेख)",
+      "Reciprocal Writing (पारस्परिक लेखनम)",
+      "Reciprocal Listening (पारस्परिक श्रवण)",
+      "Sentence Dictation (वाक्य श्रुतलेख)"
+    ],
+    "correct_option": 1,
+    "answer": "Reciprocal Dictation (पारस्परिक श्रुतलेख)",
+    "explanation": "This is a classic example of Reciprocal Dictation (or Paired Dictation). The activity involves both listening (Śrut) and writing (Lekhan) in a pair (Pārasparik) where both students alternate between the roles of speaker and writer."
+  },
+  {
+    "id": 5,
+    "topic": "Literacy Promotion Techniques",
+    "question": "To promote early literacy, an adult (Proḍha Jana) and a child look at a book together. Initially, the adult asks questions and initiates a conversation. Later, they switch roles, and the child starts asking questions to the adult. This method is called:",
+    "options": [
+      "Story Listening (कथा श्रवण)",
+      "Model Reading (आदर्श पठन)",
+      "Collaborative Reading (सह पठन)",
+      "Conversational Reading (वार्तालापीय पठन)"
+    ],
+    "correct_option": 4,
+    "answer": "Conversational Reading (वार्तालापीय पठन)",
+    "explanation": "This method, often known as Dialogic Reading, involves conversational interaction (Vārtālāp) while reading, where the roles of questioner and answerer are exchanged between the child and the adult to enhance comprehension and engagement."
+  },
+  {
+    "id": 6,
+    "topic": "Literacy Promotion Techniques",
+    "question": "A grandmother (Mātāmahī) enjoys telling stories from books to children at home, which encourages them to read books and absorb new ideas. This process actively involves the children. What is this method called?",
+    "options": [
+      "Loud Reading (उच्च पठन)",
+      "Model Reading (प्रतिमान पठन)",
+      "Collaborative Reading (सह पठन)",
+      "Conversational Reading (वार्तालापीय पठन)"
+    ],
+    "correct_option": 4,
+    "answer": "Conversational Reading (वार्तालापीय पठन)",
+    "explanation": "When an adult (grandmother) narrates a story and uses it to discuss new ideas, inspiring children to read and engage actively, this ongoing verbal interaction is considered Conversational Reading or Dialogic Reading, aiming to build literacy through dialogue."
+  },
+  {
+    "id": 7,
+    "topic": "Grammar Teaching Methods",
+    "question": "The Deductive Approach (Nigmanātmaka Upāgama) to teaching grammar supports the notion that:",
+    "options": [
+      "Appropriate communication should be performed first.",
+      "Continuous repetition and practice should be done.",
+      "Examples should be presented first.",
+      "Rules should be presented first (नियमा प्रस्ततवभव्यानि)."
+    ],
+    "correct_option": 4,
+    "answer": "Rules should be presented first (नियमा प्रस्ततवभव्यानि).",
+    "explanation": "The Deductive method (Nigmanātmaka) moves from the general rule (Niyam) to the specific example (Udāharaṇ). Therefore, in this approach, rules or formulas are presented to the students before they see or practice the examples."
+  },
+  {
+    "id": 8,
+    "topic": "Grammar Teaching Methods",
+    "question": "Which grammatical concept reinforces the belief that language teaching is essentially rule teaching (Niyam Śikṣaṇam)?",
+    "options": [
+      "Translation-based Grammar (व्याकरण अनुवादात्मिका)",
+      "Deductive Method (निगमनात्मिका)",
+      "Inductive Method (आगमनात्मिका)",
+      "Communicative Approach (संप्रेषणात्मका)"
+    ],
+    "correct_option": 2,
+    "answer": "Deductive Method (निगमनात्मिका)",
+    "explanation": "The Deductive Method (Nigmanātmaka) is fundamentally rule-driven. It operates on the principle that mastery of rules (Sūtras) leads to mastery of the language, thus equating language instruction with rule instruction."
+  },
+  {
+    "id": 9,
+    "topic": "Grammar Teaching Methods",
+    "question": "What is the primary advantage (Lābha) of the Inductive Method (Āgamanātmak Paddhati) in the context of language teaching?",
+    "options": [
+      "Classroom discipline is maintained.",
+      "Students can read more content in a short time.",
+      "Students do not require homework.",
+      "Students do not engage in rote memorization (रटनाभ्यास)."
+    ],
+    "correct_option": 4,
+    "answer": "Students do not engage in rote memorization (रटनाभ्यास).",
+    "explanation": "The Inductive Method proceeds from specific examples (Udāharaṇ) to general rules (Niyam). Since students are actively involved in observing patterns and formulating the rule themselves rather than just memorizing a rule provided by the teacher, this method discourages rote learning and encourages understanding."
+  },
+  {
+    "id": 10,
+    "topic": "Writing Process",
+    "question": "A fifth-grade student says, 'I check my own work thoroughly one last time for revision before submitting it to the teacher.' This stage of the student’s writing process is called:",
+    "options": [
+      "Collaborative Assessment (सहयोगी मूल्यांकन)",
+      "Drafting (प्रारूप निर्माण)",
+      "Redrafting (पुनः प्रारूप निर्माण)",
+      "Proofreading (टंकण शोधन)"
+    ],
+    "correct_option": 4,
+    "answer": "Proofreading (टंकण शोधन)",
+    "explanation": "Checking the work 'one last time' (अंतिम रूपेण पश्यामि) specifically for correction of errors, typos, or printing mistakes (Muḍraṇ Dosh) before submission is defined as Proofreading (Ṭankaṇ Śodhana), which is the final editorial step in the writing process."
+  },
+  {
+    "id": 11,
+    "topic": "Teaching Techniques",
+    "question": "In a language class, a teacher instructs a group of students to act out the roles of a buyer (Kretā), a land seller (Bhū-Sampatti Vikretā), and residents (Adhivāsi). Other students are told to watch them and enjoy their conversation. This activity is called:",
+    "options": [
+      "Acting Class (अभिनय कक्षा)",
+      "Classroom Instruction (निर्देशनम)",
+      "Role Play (भूमिका निर्वहणम)",
+      "Drama (नाटकम)"
+    ],
+    "correct_option": 3,
+    "answer": "Role Play (भूमिका निर्वहणम)",
+    "explanation": "Role Play (Bhūmikā Nirvahanam) is a technique where students take on specific characters (buyer, seller, resident) and act out a specific scenario, focusing on practicing functional language and interaction. While related to drama, it is classified pedagogically as a 'role-play' activity."
+  }
+]
+```
+
+========== CHUNK 14 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Teaching Methods / Language Pedagogy",
+    "question": "If a student is instructed to enact the role of a 'group buyer' (Samuh Kreta Rup) in the classroom, which educational approach or method is primarily being utilized?",
+    "options": [
+      "Enactment (Abhinaya)",
+      "Direction/Guidance (Nirdeshan)",
+      "Drama (Natak)",
+      "Role Play (Bhumika Nirvah)"
+    ],
+    "correct_option": 4,
+    "answer": "Role Play (Bhumika Nirvah)",
+    "explanation": "Role Play involves assigning specific, temporary roles to students to simulate a real-life situation, helping them practice communication and negotiation skills within that defined role."
+  },
+  {
+    "id": 2,
+    "topic": "Language Pedagogy / Approach",
+    "question": "A teacher praises a student for the overall effective use of language (Samagra Bhasha Prayog) in their work, despite the student having made spelling errors (vartani ashuddhi) in some words. Which pedagogical approach is the teacher utilizing in this classroom setting?",
+    "options": [
+      "Constructive/Formative Approach (Nirmaanatmak)",
+      "Structural Approach (Sanrachanaatmak)",
+      "Communicative Approach (Sampreshanaatmak)",
+      "Holistic Language Approach (Samagra Bhasha Upagam)"
+    ],
+    "correct_option": 4,
+    "answer": "Holistic Language Approach (Samagra Bhasha Upagam)",
+    "explanation": "The Holistic Language Approach emphasizes meaning and overall communication effectiveness. The teacher focuses on the student's success in using language broadly (Samagra Bhasha Prayog) rather than prioritizing isolated mechanical errors like spelling immediately."
+  },
+  {
+    "id": 3,
+    "topic": "Textbook Material Use",
+    "question": "What is the primary purpose of including elements like Puzzles (Prahalika), Riddles (Antarlaapika), or Crosswords (Varga Prahalika) in textbooks?",
+    "options": [
+      "For the development of students' creative and critical expression.",
+      "To develop students into effective communicators.",
+      "To increase interest and enjoyment in the textbook.",
+      "To create an attractive and friendly classroom environment."
+    ],
+    "correct_option": 1,
+    "answer": "For the development of students' creative and critical expression.",
+    "explanation": "Puzzles and crosswords require learners to think creatively, analyze options, and apply knowledge critically to find solutions, thereby fostering creative and critical thinking skills."
+  },
+  {
+    "id": 4,
+    "topic": "Prose Comprehension (Gadyansh)",
+    "question": "Which of the following constructions do some benevolent men (Kechit Purusha) NOT undertake for the purpose of philanthropy (Paropkaraya), according to the passage?",
+    "options": [
+      "School (Pathshala)",
+      "Well/Reservoir (Kupa)",
+      "Jail (Karagar)",
+      "Rest House (Dharmshala)"
+    ],
+    "correct_option": 3,
+    "answer": "Jail (Karagar)",
+    "explanation": "The passage lists the construction of schools, wells, gardens, and rest houses as acts of philanthropy, but not jails."
+  },
+  {
+    "id": 5,
+    "topic": "Grammar (Pratyaya/Suffix)",
+    "question": "Identify the suffix (Pratyaya) used in the word 'Nikritya' (निकृत्य).",
+    "options": [
+      "Tavyat",
+      "Lyap",
+      "Lat",
+      "Yat"
+    ],
+    "correct_option": 2,
+    "answer": "Lyap",
+    "explanation": "The suffix Lyap (ल्यप्) is used when the verb root is preceded by a prefix (Ni- in this case) and leaves the ending 'ya' (य)."
+  },
+  {
+    "id": 6,
+    "topic": "Prose Comprehension (Gadyansh)",
+    "question": "Complete the sentence based on the passage: 'Mega paropkaraya ______ varshati.' (Clouds rain for the purpose of benevolence using ______.)",
+    "options": [
+      "Swajalam (Their own water)",
+      "Taditam (Lightning)",
+      "Sikta (Moist earth)",
+      "Jantum (Creatures)"
+    ],
+    "correct_option": 1,
+    "answer": "Swajalam (Their own water)",
+    "explanation": "The phrase directly stated in the passage is: 'Mega paropkaraya swajalam varshati.'"
+  },
+  {
+    "id": 7,
+    "topic": "Prose Comprehension (Gadyansh)",
+    "question": "Complete the sentence based on the passage: 'Samsare kechan purusha parān nignanti (kill others) ______.'",
+    "options": [
+      "Ānandāya (For joy)",
+      "Parēshavāya (For others' service)",
+      "Jan Kalyanāya (For public welfare)",
+      "Swaarthāya (For self-interest)"
+    ],
+    "correct_option": 4,
+    "answer": "Swaarthāya (For self-interest)",
+    "explanation": "The passage contrasts benevolent men with others who harm people 'for their own self-interest' (Swaarthāya)."
+  },
+  {
+    "id": 8,
+    "topic": "Prose Comprehension (Gadyansh)",
+    "question": "Which type of people (Janāh) are primarily dedicated (ratāh) to the welfare of all (Sarvajan Hite)?",
+    "options": [
+      "Teachers (Adhyapakah)",
+      "Those who are envious (Rishyāh)",
+      "Farmers (Krishikāh)",
+      "Benevolent people (Paropkārinah)"
+    ],
+    "correct_option": 4,
+    "answer": "Benevolent people (Paropkārinah)",
+    "explanation": "The overall theme of the passage focuses on the characteristics of Paropkarin (benevolent people), who are naturally dedicated to the welfare of all."
+  },
+  {
+    "id": 9,
+    "topic": "Prose Comprehension (Gadyansh)",
+    "question": "For the welfare of the Gods (Devānām Hitāya), who willingly offered their own bones (Suyāni Asthīni)?",
+    "options": [
+      "Rishikan",
+      "Valmiki",
+      "Devraj Indra",
+      "Maharshi Dadhichi"
+    ],
+    "correct_option": 4,
+    "answer": "Maharshi Dadhichi",
+    "explanation": "The passage narrates the story of Maharshi Dadhichi sacrificing his body (bones) for the benefit of the gods."
+  },
+  {
+    "id": 10,
+    "topic": "Prose Comprehension (Gadyansh)",
+    "question": "Which quality (Gunah) is not observed (Na drishyate) among all people (Sarvjaneshu), according to the context of the passage?",
+    "options": [
+      "Special Beauty (Vishesh Soundaryam)",
+      "Benevolence (Paropkar)",
+      "Gentleness (Saumyatā)",
+      "Generosity (Dānam)"
+    ],
+    "correct_option": 2,
+    "answer": "Benevolence (Paropkar)",
+    "explanation": "The passage implies that the spirit of benevolence (Paropkar) is a rare and special quality, not visible in all people."
+  },
+  {
+    "id": 11,
+    "topic": "Grammar (Pratyaya/Suffix)",
+    "question": "Identify the suffix (Pratyaya) used in the word 'Unnati' (उन्नति).",
+    "options": [
+      "Tarap",
+      "Ktin",
+      "Ach",
+      "Matup"
+    ],
+    "correct_option": 2,
+    "answer": "Ktin",
+    "explanation": "The suffix Ktin (क्तिन्) is used to form abstract feminine nouns and typically results in the ending syllable 'ti' (ति), as seen in Unnati, Gati, Mati, etc."
+  },
+  {
+    "id": 12,
+    "topic": "Verse Comprehension (Padyansh)",
+    "question": "According to the shloka, how should the possessions of others (Paridravyāni) be viewed by a person possessing righteous intellect (Dharma Buddhyā)?",
+    "options": [
+      "Like mother (Mātravat)",
+      "Like clods of earth/dust (Loshtavat)",
+      "Like oneself (Ātmavat)",
+      "Like wealth (Vittavat)"
+    ],
+    "correct_option": 2,
+    "answer": "Like clods of earth/dust (Loshtavat)",
+    "explanation": "The shloka states: 'Paridravyāni loshtavat' (possessions of others should be viewed like clods of earth), indicating detachment and lack of greed."
+  }
+]
+```
+
+========== CHUNK 15 ==========
+```json
+[
+  {
+    "id": 1,
+    "topic": "Moral Conduct (Dharma Buddhi)",
+    "question": "According to the principle of righteous wisdom (Dharma Buddhyā), how should one view the wealth of others (Paradravyāṇ)?",
+    "options": [
+      "Ātmavat (Like one's own self)",
+      "Ratnavat (Like a gem)",
+      "Amrutavat (Like nectar)",
+      "Loṣṭavat (Like a clod of earth)"
+    ],
+    "correct_option": 4,
+    "answer": "Loṣṭavat (Like a clod of earth)",
+    "explanation": "The reference suggests that one should view others' wealth with detachment, treating it as insignificant as a lump of clay or clod of earth (Loṣṭavat), indicating a non-covetous attitude."
+  },
+  {
+    "id": 2,
+    "topic": "Value of Virtues",
+    "question": "By what means are the virtues of the virtuous (Guṇinām Guṇāḥ) hidden or overshadowed?",
+    "options": [
+      "Rājñā (By the King)",
+      "Viduṣā (By the learned)",
+      "Guṇavattareṇa Pātreṇa (By a person/vessel of superior virtue)",
+      "Mūrkheṇa (By a fool)"
+    ],
+    "correct_option": 3,
+    "answer": "Guṇavattareṇa Pātreṇa (By a person/vessel of superior virtue)",
+    "explanation": "Virtues of the virtuous are overshadowed only when in the presence of someone who possesses even greater virtues. The original reference implies that a lesser virtue is hidden when contrasted with a superior one."
+  },
+  {
+    "id": 3,
+    "topic": "Power of Unity",
+    "question": "What is difficult to conquer (Durjayā Bhavati)?",
+    "options": [
+      "Bahūnām Asārāṇām Samavāyaḥ (A collection of many insignificant things)",
+      "Bahu Mūrkāṇām Samavāyaḥ (A collection of many fools)",
+      "Bahu Sārāṇām Samavāyaḥ (A collection of many essential/meaningful things)",
+      "Bahu Jñānānām Samavāyaḥ (A collection of many knowledge forms)"
+    ],
+    "correct_option": 1,
+    "answer": "Bahūnām Asārāṇām Samavāyaḥ (A collection of many insignificant things)",
+    "explanation": "The source text states: 'Bahūnām Apisārāṇām Samavāyo hi Durjayaḥ' (Even the collection of many insignificant things is difficult to conquer/overcome). This highlights the strength found in unity, even among the weak or insignificant."
+  },
+  {
+    "id": 4,
+    "topic": "Effects of Advice",
+    "question": "What does giving advice or instruction (Upadeśaḥ) to fools (Mūrkhaṇām) generate?",
+    "options": [
+      "Duḥkham (Sorrow/Pain)",
+      "Jñānam (Knowledge)",
+      "Kopam (Anger/Wrath)",
+      "Sukham (Happiness)"
+    ],
+    "correct_option": 3,
+    "answer": "Kopam (Anger/Wrath)",
+    "explanation": "The source text suggests that instruction given to a fool leads to agitation (Prakopāya), not to peace or learning (Na śāntaye)."
+  },
+  {
+    "id": 5,
+    "topic": "Renunciation and Priority",
+    "question": "For the sake of what should one abandon the Earth (Pṛthvīm Tyajet)?",
+    "options": [
+      "Viśārthe (For the sake of poison/viciousness)",
+      "Kulasya Arthe (For the sake of family/clan)",
+      "Dhanasya Arthe (For the sake of wealth)",
+      "Ātmanah Arthe (For the sake of the Self)"
+    ],
+    "correct_option": 4,
+    "answer": "Ātmanah Arthe (For the sake of the Self)",
+    "explanation": "The instruction is to prioritize spiritual liberation and the self (Ātman) over all earthly possessions and the world (Pṛthvīm)."
+  },
+  {
+    "id": 6,
+    "topic": "Integrity of the Wise",
+    "question": "Who does not eat the uneatable/forbidden (Abhakṣyam), under any circumstances (Kathamapi)?",
+    "options": [
+      "Sajjanā (A good person)",
+      "Prājñā (A wise person)",
+      "Mūrkhā (A fool)",
+      "Rājā (A king)"
+    ],
+    "correct_option": 2,
+    "answer": "Prājñā (A wise person)",
+    "explanation": "The reference states that a wise person (Prājña) maintains integrity and adherence to dharma by not eating what is forbidden (Abhakṣyam), even when their life is hanging by a thread (Prāṇaiḥ kaṇṭhagatairapi)."
+  }
+]
+```
